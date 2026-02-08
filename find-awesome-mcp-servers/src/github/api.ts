@@ -5,7 +5,7 @@ import { delay } from "../utils/delay.js";
 
 dotenv.config();
 const octokit = new Octokit({
-  auth: process.env.GITHUB_TOKEN,
+  auth: process.env.REPO_INDEX_TOKEN,
 });
 
 const DELAY_MS = 500;

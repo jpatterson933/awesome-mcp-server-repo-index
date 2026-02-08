@@ -68,7 +68,9 @@ function navBadge(page: NavPage, isActive: boolean): string {
 }
 
 export function navigationBar(currentPage: LeaderboardId): string {
-  const homeBadge = `[![Home](https://img.shields.io/badge/Home-${COLORS.allRepos}?style=${BADGE_STYLE.table}&logo=github)](./README.md)`;
+  const homeStyle =
+    currentPage === "readme" ? BADGE_STYLE.header : BADGE_STYLE.table;
+  const homeBadge = `[![Home](https://img.shields.io/badge/Home-${COLORS.allRepos}?style=${homeStyle}&logo=github)](./README.md)`;
 
   const badges = NAV_PAGES.map((page) =>
     navBadge(page, page.id === currentPage),

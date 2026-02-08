@@ -25,6 +25,7 @@ export const COLORS = {
 } as const;
 
 export type LeaderboardId =
+  | "readme"
   | "topStarred"
   | "topForked"
   | "topSubscribed"

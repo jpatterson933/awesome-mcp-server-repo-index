@@ -1,9 +1,3 @@
-<div align="center">
-
-[![Home](https://img.shields.io/badge/Home-0F172A?style=for-the-badge&logo=github)](./README.md) [![Starred](https://img.shields.io/badge/%E2%AD%90%20Starred-F5A623?style=flat-square&logo=github)](./TOP-STARRED.md) [![Forked](https://img.shields.io/badge/%F0%9F%8D%B4%20Forked-7C3AED?style=flat-square&logo=github)](./TOP-FORKED.md) [![Watched](https://img.shields.io/badge/%F0%9F%91%80%20Watched-0891B2?style=flat-square&logo=github)](./TOP-SUBSCRIBED.md) [![Issues](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Issues-DC2626?style=flat-square&logo=github)](./TOP-ISSUES.md) [![Largest](https://img.shields.io/badge/%F0%9F%92%BE%20Largest-64748B?style=flat-square&logo=github)](./TOP-LARGEST.md) [![Activity](https://img.shields.io/badge/%F0%9F%94%A5%20Activity-EA580C?style=flat-square&logo=github)](./ACTIVITY.md) [![All Repos](https://img.shields.io/badge/%F0%9F%93%8B%20All%20Repos-0F172A?style=flat-square&logo=github)](./AWESOME-MCP-REPOS.md)
-
-</div>
-
 <hr>
 
 <div align="center">
@@ -15,6 +9,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</div>
+
+<div align="center">
+
+[![Home](https://img.shields.io/badge/Home-0F172A?style=for-the-badge&logo=github)](./README.md) [![Starred](https://img.shields.io/badge/%E2%AD%90%20Starred-F5A623?style=flat-square&logo=github)](./TOP-STARRED.md) [![Forked](https://img.shields.io/badge/%F0%9F%8D%B4%20Forked-7C3AED?style=flat-square&logo=github)](./TOP-FORKED.md) [![Watched](https://img.shields.io/badge/%F0%9F%91%80%20Watched-0891B2?style=flat-square&logo=github)](./TOP-SUBSCRIBED.md) [![Issues](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20Issues-DC2626?style=flat-square&logo=github)](./TOP-ISSUES.md) [![Largest](https://img.shields.io/badge/%F0%9F%92%BE%20Largest-64748B?style=flat-square&logo=github)](./TOP-LARGEST.md) [![Activity](https://img.shields.io/badge/%F0%9F%94%A5%20Activity-EA580C?style=flat-square&logo=github)](./ACTIVITY.md) [![All Repos](https://img.shields.io/badge/%F0%9F%93%8B%20All%20Repos-0F172A?style=flat-square&logo=github)](./AWESOME-MCP-REPOS.md)
 
 </div>
 

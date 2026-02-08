@@ -1,4 +1,4 @@
-import { BADGE_STYLE, LEADERBOARD_COPY, LeaderboardId } from "./theme.js";
+import { BADGE_STYLE, COLORS, LEADERBOARD_COPY, LeaderboardId } from "./theme.js";
 
 type NavPage = {
   id: LeaderboardId;
@@ -68,7 +68,7 @@ function navBadge(page: NavPage, isActive: boolean): string {
 }
 
 export function navigationBar(currentPage: LeaderboardId): string {
-  const homeBadge = `[![Home](https://img.shields.io/badge/Home-000?style=${BADGE_STYLE.table}&logo=github)](./README.md)`;
+  const homeBadge = `[![Home](https://img.shields.io/badge/Home-${COLORS.allRepos}?style=${BADGE_STYLE.table}&logo=github)](./README.md)`;
 
   const badges = NAV_PAGES.map((page) =>
     navBadge(page, page.id === currentPage),
@@ -96,7 +96,7 @@ export function pageFooter(): string {
     "",
     '<div align="center">',
     "",
-    `[![Back to Index](https://img.shields.io/badge/←_Back_to_Index-000?style=${BADGE_STYLE.table}&logo=github)](./README.md)`,
+    `[![Back to Index](https://img.shields.io/badge/←_Back_to_Index-${COLORS.allRepos}?style=${BADGE_STYLE.table}&logo=github)](./README.md)`,
     "",
     "</div>",
   ].join("\n");

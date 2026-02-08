@@ -1,160 +1,104 @@
 import { EnrichedRepo, MetricType } from "../schema/github.js";
-import { calculateTimePeriod } from "../utils/calculateFreshness.js";
-import { distillTopRanked, formatRepoDescription } from "../utils/format.js";
 import {
-  createBadge,
-  createStatBadge,
-  githubBadge,
-  matchLicenseToBadge,
-} from "./badges.js";
+  repoLink,
+  topTenByMetric,
+  truncateDescription,
+} from "../utils/format.js";
+import { statBadge } from "./badges.js";
+import { centeredHeader, githubAlert } from "./components.js";
+import { navigationBar, pageFooter } from "./navigation.js";
+import { LEADERBOARD_COPY, LeaderboardId, MEDAL_EMOJIS } from "./theme.js";
 
-const BACK_TO_INDEX_FOOTER = [
-  "",
-  "---",
-  "",
-  "[![Back to Index](https://img.shields.io/badge/←_Back_to_Index-000?style=flat-square&logo=github)](./README.md)",
-];
-
-function headerColumnStructure(columns: string[]): {
-  colTitles: string;
-  separator: string;
-} {
-  const colTitles = columns.join(" | ");
-  const separator = columns
-    .map((col) => "-".repeat(col.length) + ":")
-    .join(" | ");
-
-  return {
-    colTitles,
-    separator,
-  };
-}
-function buildMarkdownHeader(
-  title: string,
-  description: string,
-  columns: string[],
-): string[] {
-  const { colTitles, separator } = headerColumnStructure(columns);
-  const createdAt = new Date().toISOString().split("T")[0];
-
-  return [
-    title,
-    "",
-    description,
-    "",
-    `Generated: ${createdAt}`,
-    "",
-    `| Rank | Repository | ${colTitles} |`,
-    `| ---: | ---------- | ${separator} |`,
-  ];
-}
-
-function buildMarkdownRowForBadges(
+function leaderboardTable(
   repos: EnrichedRepo[],
   stat: MetricType,
-  metric: string,
-  color: string,
-  logo?: string,
+  columnName: string,
+  badgeLabel: string,
+  badgeColor: string,
 ): string[] {
-  return repos.map((repo, index) => {
-    const repoLink = `${githubBadge}[${repo.name}](${repo.html_url})`;
-    const badge = createStatBadge(metric, repo[stat], color, logo);
-    const description = formatRepoDescription(repo.description);
-    const ranking = index + 1;
+  const header = [
+    `| Rank | Repository | ${columnName} | Description |`,
+    `| ---: | ---------- | ---: | ----------- |`,
+  ];
 
-    return `| ${ranking} | ${repoLink} | ${badge} | ${description} |`;
+  const rows = repos.map((repo, index) => {
+    const rank = index + 1;
+    const medal = MEDAL_EMOJIS[rank] ?? "";
+    const rankDisplay = medal ? `${medal} ${rank}` : `${rank}`;
+    const link = repoLink(repo);
+    const badge = statBadge(badgeLabel, repo[stat], badgeColor);
+    const description = truncateDescription(repo.description);
+
+    return `| ${rankDisplay} | ${link} | ${badge} | ${description} |`;
   });
+
+  return [...header, ...rows];
+}
+
+function generateLeaderboard(
+  repos: EnrichedRepo[],
+  leaderboardId: LeaderboardId,
+  stat: MetricType,
+  columnName: string,
+  highlightNote?: string,
+): string {
+  const copy = LEADERBOARD_COPY[leaderboardId];
+  const topRepos = topTenByMetric(repos, stat);
+  const generatedDate = new Date().toISOString().split("T")[0];
+
+  const sections = [
+    navigationBar(leaderboardId),
+    centeredHeader(copy, generatedDate),
+  ];
+
+  if (highlightNote) {
+    sections.push(githubAlert("NOTE", highlightNote));
+    sections.push("");
+  }
+
+  sections.push(
+    ...leaderboardTable(topRepos, stat, columnName, copy.icon, copy.badgeColor),
+  );
+
+  sections.push(pageFooter());
+
+  return sections.join("\n");
 }
 
 export function generateTopStarred(repos: EnrichedRepo[]): string {
-  const stat = "stargazers_count";
-  const topRepos = distillTopRanked(repos, stat);
-  const header = buildMarkdownHeader(
-    "# Top 10 Starred MCP Repositories",
-    "The most popular MCP awesome repositories by GitHub stars.",
-    ["Stars", "Description"],
+  const top = topTenByMetric(repos, "stargazers_count");
+  const topCount = top[0]?.stargazers_count.toLocaleString() ?? "0";
+  return generateLeaderboard(
+    repos,
+    "topStarred",
+    "stargazers_count",
+    "Stars",
+    `#1 has ${topCount} stars. That's more than most frameworks.`,
   );
-  const rows = buildMarkdownRowForBadges(topRepos, stat, "⭐️", "FFD700");
-
-  return [...header, ...rows, ...BACK_TO_INDEX_FOOTER].join("\n");
 }
 
 export function generateTopSubscribed(repos: EnrichedRepo[]): string {
-  const stat = "subscribers_count";
-  const topRepos = distillTopRanked(repos, stat);
-  const header = buildMarkdownHeader(
-    "# Top 10 Subscribed MCP Repositories",
-    "The most watched MCP repositories (users receiving notifications).",
-    ["Subscribers", "Description"],
+  return generateLeaderboard(
+    repos,
+    "topSubscribed",
+    "subscribers_count",
+    "Subscribers",
   );
-  const rows = buildMarkdownRowForBadges(topRepos, stat, "👀", "8E24AA");
-
-  return [...header, ...rows, ...BACK_TO_INDEX_FOOTER].join("\n");
 }
 
 export function generateTopForked(repos: EnrichedRepo[]): string {
-  const stat = "forks_count";
-  const topRepos = distillTopRanked(repos, stat);
-  const header = buildMarkdownHeader(
-    "# Top 10 Forked MCP Repositories",
-    "The most forked MCP repositories.",
-    ["Forks", "Description"],
-  );
-  const rows = buildMarkdownRowForBadges(topRepos, stat, "git", "5B2DAD");
-
-  return [...header, ...rows, ...BACK_TO_INDEX_FOOTER].join("\n");
+  return generateLeaderboard(repos, "topForked", "forks_count", "Forks");
 }
 
 export function generateTopIssues(repos: EnrichedRepo[]): string {
-  const stat = "open_issues_count";
-  const topRepos = distillTopRanked(repos, stat);
-  const header = buildMarkdownHeader(
-    "# Top 10 Issues MCP Repositories",
-    "MCP repositories with the most open issues and PRs.",
-    ["Open Issues + PRs", "Description"],
+  return generateLeaderboard(
+    repos,
+    "topIssues",
+    "open_issues_count",
+    "Open Issues + PRs",
   );
-  const rows = buildMarkdownRowForBadges(topRepos, stat, "🗂️", "E64727");
-
-  return [...header, ...rows, ...BACK_TO_INDEX_FOOTER].join("\n");
 }
 
 export function generateTopLargest(repos: EnrichedRepo[]): string {
-  const stat = "size";
-  const topRepos = distillTopRanked(repos, stat);
-  const header = buildMarkdownHeader(
-    "# Top 10 Largest MCP Repositories",
-    "The biggest MCP repositories by size. Why? Who knows.",
-    ["Size", "Description"],
-  );
-  const rows = buildMarkdownRowForBadges(topRepos, stat, "💾", "737894");
-
-  return [...header, ...rows, ...BACK_TO_INDEX_FOOTER].join("\n");
-}
-
-export function generateActivityTimeline(repos: EnrichedRepo[]): string {
-  const sortedByActivity = [...repos].sort(
-    (a, b) => new Date(b.pushed_at).getTime() - new Date(a.pushed_at).getTime(),
-  );
-
-  const header = buildMarkdownHeader(
-    "# MCP Repo Activity Analysis",
-    "Sure its a famous repo but does anyone even maintain it!?",
-    ["Freshness", "Last Push", "Created", "License"],
-  );
-
-  const rows = sortedByActivity.map((repo, index) => {
-    const ranking = index + 1;
-    const timePeriod = calculateTimePeriod(repo.pushed_at);
-    const emoji = createBadge("time_period_emoji", timePeriod);
-
-    const repoLink = `${emoji} [${repo.name}](${repo.html_url})`;
-    const timePeriodBadge = createBadge("time_period", timePeriod);
-    const lastPush = repo.pushed_at.split("T")[0];
-    const created = repo.created_at.split("T")[0];
-    const licenseBadge = matchLicenseToBadge(repo.license);
-
-    return `| ${ranking} | ${repoLink} | ${timePeriodBadge} | ${lastPush} | ${created} | ${licenseBadge} |`;
-  });
-
-  return [...header, ...rows, ...BACK_TO_INDEX_FOOTER].join("\n");
+  return generateLeaderboard(repos, "topLargest", "size", "Size (KB)");
 }

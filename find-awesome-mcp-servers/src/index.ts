@@ -1,9 +1,12 @@
 import { writeFileSync } from "fs";
 import { join } from "path";
 import { enrichAllRepos, fetchAwesomeMcpRepos } from "./github/api.js";
-import { createMarkdown, updateReadmeWithIndex } from "./markdown/index.js";
+import { generateActivityTimeline } from "./markdown/activity.js";
 import {
-  generateActivityTimeline,
+  generateAllReposPage,
+  updateReadmeWithIndex,
+} from "./markdown/allRepos.js";
+import {
   generateTopForked,
   generateTopIssues,
   generateTopLargest,
@@ -21,7 +24,7 @@ async function main(): Promise<void> {
   console.log("\n📝 Phase 3/3 — Generating markdown");
   const outputDir = join(process.cwd(), "..");
 
-  const mainMarkdown = createMarkdown(enrichedRepos);
+  const mainMarkdown = generateAllReposPage(enrichedRepos);
   writeFileSync(join(outputDir, "AWESOME-MCP-REPOS.md"), mainMarkdown);
   console.log("  ✔ AWESOME-MCP-REPOS.md");
 

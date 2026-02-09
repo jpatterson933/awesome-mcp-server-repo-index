@@ -11,7 +11,7 @@
 
 **Stars are vanity. Commits are sanity. Here's who's actually shipping.**
 
-![Generated](https://img.shields.io/badge/Generated-2026--02--08-059669?style=flat-square)
+![Generated](https://img.shields.io/badge/Generated-2026--02--09-059669?style=flat-square)
 
 </div>
 
@@ -43,11 +43,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/16-EF4444?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/15-EF4444?style=for-the-badge" /><br>
       <sub>Pushed Today</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/10-F97316?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/11-F97316?style=for-the-badge" /><br>
       <sub>Pushed This Week</sub>
     </td>
     <td align="center">
@@ -73,36 +73,36 @@
 
 ---
 
-### 🔥 FRESH AF (16 repos)
+### 🔥 FRESH AF (15 repos)
 
 | # | Repository | Freshness | Last Push | Created | License |
 | ---: | ---------- | --------- | --------- | ------- | ------- |
-| 1 | 🔥 [jpatterson933/awesome-mcp-server-index](https://github.com/jpatterson933/awesome-mcp-server-index) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2026-02-05 | ![No License](https://img.shields.io/badge/No_License-BE123C?style=flat-square) |
-| 2 | 🔥 [ayaanjan76/awesome-mcp-servers](https://github.com/ayaanjan76/awesome-mcp-servers) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-10-02 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 3 | 🔥 [umairakrm007/awesome-mcp-servers](https://github.com/umairakrm007/awesome-mcp-servers) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2021-03-10 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 4 | 🔥 [vivekkeditz/Awesome-MCP-ZH](https://github.com/vivekkeditz/Awesome-MCP-ZH) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-04-05 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 5 | 🔥 [roti-c137/awesome-mcp](https://github.com/roti-c137/awesome-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-04-15 | ![No License](https://img.shields.io/badge/No_License-BE123C?style=flat-square) |
-| 6 | 🔥 [ojlee6207/awesome-offensive-mcp](https://github.com/ojlee6207/awesome-offensive-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2023-12-14 | ![Other](https://img.shields.io/badge/License-Other-lightgrey.svg?style=flat-square) |
-| 7 | 🔥 [timunbasah3/awesome-mcp](https://github.com/timunbasah3/awesome-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-08-10 | ![No License](https://img.shields.io/badge/No_License-BE123C?style=flat-square) |
-| 8 | 🔥 [Puliczek/awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-04-08 | ![No License](https://img.shields.io/badge/No_License-BE123C?style=flat-square) |
-| 9 | 🔥 [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-12-25 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 10 | 🔥 [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-05-19 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 11 | 🔥 [fuzzylabs/awesome-secure-mcp-servers](https://github.com/fuzzylabs/awesome-secure-mcp-servers) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-06-24 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 12 | 🔥 [Rodert/awesome-mcp](https://github.com/Rodert/awesome-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-11-22 | [![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0) |
-| 13 | 🔥 [sunnamed434/awesome-mcp-registry](https://github.com/sunnamed434/awesome-mcp-registry) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2026-02-05 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 14 | 🔥 [NeuralRays/awesome-mcp-hub](https://github.com/NeuralRays/awesome-mcp-hub) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2026-02-08 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 15 | 🔥 [gauravfs-14/awesome-mcp](https://github.com/gauravfs-14/awesome-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-06-15 | ![Other](https://img.shields.io/badge/License-Other-lightgrey.svg?style=flat-square) |
-| 16 | 🔥 [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-11-06 | [![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0) |
+| 1 | 🔥 [fuzzylabs/awesome-secure-mcp-servers](https://github.com/fuzzylabs/awesome-secure-mcp-servers) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-09 | 2025-06-24 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
+| 2 | 🔥 [timunbasah3/awesome-mcp](https://github.com/timunbasah3/awesome-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-09 | 2025-08-10 | ![No License](https://img.shields.io/badge/No_License-BE123C?style=flat-square) |
+| 3 | 🔥 [roti-c137/awesome-mcp](https://github.com/roti-c137/awesome-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-09 | 2025-04-15 | ![No License](https://img.shields.io/badge/No_License-BE123C?style=flat-square) |
+| 4 | 🔥 [ayaanjan76/awesome-mcp-servers](https://github.com/ayaanjan76/awesome-mcp-servers) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-09 | 2025-10-02 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
+| 5 | 🔥 [umairakrm007/awesome-mcp-servers](https://github.com/umairakrm007/awesome-mcp-servers) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-09 | 2021-03-10 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
+| 6 | 🔥 [vivekkeditz/Awesome-MCP-ZH](https://github.com/vivekkeditz/Awesome-MCP-ZH) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-09 | 2025-04-05 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
+| 7 | 🔥 [ojlee6207/awesome-offensive-mcp](https://github.com/ojlee6207/awesome-offensive-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-09 | 2023-12-14 | ![Other](https://img.shields.io/badge/License-Other-lightgrey.svg?style=flat-square) |
+| 8 | 🔥 [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-09 | 2025-12-10 | [![CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/) |
+| 9 | 🔥 [gauravfs-14/awesome-mcp](https://github.com/gauravfs-14/awesome-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-09 | 2025-06-15 | ![Other](https://img.shields.io/badge/License-Other-lightgrey.svg?style=flat-square) |
+| 10 | 🔥 [RbBtSn0w/awesome-copilot-mcp](https://github.com/RbBtSn0w/awesome-copilot-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-09 | 2026-01-29 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
+| 11 | 🔥 [jpatterson933/awesome-mcp-server-repo-index](https://github.com/jpatterson933/awesome-mcp-server-repo-index) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2026-02-05 | ![No License](https://img.shields.io/badge/No_License-BE123C?style=flat-square) |
+| 12 | 🔥 [Puliczek/awesome-mcp-security](https://github.com/Puliczek/awesome-mcp-security) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-04-08 | ![No License](https://img.shields.io/badge/No_License-BE123C?style=flat-square) |
+| 13 | 🔥 [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-12-25 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
+| 14 | 🔥 [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-05-19 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
+| 15 | 🔥 [Rodert/awesome-mcp](https://github.com/Rodert/awesome-mcp) | ![FRESH AF](https://img.shields.io/badge/FRESH_AF-EF4444?style=flat-square) | 2026-02-08 | 2025-11-22 | [![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0) |
 
-### 🌶️ HOT (10 repos)
+### 🌶️ HOT (11 repos)
 
 | # | Repository | Freshness | Last Push | Created | License |
 | ---: | ---------- | --------- | --------- | ------- | ------- |
-| 17 | 🌶️ [RbBtSn0w/awesome-copilot-mcp](https://github.com/RbBtSn0w/awesome-copilot-mcp) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-07 | 2026-01-29 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 18 | 🌶️ [JustInCache/awesome-mcp-collection](https://github.com/JustInCache/awesome-mcp-collection) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-06 | 2026-02-02 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 19 | 🌶️ [SciSharp/Awesome-DotNET-MCP](https://github.com/SciSharp/Awesome-DotNET-MCP) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-05 | 2025-03-13 | [![CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/) |
-| 20 | 🌶️ [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-05 | 2025-04-04 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
-| 21 | 🌶️ [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-04 | 2025-12-10 | [![CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/) |
+| 16 | 🌶️ [sunnamed434/awesome-mcp-registry](https://github.com/sunnamed434/awesome-mcp-registry) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-08 | 2026-02-05 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
+| 17 | 🌶️ [NeuralRays/awesome-mcp-hub](https://github.com/NeuralRays/awesome-mcp-hub) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-08 | 2026-02-08 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
+| 18 | 🌶️ [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-08 | 2025-11-06 | [![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0) |
+| 19 | 🌶️ [JustInCache/awesome-mcp-collection](https://github.com/JustInCache/awesome-mcp-collection) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-06 | 2026-02-02 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
+| 20 | 🌶️ [SciSharp/Awesome-DotNET-MCP](https://github.com/SciSharp/Awesome-DotNET-MCP) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-05 | 2025-03-13 | [![CC0 1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/) |
+| 21 | 🌶️ [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-05 | 2025-04-04 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
 | 22 | 🌶️ [yzfly/Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-04 | 2025-04-03 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |
 | 23 | 🌶️ [bh-rat/awesome-mcp-enterprise](https://github.com/bh-rat/awesome-mcp-enterprise) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-04 | 2025-08-12 | ![No License](https://img.shields.io/badge/No_License-BE123C?style=flat-square) |
 | 24 | 🌶️ [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers) | ![HOT](https://img.shields.io/badge/HOT-F97316?style=flat-square) | 2026-02-03 | 2025-04-06 | [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT) |

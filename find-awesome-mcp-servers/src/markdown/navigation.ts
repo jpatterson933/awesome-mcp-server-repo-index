@@ -1,4 +1,9 @@
-import { BADGE_STYLE, COLORS, LEADERBOARD_COPY, LeaderboardId } from "./theme.js";
+import {
+  BADGE_STYLE,
+  COLORS,
+  LEADERBOARD_COPY,
+  LeaderboardId,
+} from "./theme.js";
 
 type NavPage = {
   id: LeaderboardId;
@@ -10,39 +15,11 @@ type NavPage = {
 
 const NAV_PAGES: NavPage[] = [
   {
-    id: "topStarred",
-    label: "Starred",
-    icon: "⭐",
-    color: LEADERBOARD_COPY.topStarred.badgeColor,
-    path: `./${LEADERBOARD_COPY.topStarred.filename}`,
-  },
-  {
-    id: "topForked",
-    label: "Forked",
-    icon: "🍴",
-    color: LEADERBOARD_COPY.topForked.badgeColor,
-    path: `./${LEADERBOARD_COPY.topForked.filename}`,
-  },
-  {
-    id: "topSubscribed",
-    label: "Watched",
-    icon: "👀",
-    color: LEADERBOARD_COPY.topSubscribed.badgeColor,
-    path: `./${LEADERBOARD_COPY.topSubscribed.filename}`,
-  },
-  {
-    id: "topIssues",
-    label: "Issues",
-    icon: "🗂️",
-    color: LEADERBOARD_COPY.topIssues.badgeColor,
-    path: `./${LEADERBOARD_COPY.topIssues.filename}`,
-  },
-  {
-    id: "topLargest",
-    label: "Largest",
-    icon: "💾",
-    color: LEADERBOARD_COPY.topLargest.badgeColor,
-    path: `./${LEADERBOARD_COPY.topLargest.filename}`,
+    id: "topTens",
+    label: "Top Tens",
+    icon: "🏆",
+    color: LEADERBOARD_COPY.topTens.badgeColor,
+    path: `./${LEADERBOARD_COPY.topTens.filename}`,
   },
   {
     id: "activity",

@@ -67,3 +67,14 @@ export function licenseBadge(license: { name: string } | null): string {
     `![${license.name}](${basePath}${encodeURIComponent(license.name)}-lightgrey.svg?style=${style})`
   );
 }
+
+export function dateBadge(
+  label: string,
+  isoDate: string,
+  color: string,
+): string {
+  const date = isoDate.split("T")[0];
+  const formattedDate = date.replace(/-/g, "--");
+  const badgeUrl = `https://img.shields.io/badge/${encodeURIComponent(label)}-${formattedDate}-${color}?style=${BADGE_STYLE.table}`;
+  return `![${label}](${badgeUrl})`;
+}

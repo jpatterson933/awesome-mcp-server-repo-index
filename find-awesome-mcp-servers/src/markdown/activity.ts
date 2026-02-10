@@ -2,7 +2,12 @@ import { EnrichedRepo } from "../schema/github.js";
 import { TimePeriodType } from "../types/badges.js";
 import { calculateTimePeriod } from "../utils/calculateFreshness.js";
 import { repoLink } from "../utils/format.js";
-import { freshnessBadge, freshnessEmoji, licenseBadge } from "./badges.js";
+import {
+  dateBadge,
+  freshnessBadge,
+  freshnessEmoji,
+  licenseBadge,
+} from "./badges.js";
 import {
   activitySummaryStats,
   centeredHeader,
@@ -43,8 +48,8 @@ function activityRow(
   const emoji = freshnessEmoji(period);
   const link = `${emoji} ${repoLink(repo)}`;
   const badge = freshnessBadge(period);
-  const lastPush = repo.pushed_at.split("T")[0];
-  const created = repo.created_at.split("T")[0];
+  const lastPush = dateBadge("Pushed", repo.pushed_at, COLORS.lastPush);
+  const created = dateBadge("Created", repo.created_at, COLORS.created);
   const license = licenseBadge(repo.license);
 
   return `| ${rank} | ${link} | ${badge} | ${lastPush} | ${created} | ${license} |`;

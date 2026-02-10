@@ -6,13 +6,7 @@ import {
   generateAllReposPage,
   updateReadmeWithIndex,
 } from "./markdown/allRepos.js";
-import {
-  generateTopForked,
-  generateTopIssues,
-  generateTopLargest,
-  generateTopStarred,
-  generateTopSubscribed,
-} from "./markdown/leaderboards.js";
+import { generateTopTens } from "./markdown/leaderboards.js";
 
 async function main(): Promise<void> {
   console.log("\n🔍 Phase 1/3 — Discovering repos");
@@ -28,23 +22,16 @@ async function main(): Promise<void> {
   writeFileSync(join(outputDir, "AWESOME-MCP-REPOS.md"), mainMarkdown);
   console.log("  ✔ AWESOME-MCP-REPOS.md");
 
-  const leaderboards = [
-    { filename: "TOP-STARRED.md", generator: generateTopStarred },
-    { filename: "TOP-SUBSCRIBED.md", generator: generateTopSubscribed },
-    { filename: "TOP-FORKED.md", generator: generateTopForked },
-    { filename: "TOP-ISSUES.md", generator: generateTopIssues },
-    { filename: "TOP-LARGEST.md", generator: generateTopLargest },
-    { filename: "ACTIVITY.md", generator: generateActivityTimeline },
-  ];
+  const topTensMarkdown = generateTopTens(enrichedRepos);
+  writeFileSync(join(outputDir, "TOP-TENS.md"), topTensMarkdown);
+  console.log("  ✔ TOP-TENS.md");
 
-  for (const { filename, generator } of leaderboards) {
-    const markdown = generator(enrichedRepos);
-    writeFileSync(join(outputDir, filename), markdown);
-    console.log(`  ✔ ${filename}`);
-  }
+  const activityMarkdown = generateActivityTimeline(enrichedRepos);
+  writeFileSync(join(outputDir, "ACTIVITY.md"), activityMarkdown);
+  console.log("  ✔ ACTIVITY.md");
 
   const readmePath = join(outputDir, "README.md");
-  const updatedReadme = updateReadmeWithIndex(readmePath, enrichedRepos.length);
+  const updatedReadme = updateReadmeWithIndex(readmePath, enrichedRepos);
   writeFileSync(readmePath, updatedReadme);
   console.log("  ✔ README.md (index updated)");
 

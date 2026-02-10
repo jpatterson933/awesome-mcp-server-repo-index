@@ -102,3 +102,107 @@ export function generateTopIssues(repos: EnrichedRepo[]): string {
 export function generateTopLargest(repos: EnrichedRepo[]): string {
   return generateLeaderboard(repos, "topLargest", "size", "Size (KB)");
 }
+
+type LeaderboardSection = {
+  id: LeaderboardId;
+  stat: MetricType;
+  columnName: string;
+  anchor: string;
+};
+
+const TOP_TEN_SECTIONS: LeaderboardSection[] = [
+  {
+    id: "topStarred",
+    stat: "stargazers_count",
+    columnName: "Stars",
+    anchor: "top-starred",
+  },
+  {
+    id: "topForked",
+    stat: "forks_count",
+    columnName: "Forks",
+    anchor: "top-forked",
+  },
+  {
+    id: "topSubscribed",
+    stat: "subscribers_count",
+    columnName: "Subscribers",
+    anchor: "top-watched",
+  },
+  {
+    id: "topIssues",
+    stat: "open_issues_count",
+    columnName: "Open Issues + PRs",
+    anchor: "top-issues",
+  },
+  {
+    id: "topLargest",
+    stat: "size",
+    columnName: "Size (KB)",
+    anchor: "top-largest",
+  },
+];
+
+function tableOfContents(): string {
+  const links = TOP_TEN_SECTIONS.map((section) => {
+    const copy = LEADERBOARD_COPY[section.id];
+    return `[${copy.icon} ${copy.title.replace("Top 10 ", "")}](#${section.anchor})`;
+  });
+
+  return [
+    "## Quick Navigation",
+    "",
+    `| ${links.join(" | ")} |`,
+    `| ${links.map(() => ":---:").join(" | ")} |`,
+  ].join("\n");
+}
+
+function leaderboardSection(
+  repos: EnrichedRepo[],
+  section: LeaderboardSection,
+): string {
+  const copy = LEADERBOARD_COPY[section.id];
+  const topRepos = topTenByMetric(repos, section.stat);
+  const table = leaderboardTable(
+    topRepos,
+    section.stat,
+    section.columnName,
+    copy.icon,
+    copy.badgeColor,
+  );
+
+  return [
+    "",
+    `<a id="${section.anchor}"></a>`,
+    "",
+    `## ${copy.icon} ${copy.title}`,
+    "",
+    `**${copy.subtitle}**`,
+    "",
+    ...table,
+  ].join("\n");
+}
+
+export function generateTopTens(repos: EnrichedRepo[]): string {
+  const copy = LEADERBOARD_COPY.topTens;
+  const generatedDate = new Date().toISOString().split("T")[0];
+
+  const sections = [
+    navigationBar("topTens"),
+    centeredHeader(copy, generatedDate),
+    githubAlert(
+      "TIP",
+      "Use the quick navigation below to jump to any leaderboard.",
+    ),
+    "",
+    tableOfContents(),
+  ];
+
+  for (const section of TOP_TEN_SECTIONS) {
+    sections.push(leaderboardSection(repos, section));
+  }
+
+  sections.push(pageFooter());
+
+  return sections.join("\n");
+}

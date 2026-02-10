@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md AWESOME-MCP-REPOS.md TOP-STARRED.md TOP-FORKED.md TOP-SUBSCRIBED.md TOP-ISSUES.md TOP-LARGEST.md ACTIVITY.md
+          git add README.md AWESOME-MCP-REPOS.md TOP-TENS.md ACTIVITY.md
           git diff --staged --quiet || git commit -m "chore: update MCP repo index"
           git push

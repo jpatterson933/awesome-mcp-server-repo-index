@@ -1,6 +1,7 @@
 import { readFileSync } from "fs";
 import { EnrichedRepo } from "../schema/github.js";
 import { repoLink, sanitizeDescription } from "../utils/format.js";
+import { licenseBadge } from "./badges.js";
 import {
   centeredHeader,
   dashboardGrid,
@@ -20,7 +21,7 @@ function allReposRow(repo: EnrichedRepo): string {
   const link = repoLink(repo);
   const stars = repo.stargazers_count.toLocaleString();
   const forks = repo.forks_count.toLocaleString();
-  const license = repo.license?.name ?? "-";
+  const license = licenseBadge(repo.license);
   const created = repo.created_at.split("T")[0];
   const updated = repo.pushed_at.split("T")[0];
   const description = sanitizeDescription(repo.description);
@@ -28,10 +29,20 @@ function allReposRow(repo: EnrichedRepo): string {
   return `| ${link} | ${stars} | ${forks} | ${license} | ${created} | ${updated} | ${description} |`;
 }
 
+function getFullName(repo: EnrichedRepo): string {
+  return `${repo.owner.login}/${repo.name}`;
+}
+
+function sortReposAlphabetically(repos: EnrichedRepo[]): EnrichedRepo[] {
+  return [...repos].sort((a, b) =>
+    getFullName(a).toLowerCase().localeCompare(getFullName(b).toLowerCase()),
+  );
+}
+
 export function generateAllReposPage(repos: EnrichedRepo[]): string {
   const copy = LEADERBOARD_COPY.allRepos;
   const generatedDate = new Date().toISOString().split("T")[0];
-  const licenseDist = licenseDistribution(repos);
+  const sortedRepos = sortReposAlphabetically(repos);
 
   const sections = [
     navigationBar("allRepos"),
@@ -56,82 +67,61 @@ export function generateAllReposPage(repos: EnrichedRepo[]): string {
     "",
     githubAlert(
       "NOTE",
-      "This table shows every awesome-mcp repository discovered on GitHub. Updated daily via GitHub Actions.",
+      "Sorted A-Z by repository name. Updated daily via GitHub Actions.",
     ),
     "",
-    "<details>",
-    "<summary><b>License Distribution</b></summary>",
-    "",
-    mermaidPieChart("Repos by License", licenseDist),
-    "",
-    "</details>",
-    "",
     ...TABLE_HEADER,
-    ...repos.map(allReposRow),
+    ...sortedRepos.map(allReposRow),
     pageFooter(),
   ];
 
   return sections.join("\n");
 }
 
-function buildReadmeIndexBlock(repoCount: number): string {
+function buildReadmeIndexBlock(
+  repoCount: number,
+  repos: EnrichedRepo[],
+): string {
   const updatedDate = new Date().toISOString().split("T")[0];
+  const licenseDist = licenseDistribution(repos);
 
   const statBadges = [
     `![Total Repos](https://img.shields.io/badge/Total_Repos-${repoCount}-${COLORS.totalRepos}?style=${BADGE_STYLE.header})`,
     `![Last Updated](https://img.shields.io/badge/Updated-${updatedDate.replace(/-/g, "--")}-${COLORS.generated}?style=${BADGE_STYLE.header})`,
   ].join(" ");
 
-  const navEntryIds = [
-    "topStarred",
-    "topForked",
-    "topSubscribed",
-    "topIssues",
-    "topLargest",
-    "activity",
-  ] as const;
+  const navEntryIds = ["topTens", "activity", "allRepos"] as const;
 
-  const navCells = navEntryIds.map((id) => {
+  const navBadges = navEntryIds.map((id) => {
     const copy = LEADERBOARD_COPY[id];
     const label = encodeURIComponent(`${copy.icon} ${copy.badgeLabel}`);
-    return `    <td align="center"><a href="./${copy.filename}"><img src="https://img.shields.io/badge/${label}-${copy.badgeColor}?style=${BADGE_STYLE.header}" /></a></td>`;
+    return `[![${copy.badgeLabel}](https://img.shields.io/badge/${label}-${copy.badgeColor}?style=${BADGE_STYLE.header}&logo=github)](./${copy.filename})`;
   });
 
-  const allReposCopy = LEADERBOARD_COPY.allRepos;
-  const allReposLabel = encodeURIComponent(
-    `${allReposCopy.icon} ${allReposCopy.badgeLabel}`,
-  );
-
   return [
+    `> [!TIP]`,
+    `> Use the navigation below to explore the awesome MCP server index.`,
+    "",
     `<div align="center">`,
     "",
     statBadges,
     "",
-    "</div>",
-    "",
-    `> [!NOTE]`,
-    `> This index is auto-updated daily via GitHub Actions. Data sourced from the GitHub API.`,
-    "",
-    "<table>",
-    "  <tr>",
-    navCells.slice(0, 3).join("\n"),
-    "  </tr>",
-    "  <tr>",
-    navCells.slice(3).join("\n"),
-    "  </tr>",
-    "</table>",
-    "",
-    `<div align="center">`,
-    "",
-    `[![${allReposCopy.badgeLabel}](https://img.shields.io/badge/${allReposLabel}-${allReposCopy.badgeColor}?style=${BADGE_STYLE.header}&logo=github&logoColor=white)](./${allReposCopy.filename})`,
+    navBadges.join(" "),
     "",
     "</div>",
+    "",
+    "<details>",
+    "<summary><b>📊 License Distribution</b></summary>",
+    "",
+    mermaidPieChart("Repos by License", licenseDist),
+    "",
+    "</details>",
   ].join("\n");
 }
 
 export function updateReadmeWithIndex(
   readmePath: string,
-  repoCount: number,
+  repos: EnrichedRepo[],
 ): string {
   const existingReadme = readFileSync(readmePath, "utf-8");
   const startMarker =
@@ -147,7 +137,7 @@ export function updateReadmeWithIndex(
 
   const before = existingReadme.slice(0, startIndex + startMarker.length);
   const after = existingReadme.slice(endIndex);
-  const indexBlock = buildReadmeIndexBlock(repoCount);
+  const indexBlock = buildReadmeIndexBlock(repos.length, repos);
 
   return `${before}\n\n${indexBlock}\n\n${after}`;
 }

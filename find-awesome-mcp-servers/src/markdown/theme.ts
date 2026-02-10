@@ -22,10 +22,13 @@ export const COLORS = {
   noLicense: "BE123C",
   generated: "059669",
   totalRepos: "1E40AF",
+  lastPush: "10B981",
+  created: "6366F1",
 } as const;
 
 export type LeaderboardId =
   | "readme"
+  | "topTens"
   | "topStarred"
   | "topForked"
   | "topSubscribed"
@@ -44,6 +47,24 @@ export type LeaderboardCopy = {
 };
 
 export const LEADERBOARD_COPY: Record<LeaderboardId, LeaderboardCopy> = {
+  readme: {
+    title: "Awesome MCP Server Git Repo Index",
+    subtitle:
+      "A centralized resource for Model Context Protocol (MCP) server discovery.",
+    icon: "🏠",
+    badgeColor: COLORS.allRepos,
+    badgeLabel: "Home",
+    filename: "README.md",
+  },
+  topTens: {
+    title: "Top 10 Leaderboards",
+    subtitle:
+      "The best of the best. Top 10 by stars, forks, watchers, issues, and size.",
+    icon: "🏆",
+    badgeColor: COLORS.starred,
+    badgeLabel: "Top Tens",
+    filename: "TOP-TENS.md",
+  },
   topStarred: {
     title: "Top 10 Starred MCP Repositories",
     subtitle:

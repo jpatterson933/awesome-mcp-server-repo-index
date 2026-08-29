@@ -30,9 +30,9 @@
 
 ```mermaid
 pie title Repos by License
+    "MIT" : 82
     "No License" : 49
     "Creative Commons" : 31
-    "MIT" : 82
     "Other" : 25
     "Apache 2.0" : 5
 ```

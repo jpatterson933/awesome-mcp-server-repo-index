@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T01:02:59.655Z",
+  "generatedAt": "2026-08-29T06:13:14.159Z",
   "methodology": "Counts unique GitHub repository links extracted from each index README. Links are not guaranteed to represent MCP servers.",
   "summary": {
     "indexes": 192,
     "readmesAnalyzed": 190,
     "readmesMissing": 2,
-    "cacheHits": 192,
-    "uniqueLinkedRepositories": 5589,
-    "links": 18946
+    "cacheHits": 189,
+    "uniqueLinkedRepositories": 5588,
+    "links": 18945
   },
   "indexes": [
     {
@@ -3526,9 +3526,9 @@
     },
     {
       "indexId": "chat2anyllm/awesome-mcp-servers",
-      "pushedAt": "2026-08-28T19:50:56Z",
+      "pushedAt": "2026-08-29T02:36:38Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
+      "source": "github",
       "linkedRepositoryCount": 2,
       "uniqueLinkedRepositoryCount": 0,
       "sharedLinkedRepositoryCount": 2,
@@ -7845,15 +7845,13 @@
     },
     {
       "indexId": "jpatterson933/awesome-mcp-server-repo-index",
-      "pushedAt": "2026-05-06T06:56:28Z",
+      "pushedAt": "2026-08-29T01:54:28Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
-      "linkedRepositoryCount": 1,
-      "uniqueLinkedRepositoryCount": 1,
+      "source": "github",
+      "linkedRepositoryCount": 0,
+      "uniqueLinkedRepositoryCount": 0,
       "sharedLinkedRepositoryCount": 0,
-      "repositories": [
-        "agencyenterprise/fathom-mcp-server"
-      ]
+      "repositories": []
     },
     {
       "indexId": "jpeslar1/awesome-linkedin-mcp",
@@ -7949,9 +7947,9 @@
     },
     {
       "indexId": "justincache/awesome-mcp-collection",
-      "pushedAt": "2026-08-28T20:10:57Z",
+      "pushedAt": "2026-08-29T02:47:58Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
+      "source": "github",
       "linkedRepositoryCount": 64,
       "uniqueLinkedRepositoryCount": 4,
       "sharedLinkedRepositoryCount": 60,
@@ -56244,13 +56242,6 @@
       "indexCount": 1,
       "indexes": [
         "scisharp/awesome-dotnet-mcp"
-      ]
-    },
-    {
-      "repositoryId": "agencyenterprise/fathom-mcp-server",
-      "indexCount": 1,
-      "indexes": [
-        "jpatterson933/awesome-mcp-server-repo-index"
       ]
     },
     {

@@ -1,11 +1,18 @@
 {
   "name": "find-awesome-mcp-servers",
   "version": "1.0.0",
-  "description": "Scrapes GitHub for awesome-mcp repos and outputs markdown",
+  "private": true,
+  "description": "Discovers and analyzes curated MCP index repositories",
   "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
-    "build": "tsc --noEmit && tsup",
-    "find": "npx tsx src/index.ts"
+    "build": "tsc",
+    "check": "npm test && node --check ../site/app.js",
+    "find": "npm run build --silent && node dist/index.js",
+    "test": "npm run build && node --test dist/test/*.test.js",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "dotenv": "^17.2.4",
@@ -14,8 +21,6 @@
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
-    "tsup": "^8.5.1",
-    "tsx": "^4.0.0",
     "typescript": "^5.0.0"
   }
 }

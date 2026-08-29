@@ -1,14 +1,40 @@
 import dotenv from "dotenv";
 import { Octokit } from "octokit";
-import { EnrichedRepo, GithubRepo } from "../schema/github.js";
+import {
+  EnrichedRepo,
+  GithubRepo,
+  GithubRepoSchema,
+} from "../schema/github.js";
+import { mapWithConcurrency, withGithubRetry } from "../utils/async.js";
 import { delay } from "../utils/delay.js";
+import { classifyIndexRepository } from "./classify.js";
 
-dotenv.config();
+dotenv.config({ quiet: true });
 const octokit = new Octokit({
-  auth: process.env.REPO_INDEX_TOKEN,
+  auth:
+    process.env.GITHUB_TOKEN ??
+    process.env.GH_TOKEN ??
+    process.env.REPO_INDEX_TOKEN,
 });
 
-const DELAY_MS = 500;
+const SEARCH_PAGE_DELAY_MS = 500;
+const ENRICHMENT_CONCURRENCY = 8;
+const GITHUB_SEARCH_RESULT_LIMIT = 1_000;
+export const GITHUB_INDEX_SEARCH_QUERY =
+  "awesome-mcp in:name archived:false fork:false";
+
+export type DiscoveryDecision = {
+  repo: GithubRepo;
+  included: boolean;
+  reason: string;
+};
+
+export type IndexDiscovery = {
+  query: string;
+  candidateCount: number;
+  repos: GithubRepo[];
+  decisions: DiscoveryDecision[];
+};
 
 function logProgress(current: number, total: number, label: string): void {
   const percentage = Math.round((current / total) * 100);
@@ -20,69 +46,121 @@ function logProgress(current: number, total: number, label: string): void {
   );
 }
 
-export async function fetchAwesomeMcpRepos(): Promise<GithubRepo[]> {
-  const searchQuery = "awesome-mcp in:name archived:false";
+export async function fetchAwesomeMcpIndexes(): Promise<IndexDiscovery> {
+  const searchQuery = GITHUB_INDEX_SEARCH_QUERY;
   const allRepos: GithubRepo[] = [];
   let page = 1;
   let hasMore = true;
   let totalCount = 0;
 
   while (hasMore) {
-    const response = await octokit.rest.search.repos({
-      q: searchQuery,
-      sort: "updated",
-      order: "desc",
-      per_page: 100,
-      page,
-    });
+    const response = await withGithubRetry(() =>
+      octokit.rest.search.repos({
+        q: searchQuery,
+        sort: "updated",
+        order: "desc",
+        per_page: 100,
+        page,
+      }),
+    );
 
-    if (page === 1) totalCount = response.data.total_count;
+    if (page === 1) {
+      totalCount = response.data.total_count;
+      if (totalCount > GITHUB_SEARCH_RESULT_LIMIT) {
+        throw new Error(
+          `GitHub found ${totalCount} repositories, exceeding its ${GITHUB_SEARCH_RESULT_LIMIT}-result search limit`,
+        );
+      }
+    }
 
-    const repos = response.data.items as GithubRepo[];
+    const repos = GithubRepoSchema.array().parse(response.data.items);
     allRepos.push(...repos);
 
     logProgress(allRepos.length, totalCount, `Page ${page}`);
 
-    hasMore = repos.length === 100;
+    hasMore = repos.length === 100 && allRepos.length < totalCount;
     page++;
 
-    if (hasMore) await delay(DELAY_MS);
+    if (hasMore) await delay(SEARCH_PAGE_DELAY_MS);
   }
 
   process.stdout.write("\n");
-  return allRepos;
+  const decisions = allRepos.map((repo) => ({
+    repo,
+    ...classifyIndexRepository(repo),
+  }));
+  const indexRepos = decisions
+    .filter((decision) => decision.included)
+    .map((decision) => decision.repo);
+  console.log(
+    `  ✔ Retained ${indexRepos.length}/${allRepos.length} repositories with index metadata`,
+  );
+  return {
+    query: searchQuery,
+    candidateCount: allRepos.length,
+    repos: indexRepos,
+    decisions,
+  };
 }
 
 async function fetchRepoDetails(
   owner: string,
   repo: string,
 ): Promise<{ subscribers_count: number }> {
-  const response = await octokit.rest.repos.get({ owner, repo });
+  const response = await withGithubRetry(() =>
+    octokit.rest.repos.get({ owner, repo }),
+  );
   return {
     subscribers_count: response.data.subscribers_count,
   };
+}
+
+export async function fetchReadmeContent(
+  owner: string,
+  repo: string,
+): Promise<string | null> {
+  try {
+    const response = await withGithubRetry(() =>
+      octokit.rest.repos.getReadme({ owner, repo }),
+    );
+    if (Array.isArray(response.data) || !("content" in response.data)) {
+      throw new Error(`GitHub returned an unexpected README response for ${owner}/${repo}`);
+    }
+
+    return Buffer.from(response.data.content, "base64").toString("utf8");
+  } catch (error) {
+    const status =
+      typeof error === "object" && error !== null && "status" in error
+        ? Number(error.status)
+        : undefined;
+    if (status === 404) return null;
+    throw error;
+  }
 }
 
 export async function enrichAllRepos(
   repos: GithubRepo[],
 ): Promise<EnrichedRepo[]> {
   const total = repos.length;
-  const enrichedRepos: EnrichedRepo[] = [];
+  let completed = 0;
 
-  for (const [index, repo] of repos.entries()) {
-    logProgress(index + 1, total, repo.name);
-    await delay(DELAY_MS);
+  const enrichedRepos = await mapWithConcurrency(
+    repos,
+    ENRICHMENT_CONCURRENCY,
+    async (repo) => {
     try {
       const details = await fetchRepoDetails(repo.owner.login, repo.name);
-      enrichedRepos.push({ ...repo, ...details });
+        completed++;
+        logProgress(completed, total, repo.name);
+        return { ...repo, ...details };
     } catch (error) {
-      process.stdout.write(`\n  ⚠ Failed to enrich ${repo.name}\n`);
-      enrichedRepos.push({
-        ...repo,
-        subscribers_count: 0,
-      });
+      throw new Error(
+        `Failed to enrich ${repo.owner.login}/${repo.name}; refusing to publish incomplete metrics`,
+        { cause: error },
+      );
     }
-  }
+    },
+  );
 
   process.stdout.write("\n");
   return enrichedRepos;

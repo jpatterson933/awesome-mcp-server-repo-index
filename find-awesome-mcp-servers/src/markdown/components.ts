@@ -100,7 +100,21 @@ export function mermaidPieChart(
   return ["```mermaid", `pie title ${title}`, entries, "```"].join("\n");
 }
 
-export function activitySummaryStats(repos: EnrichedRepo[]): {
+export function activitySummaryStats(
+  repos: EnrichedRepo[],
+  now?: Date,
+): {
+  freshCount: number;
+  hotCount: number;
+  activeCount: number;
+  stableCount: number;
+  zzzCount: number;
+  noLicenseCount: number;
+};
+export function activitySummaryStats(
+  repos: EnrichedRepo[],
+  now: Date = new Date(),
+): {
   freshCount: number;
   hotCount: number;
   activeCount: number;
@@ -118,7 +132,7 @@ export function activitySummaryStats(repos: EnrichedRepo[]): {
   };
 
   for (const repo of repos) {
-    const period = calculateTimePeriod(repo.pushed_at);
+    const period = calculateTimePeriod(repo.pushed_at, now);
     const tierMap: Record<TimePeriodType, keyof typeof counts> = {
       one_day: "freshCount",
       one_week: "hotCount",

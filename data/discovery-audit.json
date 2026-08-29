@@ -1,0 +1,2508 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-29T01:02:59.655Z",
+  "query": "awesome-mcp in:name archived:false fork:false",
+  "summary": {
+    "candidates": 416,
+    "included": 192,
+    "excluded": 224
+  },
+  "decisions": [
+    {
+      "fullName": "004mayank/Awesome-MCPs",
+      "url": "https://github.com/004mayank/Awesome-MCPs",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "0xBabatunde/awesome-seo-mcp",
+      "url": "https://github.com/0xBabatunde/awesome-seo-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "26BB/agentic-awesome-skills-mcp",
+      "url": "https://github.com/26BB/agentic-awesome-skills-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "404digital/awesome-mcp",
+      "url": "https://github.com/404digital/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "7xuanlu/brethofai-awesome-mcp-servers",
+      "url": "https://github.com/7xuanlu/brethofai-awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "aaglexx/awesome-mcp-servers",
+      "url": "https://github.com/aaglexx/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "aambrishtrikha-commits/awesome-mcp-servers",
+      "url": "https://github.com/aambrishtrikha-commits/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "abordage/awesome-mcp",
+      "url": "https://github.com/abordage/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "AdsMCP/awesome-ads-mcp-servers",
+      "url": "https://github.com/AdsMCP/awesome-ads-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "adw0rd/awesome-mcp-tools-mcp",
+      "url": "https://github.com/adw0rd/awesome-mcp-tools-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "agenticdevops/awesome-devops-mcp",
+      "url": "https://github.com/agenticdevops/awesome-devops-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "AI-Agent-Hub/awesome-mcp-ranking-reviews",
+      "url": "https://github.com/AI-Agent-Hub/awesome-mcp-ranking-reviews",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "AI-in-Transportation-Lab/awesome-mcp",
+      "url": "https://github.com/AI-in-Transportation-Lab/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "AIAnytime/Awesome-MCP-Server",
+      "url": "https://github.com/AIAnytime/Awesome-MCP-Server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "AIM-Intelligence/awesome-mcp-security",
+      "url": "https://github.com/AIM-Intelligence/awesome-mcp-security",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "ajeetraina/awesome-docker-mcp-servers",
+      "url": "https://github.com/ajeetraina/awesome-docker-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "akfldk1028/awesome-mcp-servers",
+      "url": "https://github.com/akfldk1028/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "alainchen/awesome-mcp-skills",
+      "url": "https://github.com/alainchen/awesome-mcp-skills",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Albertchamberlain/Awesome-MCP",
+      "url": "https://github.com/Albertchamberlain/Awesome-MCP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "AlexMili/Awesome-MCP",
+      "url": "https://github.com/AlexMili/Awesome-MCP",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Alexxiang2008/B2B-awesome-skills-mcp",
+      "url": "https://github.com/Alexxiang2008/B2B-awesome-skills-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "allsoundlow/awesome_mcps",
+      "url": "https://github.com/allsoundlow/awesome_mcps",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "alonzo245/awesome-MCP",
+      "url": "https://github.com/alonzo245/awesome-MCP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "AmazingBecca/awesome-mcp-clients",
+      "url": "https://github.com/AmazingBecca/awesome-mcp-clients",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "antonatanasovalekseev-coder/awesome-mcp-servers-2026",
+      "url": "https://github.com/antonatanasovalekseev-coder/awesome-mcp-servers-2026",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Anujjoshi3105/awesome-mcps",
+      "url": "https://github.com/Anujjoshi3105/awesome-mcps",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ANVEAI/awesome-mcp-servers",
+      "url": "https://github.com/ANVEAI/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Appnova-EU-OU/awesome-remote-mcp-servers",
+      "url": "https://github.com/Appnova-EU-OU/awesome-remote-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "AshokAlpineCode/my-awesome-mcp-intellect",
+      "url": "https://github.com/AshokAlpineCode/my-awesome-mcp-intellect",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "ausgomez/awesome-tree-api-mcp",
+      "url": "https://github.com/ausgomez/awesome-tree-api-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "avinash1441/awesome-mcp-korea",
+      "url": "https://github.com/avinash1441/awesome-mcp-korea",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "awesome-ai-tools/curated-mcp-servers",
+      "url": "https://github.com/awesome-ai-tools/curated-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "awesome-chibyke/skills-integrate-mcp-with-copilot",
+      "url": "https://github.com/awesome-chibyke/skills-integrate-mcp-with-copilot",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "awesome-mcp-ru/awesome-mcp-ru",
+      "url": "https://github.com/awesome-mcp-ru/awesome-mcp-ru",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "awesome-town/canvas-mcp-node",
+      "url": "https://github.com/awesome-town/canvas-mcp-node",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "awesome-town/canvas-mcp-skills",
+      "url": "https://github.com/awesome-town/canvas-mcp-skills",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "B0N4N24/My-Awesome-MCP-Server",
+      "url": "https://github.com/B0N4N24/My-Awesome-MCP-Server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "badkk/awesome-crypto-mcp-servers",
+      "url": "https://github.com/badkk/awesome-crypto-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "barankurtulusozan/awesome-mcp-dev-stack-selector",
+      "url": "https://github.com/barankurtulusozan/awesome-mcp-dev-stack-selector",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "BASILAHAMED/Awesome-MCP-Servers",
+      "url": "https://github.com/BASILAHAMED/Awesome-MCP-Servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Beginnersguide138/awesome-fetch-mcp",
+      "url": "https://github.com/Beginnersguide138/awesome-fetch-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "BehiSecc/awesome-bugbounty-mcp",
+      "url": "https://github.com/BehiSecc/awesome-bugbounty-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "BENZEMA216/awesome-map-mcp",
+      "url": "https://github.com/BENZEMA216/awesome-map-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "beriberikix/awesome-mcp-hardware",
+      "url": "https://github.com/beriberikix/awesome-mcp-hardware",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "bernatsampera/awesome-mcp-snippets",
+      "url": "https://github.com/bernatsampera/awesome-mcp-snippets",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "bgizdov/awesome-mcp-servers",
+      "url": "https://github.com/bgizdov/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "bh-rat/awesome-mcp-enterprise",
+      "url": "https://github.com/bh-rat/awesome-mcp-enterprise",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "bhavyshekhaliya/awesome-public-mcp-servers",
+      "url": "https://github.com/bhavyshekhaliya/awesome-public-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Bierxiensi/awesome-mcp-servers-cn",
+      "url": "https://github.com/Bierxiensi/awesome-mcp-servers-cn",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "bioanywhere/mcp-awesome-react-native",
+      "url": "https://github.com/bioanywhere/mcp-awesome-react-native",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "bittush8789/Awesome-MCP-Server",
+      "url": "https://github.com/bittush8789/Awesome-MCP-Server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "BlockRunAI/awesome-finance-mcp",
+      "url": "https://github.com/BlockRunAI/awesome-finance-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "BlockRunAI/awesome-healthcare-mcp",
+      "url": "https://github.com/BlockRunAI/awesome-healthcare-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "boarlabsxyz/awesome-mcp",
+      "url": "https://github.com/boarlabsxyz/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "bouthyabattu/awesome-mcp-servers",
+      "url": "https://github.com/bouthyabattu/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "boyso/Awesome-Claude-MCP-Servers-List",
+      "url": "https://github.com/boyso/Awesome-Claude-MCP-Servers-List",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "BrethofAI/awesome-mcp-servers",
+      "url": "https://github.com/BrethofAI/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "BrettOJ/awesome-copilot-custom-mcp-server",
+      "url": "https://github.com/BrettOJ/awesome-copilot-custom-mcp-server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "buddies2705/awesome-crypto-mcp",
+      "url": "https://github.com/buddies2705/awesome-crypto-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "butakamal/my-awesome-mcp-server",
+      "url": "https://github.com/butakamal/my-awesome-mcp-server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "butzhang/awesome-3d-mcp",
+      "url": "https://github.com/butzhang/awesome-3d-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Ceki-me/awesome-mcp-servers-fork",
+      "url": "https://github.com/Ceki-me/awesome-mcp-servers-fork",
+      "included": false,
+      "reason": "copy, backup, or submission repository"
+    },
+    {
+      "fullName": "chadackrupayl0n6/awesome-tools-7mcp",
+      "url": "https://github.com/chadackrupayl0n6/awesome-tools-7mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "champster3243-build/awesome-mcp-servers-punkpeye",
+      "url": "https://github.com/champster3243-build/awesome-mcp-servers-punkpeye",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Chat2AnyLLM/awesome-mcp-servers",
+      "url": "https://github.com/Chat2AnyLLM/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ChatGPTNextWeb/NextChat-MCP-Awesome",
+      "url": "https://github.com/ChatGPTNextWeb/NextChat-MCP-Awesome",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "chiggly007/awesome_copilot_mcp",
+      "url": "https://github.com/chiggly007/awesome_copilot_mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "chrisforgezone/awesome-mcp-servers",
+      "url": "https://github.com/chrisforgezone/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Christian-Sidak/awesome-mcp-tools",
+      "url": "https://github.com/Christian-Sidak/awesome-mcp-tools",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "claudioed/awesome-dev-mcp",
+      "url": "https://github.com/claudioed/awesome-dev-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "cmenge/awesome-b2b-mcp",
+      "url": "https://github.com/cmenge/awesome-b2b-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "collabnix/awesome-mcp-lists",
+      "url": "https://github.com/collabnix/awesome-mcp-lists",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "conquext/awesome-mcp-servers-appcypher",
+      "url": "https://github.com/conquext/awesome-mcp-servers-appcypher",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "costrict-plugins-repo/sickn33-antigravity-awesome-skills-antigravity-bundle-aas-agent-mcp-builder",
+      "url": "https://github.com/costrict-plugins-repo/sickn33-antigravity-awesome-skills-antigravity-bundle-aas-agent-mcp-builder",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "crowdere/Awesome-RE-MCP",
+      "url": "https://github.com/crowdere/Awesome-RE-MCP",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "cryptoleek-team/awesome-solana-mcp",
+      "url": "https://github.com/cryptoleek-team/awesome-solana-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Cubiczan/awesome-mcp-servers",
+      "url": "https://github.com/Cubiczan/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Cubiczan/awesome-mcp-servers-1",
+      "url": "https://github.com/Cubiczan/awesome-mcp-servers-1",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "cx-marquez/awesome-mcp-servers",
+      "url": "https://github.com/cx-marquez/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Daeda-Technologies-Ltd/Awesome-MCP-Servers",
+      "url": "https://github.com/Daeda-Technologies-Ltd/Awesome-MCP-Servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "darjeeling/awesome-mcp-korea",
+      "url": "https://github.com/darjeeling/awesome-mcp-korea",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "darkbert781/My-Awesome-MCP-Server",
+      "url": "https://github.com/darkbert781/My-Awesome-MCP-Server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "data-daniel-12/mcp-awesome-design",
+      "url": "https://github.com/data-daniel-12/mcp-awesome-design",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Daviidro/awesome-aec-mcp",
+      "url": "https://github.com/Daviidro/awesome-aec-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "dayfiric/awesome-MCP",
+      "url": "https://github.com/dayfiric/awesome-MCP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "dedezinholindo/AWESOME-RED-TEAM-MCP-SERVERS",
+      "url": "https://github.com/dedezinholindo/AWESOME-RED-TEAM-MCP-SERVERS",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "DEFENSE-SEU/Awesome-Scientific-MCP-Servers",
+      "url": "https://github.com/DEFENSE-SEU/Awesome-Scientific-MCP-Servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "DeltaForce-Elite-Mods/awesome-mcp-servers",
+      "url": "https://github.com/DeltaForce-Elite-Mods/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "demcp/awesome-web3-mcp-servers",
+      "url": "https://github.com/demcp/awesome-web3-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "derisk-ai/awesome-devops-mcp-servers",
+      "url": "https://github.com/derisk-ai/awesome-devops-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "devanshug2307/awesome-mcp-servers",
+      "url": "https://github.com/devanshug2307/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "devinsightdotio/awesome_mcp",
+      "url": "https://github.com/devinsightdotio/awesome_mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "DhanushNehru/awesome-mcp-servers",
+      "url": "https://github.com/DhanushNehru/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "dingodb/awesome-dingodb-mcp",
+      "url": "https://github.com/dingodb/awesome-dingodb-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "dioptx/awesome-mcp-servers-bak",
+      "url": "https://github.com/dioptx/awesome-mcp-servers-bak",
+      "included": false,
+      "reason": "copy, backup, or submission repository"
+    },
+    {
+      "fullName": "djmclaudeassistant-web/awesome-mcp-servers",
+      "url": "https://github.com/djmclaudeassistant-web/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "DMontgomery40/awesome-mcp-english",
+      "url": "https://github.com/DMontgomery40/awesome-mcp-english",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "dng-ngothanhloi/awesome-mcp-servers",
+      "url": "https://github.com/dng-ngothanhloi/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "dolfly/awesome-mcp",
+      "url": "https://github.com/dolfly/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "e2b-dev/awesome-mcp-gateways",
+      "url": "https://github.com/e2b-dev/awesome-mcp-gateways",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "eaccesdev/awesome-mcp-servers",
+      "url": "https://github.com/eaccesdev/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "elasticflowapp/awesome-business-agents-skills-mcps",
+      "url": "https://github.com/elasticflowapp/awesome-business-agents-skills-mcps",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Eldergenix/Awesome-MCP",
+      "url": "https://github.com/Eldergenix/Awesome-MCP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "elecycele/Awesome-MCP",
+      "url": "https://github.com/elecycele/Awesome-MCP",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "enhansome/enhansome-Awesome-MCP",
+      "url": "https://github.com/enhansome/enhansome-Awesome-MCP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "enhansome/enhansome-Awesome-MCP-Servers",
+      "url": "https://github.com/enhansome/enhansome-Awesome-MCP-Servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "enhansome/enhansome-Awesome-MCP-ZH",
+      "url": "https://github.com/enhansome/enhansome-Awesome-MCP-ZH",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Enterprise-AI-Atlas/awesome-mcp-servers",
+      "url": "https://github.com/Enterprise-AI-Atlas/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Enterprise-AI-Atlas/awesome-nvidia-agentic-skills-mcp",
+      "url": "https://github.com/Enterprise-AI-Atlas/awesome-nvidia-agentic-skills-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Enterprise-AI-Atlas/awesome-oracle-agentic-skills-mcp",
+      "url": "https://github.com/Enterprise-AI-Atlas/awesome-oracle-agentic-skills-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "eon01/awesome-mcp",
+      "url": "https://github.com/eon01/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "epicmotionSD/awesome-mcp",
+      "url": "https://github.com/epicmotionSD/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Epistates/awesome-mcp-devtools",
+      "url": "https://github.com/Epistates/awesome-mcp-devtools",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "eruo005-dev/awesome-turkish-mcp",
+      "url": "https://github.com/eruo005-dev/awesome-turkish-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "esc5221/awesome-awesome-mcp-servers",
+      "url": "https://github.com/esc5221/awesome-awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "essentialols/awesome-mcp-servers-data",
+      "url": "https://github.com/essentialols/awesome-mcp-servers-data",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "EternaHybridExchange/awesome-mcp-trading",
+      "url": "https://github.com/EternaHybridExchange/awesome-mcp-trading",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "EthanYolo01/Awesome-MCP",
+      "url": "https://github.com/EthanYolo01/Awesome-MCP",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "euriion/awesome-mcp-whitepapers",
+      "url": "https://github.com/euriion/awesome-mcp-whitepapers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "ever-works/awesome-mcp-servers",
+      "url": "https://github.com/ever-works/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ever-works/awesome-mcp-servers-data",
+      "url": "https://github.com/ever-works/awesome-mcp-servers-data",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "FLock-io/awesome-web3-mcp",
+      "url": "https://github.com/FLock-io/awesome-web3-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "formulahendry/awesome-mcp-registry-servers",
+      "url": "https://github.com/formulahendry/awesome-mcp-registry-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "FreeAutomation-Tech/awesome-mcp-servers",
+      "url": "https://github.com/FreeAutomation-Tech/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "fuzzylabs/awesome-secure-mcp-servers",
+      "url": "https://github.com/fuzzylabs/awesome-secure-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "G0Osey99/awesome-mineflayer-mcp",
+      "url": "https://github.com/G0Osey99/awesome-mineflayer-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "gamasenninn/my-awesome-mcp-server",
+      "url": "https://github.com/gamasenninn/my-awesome-mcp-server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "geesugar/awesome-mcp",
+      "url": "https://github.com/geesugar/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "getagentseal/awesome-mcp-security",
+      "url": "https://github.com/getagentseal/awesome-mcp-security",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "gndps/awesome-mcp-server-managers",
+      "url": "https://github.com/gndps/awesome-mcp-server-managers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "godberrystudios/awesome-mcp-tools",
+      "url": "https://github.com/godberrystudios/awesome-mcp-tools",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "gulbaki/awesome-mcp",
+      "url": "https://github.com/gulbaki/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "gulmezeren2-byte/awesome-turkish-mcp",
+      "url": "https://github.com/gulmezeren2-byte/awesome-turkish-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "gummble/awesome-design-mcp",
+      "url": "https://github.com/gummble/awesome-design-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "guru4elephant/awesome-cursor-mcp",
+      "url": "https://github.com/guru4elephant/awesome-cursor-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "habeebmoosa/awesome-mcp-servers",
+      "url": "https://github.com/habeebmoosa/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "habitoai/awesome-mcp-servers",
+      "url": "https://github.com/habitoai/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "habitoai/Awesome-MCP-Servers-directory",
+      "url": "https://github.com/habitoai/Awesome-MCP-Servers-directory",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "healthkowshik/awesome-health-mcp",
+      "url": "https://github.com/healthkowshik/awesome-health-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "heckcoder/awesome-mcp-server",
+      "url": "https://github.com/heckcoder/awesome-mcp-server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "henrikaronsson/awesome-ng-mcp",
+      "url": "https://github.com/henrikaronsson/awesome-ng-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "hgxszhj/Awesome-Claude-MCP-Servers",
+      "url": "https://github.com/hgxszhj/Awesome-Claude-MCP-Servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "hireblackout/awesome-mcp-servers",
+      "url": "https://github.com/hireblackout/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "hive-intel/awesome-crypto-mcp-servers",
+      "url": "https://github.com/hive-intel/awesome-crypto-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "hmzainjamil/awesome-devops-mcp-servers",
+      "url": "https://github.com/hmzainjamil/awesome-devops-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "hodovani/awesome-mcp-tools",
+      "url": "https://github.com/hodovani/awesome-mcp-tools",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "iAmCorey/Awesome-MCP",
+      "url": "https://github.com/iAmCorey/Awesome-MCP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "ihpwhath/awesome-mcp-toolkit",
+      "url": "https://github.com/ihpwhath/awesome-mcp-toolkit",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Innocent-Akim/awesome-mcp-servers-data",
+      "url": "https://github.com/Innocent-Akim/awesome-mcp-servers-data",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "IrfanDevOps01/mcp-awesome-list",
+      "url": "https://github.com/IrfanDevOps01/mcp-awesome-list",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ismael-joffroy-chandoutis/awesome-human-mcps",
+      "url": "https://github.com/ismael-joffroy-chandoutis/awesome-human-mcps",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ismailkho/awesome-mcp-servers-security",
+      "url": "https://github.com/ismailkho/awesome-mcp-servers-security",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "itskiranbabu/awesome-mcp-servers",
+      "url": "https://github.com/itskiranbabu/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ivishnuraj/awesome-mcp-servers",
+      "url": "https://github.com/ivishnuraj/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "j-davidt/awesome-remote-mcp-servers",
+      "url": "https://github.com/j-davidt/awesome-remote-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "ja7ad/punkpeye-awesome-mcp-servers",
+      "url": "https://github.com/ja7ad/punkpeye-awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "jacquesmyo/awesome-mcp-servers-submit",
+      "url": "https://github.com/jacquesmyo/awesome-mcp-servers-submit",
+      "included": false,
+      "reason": "copy, backup, or submission repository"
+    },
+    {
+      "fullName": "Janabi/awesome-pizza-mcp-py",
+      "url": "https://github.com/Janabi/awesome-pizza-mcp-py",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Janabi/awesome-pizza-mcp-ts",
+      "url": "https://github.com/Janabi/awesome-pizza-mcp-ts",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "JasonKrik/awesome-mcp-server",
+      "url": "https://github.com/JasonKrik/awesome-mcp-server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "JavaProgrammerLB/awesome-mcp-square",
+      "url": "https://github.com/JavaProgrammerLB/awesome-mcp-square",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Javeriaf19/awesome-mcp-for-creatives",
+      "url": "https://github.com/Javeriaf19/awesome-mcp-for-creatives",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "jaw9c/awesome-remote-mcp-servers",
+      "url": "https://github.com/jaw9c/awesome-remote-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "jessicaburnsbrandtcamryn278/awesome-remote-mcp-servers",
+      "url": "https://github.com/jessicaburnsbrandtcamryn278/awesome-remote-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "jinuk0211/awesome-finance-agent-list_mcp",
+      "url": "https://github.com/jinuk0211/awesome-finance-agent-list_mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "jjeejj/awesome-mcp-scheme",
+      "url": "https://github.com/jjeejj/awesome-mcp-scheme",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "JoasASantos/awesome-cybersecurity-MCP",
+      "url": "https://github.com/JoasASantos/awesome-cybersecurity-MCP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "JohnnyFerranteTech/awesome-mcp-by-vertical",
+      "url": "https://github.com/JohnnyFerranteTech/awesome-mcp-by-vertical",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "joypaul162/punkpeye-awesome-mcp-clients",
+      "url": "https://github.com/joypaul162/punkpeye-awesome-mcp-clients",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "joypaul162/punkpeye-awesome-mcp-servers",
+      "url": "https://github.com/joypaul162/punkpeye-awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "jpatterson933/awesome-mcp-server-repo-index",
+      "url": "https://github.com/jpatterson933/awesome-mcp-server-repo-index",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "jpeslar1/awesome-linkedin-mcp",
+      "url": "https://github.com/jpeslar1/awesome-linkedin-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "jpoehnelt/awesome-workspace-mcp",
+      "url": "https://github.com/jpoehnelt/awesome-workspace-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "jsvvsolsllc/awesome-web-mcp",
+      "url": "https://github.com/jsvvsolsllc/awesome-web-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Julion/awesome-mcp",
+      "url": "https://github.com/Julion/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Justin-gooslin/awesome-remote-MCP-server",
+      "url": "https://github.com/Justin-gooslin/awesome-remote-MCP-server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "JustInCache/awesome-mcp-collection",
+      "url": "https://github.com/JustInCache/awesome-mcp-collection",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "kaeltrn/awesome-backlog-mcp",
+      "url": "https://github.com/kaeltrn/awesome-backlog-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "kalyanastin/awesome-mcp-tools",
+      "url": "https://github.com/kalyanastin/awesome-mcp-tools",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "kamal-dhital/awesome-copilot-mcp",
+      "url": "https://github.com/kamal-dhital/awesome-copilot-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "kawsarlog/awesome-mcp-api",
+      "url": "https://github.com/kawsarlog/awesome-mcp-api",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "kax168/awesome-mcp-agents",
+      "url": "https://github.com/kax168/awesome-mcp-agents",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "kax168/awesome-mcp-workflows",
+      "url": "https://github.com/kax168/awesome-mcp-workflows",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "kbingol/awesome-aad-mcps",
+      "url": "https://github.com/kbingol/awesome-aad-mcps",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "KeiosStarqua/TensorBlock-awesome-mcp-servers",
+      "url": "https://github.com/KeiosStarqua/TensorBlock-awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "kesaruhasun/awesome-antigravity-skills-mcp-guide",
+      "url": "https://github.com/kesaruhasun/awesome-antigravity-skills-mcp-guide",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "kevin801221/awesome-mcp-and-agent-skills",
+      "url": "https://github.com/kevin801221/awesome-mcp-and-agent-skills",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "kewin1807/awesome-mcps",
+      "url": "https://github.com/kewin1807/awesome-mcps",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "KeynesYouDigIt/awesome-geospatial-mcp",
+      "url": "https://github.com/KeynesYouDigIt/awesome-geospatial-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "kigb/awesome-agent-mcp-routing",
+      "url": "https://github.com/kigb/awesome-agent-mcp-routing",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "korchasa/awesome-mcp",
+      "url": "https://github.com/korchasa/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "kp-KinjalPatel/awesome-mcp-servers",
+      "url": "https://github.com/kp-KinjalPatel/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "kritsanan1/genspark-awesome-mcp",
+      "url": "https://github.com/kritsanan1/genspark-awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Kuberwastaken/awesome-claude-mcp-servers",
+      "url": "https://github.com/Kuberwastaken/awesome-claude-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Kuberwastaken/awesome-codex-mcp-servers",
+      "url": "https://github.com/Kuberwastaken/awesome-codex-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "kuhyx/awesome-mcp-explorer",
+      "url": "https://github.com/kuhyx/awesome-mcp-explorer",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "kushal-wq/enhanced-punkpeye-awesome-mcp-servers-20250402",
+      "url": "https://github.com/kushal-wq/enhanced-punkpeye-awesome-mcp-servers-20250402",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "L-Qun/awesome-mcp-chat",
+      "url": "https://github.com/L-Qun/awesome-mcp-chat",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Laurent-Zhu/awesome-staruml-mcp-server",
+      "url": "https://github.com/Laurent-Zhu/awesome-staruml-mcp-server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "leomerl/levys-awesome-mcp",
+      "url": "https://github.com/leomerl/levys-awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "LeslieLeung/awesome-mcp-server-cn",
+      "url": "https://github.com/LeslieLeung/awesome-mcp-server-cn",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "lexmin0412/awesome-mcps-for-coding",
+      "url": "https://github.com/lexmin0412/awesome-mcps-for-coding",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "libratiger/awesome-devsecops-mcp",
+      "url": "https://github.com/libratiger/awesome-devsecops-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "LichAmnesia/awesome-mcp-clients",
+      "url": "https://github.com/LichAmnesia/awesome-mcp-clients",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "lilyth-y/awesome-mcp-servers",
+      "url": "https://github.com/lilyth-y/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "linoleivabadass-netizen/My-Awesome-MCP-Server",
+      "url": "https://github.com/linoleivabadass-netizen/My-Awesome-MCP-Server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "lirantal/awesome-mcp-best-practices",
+      "url": "https://github.com/lirantal/awesome-mcp-best-practices",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Lixingyunn/awesome-mcp-servers",
+      "url": "https://github.com/Lixingyunn/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "liz7788/awesome-mcp-servers",
+      "url": "https://github.com/liz7788/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "lllray/awesome-mcp-servers",
+      "url": "https://github.com/lllray/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "LLM-Awesome/MCP",
+      "url": "https://github.com/LLM-Awesome/MCP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "LLM-Awesome/MCP-sites",
+      "url": "https://github.com/LLM-Awesome/MCP-sites",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "lm203688/awesome-mcp-security",
+      "url": "https://github.com/lm203688/awesome-mcp-security",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "luna-industry/awesome-mcp-servers",
+      "url": "https://github.com/luna-industry/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "m18897829375/awesome-mcp-servers",
+      "url": "https://github.com/m18897829375/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Magdoub/awesome-gsc-mcp",
+      "url": "https://github.com/Magdoub/awesome-gsc-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "Majboor/awesome-upwork-mcp",
+      "url": "https://github.com/Majboor/awesome-upwork-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "malo2b/awesome-mcp-clients",
+      "url": "https://github.com/malo2b/awesome-mcp-clients",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "manil2020/awesome-mcp-servers",
+      "url": "https://github.com/manil2020/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "mansiTT/awesome-mcp-servers",
+      "url": "https://github.com/mansiTT/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "margaret-bassett717c/awesome-mcp-servers",
+      "url": "https://github.com/margaret-bassett717c/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "martinchristopher26/awesome-mcp-servers-up",
+      "url": "https://github.com/martinchristopher26/awesome-mcp-servers-up",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "martinkhristi/Awesome_MCP_Tools",
+      "url": "https://github.com/martinkhristi/Awesome_MCP_Tools",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "matteotitta/awesome-gtm-mcp-servers",
+      "url": "https://github.com/matteotitta/awesome-gtm-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "MattJeff/awesome-mcp-servers-appcypher",
+      "url": "https://github.com/MattJeff/awesome-mcp-servers-appcypher",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "MaximPro/awesome-mcp-servers-meta",
+      "url": "https://github.com/MaximPro/awesome-mcp-servers-meta",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "mazhar480/awesome-confluence-mcp",
+      "url": "https://github.com/mazhar480/awesome-confluence-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "mcp-finder/awesome-mcp-servers",
+      "url": "https://github.com/mcp-finder/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "mcp-security-project/awesome-agentic-mcp-security",
+      "url": "https://github.com/mcp-security-project/awesome-agentic-mcp-security",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "mcp-use/awesome-chatgpt-apps",
+      "url": "https://github.com/mcp-use/awesome-chatgpt-apps",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "mcpflow/mcpservers_awesome-mcp-servers",
+      "url": "https://github.com/mcpflow/mcpservers_awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "mcpflow/win4r_Awesome-Claude-MCP-Servers",
+      "url": "https://github.com/mcpflow/win4r_Awesome-Claude-MCP-Servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "mcpHQ/awesome-mcp-servers",
+      "url": "https://github.com/mcpHQ/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "MCPHubCloud/awesome-mcp",
+      "url": "https://github.com/MCPHubCloud/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "MCPStar/awesome-dxt-mcp",
+      "url": "https://github.com/MCPStar/awesome-dxt-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "MCPStar/Awesome-Official-MCP-Servers",
+      "url": "https://github.com/MCPStar/Awesome-Official-MCP-Servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "mcpui-hub/awesome-mcp-ui",
+      "url": "https://github.com/mcpui-hub/awesome-mcp-ui",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "mctrinh/awesome-mcp-servers",
+      "url": "https://github.com/mctrinh/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "MengmeiZ/awesome-graph-mcp",
+      "url": "https://github.com/MengmeiZ/awesome-graph-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "mescottbeeker/Awesome-MCP",
+      "url": "https://github.com/mescottbeeker/Awesome-MCP",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "mgoldsborough/awesome-mcpb",
+      "url": "https://github.com/mgoldsborough/awesome-mcpb",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "microchipgnu/awesome-mcp-x402",
+      "url": "https://github.com/microchipgnu/awesome-mcp-x402",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "MobinX/awesome-mcp-list",
+      "url": "https://github.com/MobinX/awesome-mcp-list",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "moikot/awesome-mcp",
+      "url": "https://github.com/moikot/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "moonirul/Awesome-MCP-Learning",
+      "url": "https://github.com/moonirul/Awesome-MCP-Learning",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "MoonSoon69/awesome-mcp-servers-punkpeye",
+      "url": "https://github.com/MoonSoon69/awesome-mcp-servers-punkpeye",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "MorDavid/awesome-cyber-security-mcp",
+      "url": "https://github.com/MorDavid/awesome-cyber-security-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "mphinance/awesome-broker-mcp",
+      "url": "https://github.com/mphinance/awesome-broker-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "MR-GREEN1337/awesome-mcp-fastapi",
+      "url": "https://github.com/MR-GREEN1337/awesome-mcp-fastapi",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "mrfentmen/awesome-mcps",
+      "url": "https://github.com/mrfentmen/awesome-mcps",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "muratozfidan/awesome-security-mcp-server",
+      "url": "https://github.com/muratozfidan/awesome-security-mcp-server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "Musawir456/Awesome-MCP-Server-",
+      "url": "https://github.com/Musawir456/Awesome-MCP-Server-",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "Music-MCP/awesome-music-mcp",
+      "url": "https://github.com/Music-MCP/awesome-music-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "NameZH131/awesome-penpot-mcp-design-skill",
+      "url": "https://github.com/NameZH131/awesome-penpot-mcp-design-skill",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "NDeeSeee/AwesomeMCP",
+      "url": "https://github.com/NDeeSeee/AwesomeMCP",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "NeuralRays/awesome-mcp-hub",
+      "url": "https://github.com/NeuralRays/awesome-mcp-hub",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "nluninja/awesome-mcp-resources",
+      "url": "https://github.com/nluninja/awesome-mcp-resources",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "notedit/awesome-mcp-list",
+      "url": "https://github.com/notedit/awesome-mcp-list",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "oceanbase/awesome-oceanbase-mcp",
+      "url": "https://github.com/oceanbase/awesome-oceanbase-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "oleksandr-popov/awesome-mcp",
+      "url": "https://github.com/oleksandr-popov/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "ondatra-ai/awesome-claude-mcp",
+      "url": "https://github.com/ondatra-ai/awesome-claude-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "OrenVill/awesome-mcp-servers",
+      "url": "https://github.com/OrenVill/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "OrrisTech/awesome-mcp",
+      "url": "https://github.com/OrrisTech/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "P-Faust/awesome-todo-mcp-server",
+      "url": "https://github.com/P-Faust/awesome-todo-mcp-server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "PhilipDev0519/awesome-mcp-servers-bak",
+      "url": "https://github.com/PhilipDev0519/awesome-mcp-servers-bak",
+      "included": false,
+      "reason": "copy, backup, or submission repository"
+    },
+    {
+      "fullName": "piinokhoahocf8/awesome-mcp-servers-main",
+      "url": "https://github.com/piinokhoahocf8/awesome-mcp-servers-main",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "PipedreamHQ/awesome-mcp-servers",
+      "url": "https://github.com/PipedreamHQ/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "preset-io/awesome-data-mcp",
+      "url": "https://github.com/preset-io/awesome-data-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "PrincejiCoder/awesome-mcp",
+      "url": "https://github.com/PrincejiCoder/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "psylch/awesome-mcp-apps",
+      "url": "https://github.com/psylch/awesome-mcp-apps",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "PTHy/awesome-design-mcp",
+      "url": "https://github.com/PTHy/awesome-design-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "Puliczek/awesome-mcp-security",
+      "url": "https://github.com/Puliczek/awesome-mcp-security",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "PulkitXChadha/awesome-databricks-mcp",
+      "url": "https://github.com/PulkitXChadha/awesome-databricks-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "punkpeye/awesome-mcp-clients",
+      "url": "https://github.com/punkpeye/awesome-mcp-clients",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "punkpeye/awesome-mcp-devtools",
+      "url": "https://github.com/punkpeye/awesome-mcp-devtools",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "R00T-Kim/awesome-offensive-mcp",
+      "url": "https://github.com/R00T-Kim/awesome-offensive-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "raghav4/awesome-mcp-servers",
+      "url": "https://github.com/raghav4/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "rajibconf/awesome-devops-mcp-servers",
+      "url": "https://github.com/rajibconf/awesome-devops-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "RanaAhmar/awesome-mcp-clients",
+      "url": "https://github.com/RanaAhmar/awesome-mcp-clients",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "RanaAhmar/awesome-mcp-servers",
+      "url": "https://github.com/RanaAhmar/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "raoufchebri/awesome-mcp",
+      "url": "https://github.com/raoufchebri/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "RaviBagannagari/awesome-mcp-servers",
+      "url": "https://github.com/RaviBagannagari/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "RaviBagannagari/awesome-mcp-servers_imported",
+      "url": "https://github.com/RaviBagannagari/awesome-mcp-servers_imported",
+      "included": false,
+      "reason": "copy, backup, or submission repository"
+    },
+    {
+      "fullName": "RbBtSn0w/awesome-copilot-mcp",
+      "url": "https://github.com/RbBtSn0w/awesome-copilot-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "rdhandapani88/awesome-mcp-clients",
+      "url": "https://github.com/rdhandapani88/awesome-mcp-clients",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "rdhandapani88/awesome-mcp-devtools",
+      "url": "https://github.com/rdhandapani88/awesome-mcp-devtools",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "rdhandapani88/mcp-server-awesome",
+      "url": "https://github.com/rdhandapani88/mcp-server-awesome",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "rdmgator12/awesome-healthcare-mcp-servers",
+      "url": "https://github.com/rdmgator12/awesome-healthcare-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Recall-Kitchen/awesome-x402-mcp-services",
+      "url": "https://github.com/Recall-Kitchen/awesome-x402-mcp-services",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Redempt1onzzZZ/Awesome-MCP-Papers",
+      "url": "https://github.com/Redempt1onzzZZ/Awesome-MCP-Papers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ricardomb-tech/awesome-mcp-java",
+      "url": "https://github.com/ricardomb-tech/awesome-mcp-java",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "ritabrata7/awesome-mcp-servers",
+      "url": "https://github.com/ritabrata7/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "rizzdev/awesome-mcp-open",
+      "url": "https://github.com/rizzdev/awesome-mcp-open",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "robotlearning123/awesome-mcp-servers",
+      "url": "https://github.com/robotlearning123/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Rodert/awesome-mcp",
+      "url": "https://github.com/Rodert/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Rohianon/awesome-mcp-servers",
+      "url": "https://github.com/Rohianon/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "rohitg00/awesome-devops-mcp-servers",
+      "url": "https://github.com/rohitg00/awesome-devops-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "romeo111/awesome-mcp-servers-2",
+      "url": "https://github.com/romeo111/awesome-mcp-servers-2",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "royalpinto007/awesome-mcp-security",
+      "url": "https://github.com/royalpinto007/awesome-mcp-security",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "royyannick/awesome-blockchain-mcps",
+      "url": "https://github.com/royyannick/awesome-blockchain-mcps",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "RupertBarrow/awesome-salesforce-mcp",
+      "url": "https://github.com/RupertBarrow/awesome-salesforce-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Sagargupta16/awesome-mcp-servers",
+      "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "sagarjethi/awesome-mcp-servers",
+      "url": "https://github.com/sagarjethi/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "SaharCarmel/postgres-awesome-mcp",
+      "url": "https://github.com/SaharCarmel/postgres-awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "saifeezibrahim/awesome-devops-mcp-servers-devops-ai",
+      "url": "https://github.com/saifeezibrahim/awesome-devops-mcp-servers-devops-ai",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "SciSharp/Awesome-DotNET-MCP",
+      "url": "https://github.com/SciSharp/Awesome-DotNET-MCP",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "sendaifun/awesome-solana-mcp-servers",
+      "url": "https://github.com/sendaifun/awesome-solana-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "serenakeyitan/awesome-mcp-servers",
+      "url": "https://github.com/serenakeyitan/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Serennity007/awesome-mcp-servers",
+      "url": "https://github.com/Serennity007/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "setmpp/awesome-mcp-servers-ru",
+      "url": "https://github.com/setmpp/awesome-mcp-servers-ru",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "shadowrootdev/awesome-agent-skills-mcp",
+      "url": "https://github.com/shadowrootdev/awesome-agent-skills-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "shahabmokhtari/awesome-imap-mcp",
+      "url": "https://github.com/shahabmokhtari/awesome-imap-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "shanggqm/awesome-medical-mcp-server",
+      "url": "https://github.com/shanggqm/awesome-medical-mcp-server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "sharozdawa/awesome-seo-mcp-servers",
+      "url": "https://github.com/sharozdawa/awesome-seo-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "sharozdawafynd/awesome-seo-mcp-servers",
+      "url": "https://github.com/sharozdawafynd/awesome-seo-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "shaxzodbek-uzb/awesome-mcp-erp",
+      "url": "https://github.com/shaxzodbek-uzb/awesome-mcp-erp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "SherzodKhaydarov/punkpeye_awesome-mcp-servers",
+      "url": "https://github.com/SherzodKhaydarov/punkpeye_awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Shown06/awesome-japanese-mcp",
+      "url": "https://github.com/Shown06/awesome-japanese-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "shtse8/awesome-mcp-servers-pdf-outreach",
+      "url": "https://github.com/shtse8/awesome-mcp-servers-pdf-outreach",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "shyshyshyyyy/awesome-mcp-zh",
+      "url": "https://github.com/shyshyshyyyy/awesome-mcp-zh",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "SidUParis/awesome-douyin-mcp",
+      "url": "https://github.com/SidUParis/awesome-douyin-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "sivolko/Awesome-Security-MCP-Servers",
+      "url": "https://github.com/sivolko/Awesome-Security-MCP-Servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "skypoc/Awesome-MCP-JP",
+      "url": "https://github.com/skypoc/Awesome-MCP-JP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "SohniSwatantra/awesome-mcp-apps",
+      "url": "https://github.com/SohniSwatantra/awesome-mcp-apps",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "solvc4u/Awesome-MCP-Server",
+      "url": "https://github.com/solvc4u/Awesome-MCP-Server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "soxoj/awesome-osint-mcp-servers",
+      "url": "https://github.com/soxoj/awesome-osint-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "spencerpauly/awesome-mcp-databases",
+      "url": "https://github.com/spencerpauly/awesome-mcp-databases",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "spinov001-art/awesome-mcp-servers-2026",
+      "url": "https://github.com/spinov001-art/awesome-mcp-servers-2026",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "spinov001-art/awesome-mcp-tools-2026",
+      "url": "https://github.com/spinov001-art/awesome-mcp-tools-2026",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Spysailor/awesome-mcp-servers",
+      "url": "https://github.com/Spysailor/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "sravans236/awesome-ops-mcp",
+      "url": "https://github.com/sravans236/awesome-ops-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "SterlingChin/awesome-mcp-servers-discovery",
+      "url": "https://github.com/SterlingChin/awesome-mcp-servers-discovery",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "studivox/awesome-n8n-whatsapp-mcp",
+      "url": "https://github.com/studivox/awesome-n8n-whatsapp-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "subratadasGit/awesome-mcp-servers",
+      "url": "https://github.com/subratadasGit/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Sukumar-Elley/awesome-mcp-servers",
+      "url": "https://github.com/Sukumar-Elley/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "sulabhshukla/one_awesome_mcp",
+      "url": "https://github.com/sulabhshukla/one_awesome_mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "sunanhe/awesome-medical-mcp-servers",
+      "url": "https://github.com/sunanhe/awesome-medical-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "sunnamed434/awesome-mcp-registry",
+      "url": "https://github.com/sunnamed434/awesome-mcp-registry",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "sunrabbit123/awesome-fe-mcp-bundle",
+      "url": "https://github.com/sunrabbit123/awesome-fe-mcp-bundle",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "swarmclawai/awesome-mcp-for-coding-agents",
+      "url": "https://github.com/swarmclawai/awesome-mcp-for-coding-agents",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "sylviangth/awesome-remote-mcp-servers",
+      "url": "https://github.com/sylviangth/awesome-remote-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "takutakahashi/awesome-mcp-proxy",
+      "url": "https://github.com/takutakahashi/awesome-mcp-proxy",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "tamish560/awesome-mcp-security",
+      "url": "https://github.com/tamish560/awesome-mcp-security",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "tangdun2025/awesome_mcp_resources",
+      "url": "https://github.com/tangdun2025/awesome_mcp_resources",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "TangentDomain/awesome-cursor-mcp.json",
+      "url": "https://github.com/TangentDomain/awesome-cursor-mcp.json",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "tanmoy1139/awesome-osint-mcp-servers",
+      "url": "https://github.com/tanmoy1139/awesome-osint-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "tdurkut/mcp-is-awesome",
+      "url": "https://github.com/tdurkut/mcp-is-awesome",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "techiediaries/awesome-mcp",
+      "url": "https://github.com/techiediaries/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "teehooai/awesome-mcp-security",
+      "url": "https://github.com/teehooai/awesome-mcp-security",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "TensorBlock/awesome-mcp-servers",
+      "url": "https://github.com/TensorBlock/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "tentenco/awesome-agent-mcp",
+      "url": "https://github.com/tentenco/awesome-agent-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "terrytaylorbonn/347_Awesome-MCP-Server",
+      "url": "https://github.com/terrytaylorbonn/347_Awesome-MCP-Server",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "Thedarklo/awesome-mcp-servers",
+      "url": "https://github.com/Thedarklo/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "theneoai/awesome-mcps",
+      "url": "https://github.com/theneoai/awesome-mcps",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ThuYoung/Awesome-MCP-Servers-By-SpoonOS",
+      "url": "https://github.com/ThuYoung/Awesome-MCP-Servers-By-SpoonOS",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "tiagohanna123/awesome-mcp-servers-appcypher-pr",
+      "url": "https://github.com/tiagohanna123/awesome-mcp-servers-appcypher-pr",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "tiagohanna123/fork-awesome-mcp",
+      "url": "https://github.com/tiagohanna123/fork-awesome-mcp",
+      "included": false,
+      "reason": "copy, backup, or submission repository"
+    },
+    {
+      "fullName": "timunbasah3/awesome-mcp",
+      "url": "https://github.com/timunbasah3/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Tommertom/awesome-ionic-mcp",
+      "url": "https://github.com/Tommertom/awesome-ionic-mcp",
+      "included": false,
+      "reason": "individual MCP server"
+    },
+    {
+      "fullName": "ToolmeshAI/awesome-mcp-workflows",
+      "url": "https://github.com/ToolmeshAI/awesome-mcp-workflows",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "toolprint/awesome-mcp-personas",
+      "url": "https://github.com/toolprint/awesome-mcp-personas",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "transatron/awesome-tron-mcp",
+      "url": "https://github.com/transatron/awesome-tron-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "truefoundry/awesome-mcp-servers",
+      "url": "https://github.com/truefoundry/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "TrueHaiq/awesome-mcp",
+      "url": "https://github.com/TrueHaiq/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "tuist/awesome-swift-mcp",
+      "url": "https://github.com/tuist/awesome-swift-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "twzrd-sol/awesome-mcp-security-2",
+      "url": "https://github.com/twzrd-sol/awesome-mcp-security-2",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "twzrd-sol/awesome-mcp-servers",
+      "url": "https://github.com/twzrd-sol/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "umitkacar/awesome-IOT-AI-agent-MCP",
+      "url": "https://github.com/umitkacar/awesome-IOT-AI-agent-MCP",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ungabunga-q/awesome-mcp-universe",
+      "url": "https://github.com/ungabunga-q/awesome-mcp-universe",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "unlimitbladeworks/awesome-mcp-twikit",
+      "url": "https://github.com/unlimitbladeworks/awesome-mcp-twikit",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "unsu0707/awesome-mcps-for-cursor",
+      "url": "https://github.com/unsu0707/awesome-mcps-for-cursor",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+      "url": "https://github.com/ununununium/notfair-awesome-mcp-servers-anuar-boop",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ununununium/notfair-awesome-mcp-servers-morisono",
+      "url": "https://github.com/ununununium/notfair-awesome-mcp-servers-morisono",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "usevebu3783/awesome-mcp-security",
+      "url": "https://github.com/usevebu3783/awesome-mcp-security",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Vincent-crypto-coder/awesome-mcp-servers-cn",
+      "url": "https://github.com/Vincent-crypto-coder/awesome-mcp-servers-cn",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "vinkius-labs/awesome-mcp-servers",
+      "url": "https://github.com/vinkius-labs/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "vinkius-labs/awesome-mcp-use-cases",
+      "url": "https://github.com/vinkius-labs/awesome-mcp-use-cases",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "VipinMI2024/awesome-mcp-servers",
+      "url": "https://github.com/VipinMI2024/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "VshareCloud-Project/awesome-mcp-servers",
+      "url": "https://github.com/VshareCloud-Project/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "VulnSphere/awesome-mcp-security",
+      "url": "https://github.com/VulnSphere/awesome-mcp-security",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "vvvvvvvvvvel/burp-awesome-mcp",
+      "url": "https://github.com/vvvvvvvvvvel/burp-awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "waanvar/awesome-mcp-servers",
+      "url": "https://github.com/waanvar/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "WagnerAgent/awesome-mcp-servers-devops",
+      "url": "https://github.com/WagnerAgent/awesome-mcp-servers-devops",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "wanghaisheng/awesome-mcp-servers",
+      "url": "https://github.com/wanghaisheng/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "wangzhongmin/awesome-mcp-servers",
+      "url": "https://github.com/wangzhongmin/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "wdead4011/awesome-mcp",
+      "url": "https://github.com/wdead4011/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "weekend-project-space/awesome-mcp",
+      "url": "https://github.com/weekend-project-space/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "weekend-project-space/awesome-remote-mcp-servers",
+      "url": "https://github.com/weekend-project-space/awesome-remote-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "weinni2000/awesome-odoo-mcp",
+      "url": "https://github.com/weinni2000/awesome-odoo-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "WendigosCyber/Awesome_OSINT_MCP_Servers",
+      "url": "https://github.com/WendigosCyber/Awesome_OSINT_MCP_Servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "win4r/Awesome-Claude-MCP-Servers",
+      "url": "https://github.com/win4r/Awesome-Claude-MCP-Servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "wong2/awesome-mcp-servers",
+      "url": "https://github.com/wong2/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "writingmate/awesome-mcp-servers",
+      "url": "https://github.com/writingmate/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "WTFoss/awesome-mcp",
+      "url": "https://github.com/WTFoss/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "wundercorp/awesome-mcp",
+      "url": "https://github.com/wundercorp/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "xbstack/awesome-mcp-finance",
+      "url": "https://github.com/xbstack/awesome-mcp-finance",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "xiaosong8584/awesome-mcp-servers",
+      "url": "https://github.com/xiaosong8584/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "XinmiaoYan/awesome-mcp-servers",
+      "url": "https://github.com/XinmiaoYan/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "xlxxcc/awesome-mcp",
+      "url": "https://github.com/xlxxcc/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "xpaysh/awesome-mcp-monetization",
+      "url": "https://github.com/xpaysh/awesome-mcp-monetization",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "xstelea/awesome-radix-mcp-servers",
+      "url": "https://github.com/xstelea/awesome-radix-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "yms0527/awesome-mcp-servers",
+      "url": "https://github.com/yms0527/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "YogiSotho/YOGI-AWESOME-MCP",
+      "url": "https://github.com/YogiSotho/YOGI-AWESOME-MCP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "yohannest84/MCP_IS_AWESOME",
+      "url": "https://github.com/yohannest84/MCP_IS_AWESOME",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "yongminkim0501/awesome-mcp-servers",
+      "url": "https://github.com/yongminkim0501/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Yuz2023/Awesome-MCP-for-Power-Engineering",
+      "url": "https://github.com/Yuz2023/Awesome-MCP-for-Power-Engineering",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "YuzeHao2023/Awesome-MCP-Servers",
+      "url": "https://github.com/YuzeHao2023/Awesome-MCP-Servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "YvMohsin/awesome-mcp-servers",
+      "url": "https://github.com/YvMohsin/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "yyf/awesome-creative-mcp-servers",
+      "url": "https://github.com/yyf/awesome-creative-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "yzfly/Awesome-MCP-ZH",
+      "url": "https://github.com/yzfly/Awesome-MCP-ZH",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "zackchewa/awesome-china-mcp",
+      "url": "https://github.com/zackchewa/awesome-china-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "zahidabdillahdev/awesome-mcp-ui",
+      "url": "https://github.com/zahidabdillahdev/awesome-mcp-ui",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "zhifenxing071346lorrainewyatt/awesome-mcp-servers",
+      "url": "https://github.com/zhifenxing071346lorrainewyatt/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "zk1tty/awesome-webMCP",
+      "url": "https://github.com/zk1tty/awesome-webMCP",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "zzdx713/Awesome-MCP-Scaffold",
+      "url": "https://github.com/zzdx713/Awesome-MCP-Scaffold",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    }
+  ]
+}

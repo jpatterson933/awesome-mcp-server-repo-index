@@ -1,8 +1,13 @@
 import { TimePeriodType } from "../types/badges.js";
 
-export function calculateTimePeriod(pushedAt: string): TimePeriodType {
+export function calculateTimePeriod(
+  pushedAt: string,
+  now: Date = new Date(),
+): TimePeriodType {
   const pushedDate = new Date(pushedAt);
-  const now = new Date();
+  if (Number.isNaN(pushedDate.getTime()) || Number.isNaN(now.getTime())) {
+    throw new Error("Freshness requires valid dates");
+  }
   const diffMs = now.getTime() - pushedDate.getTime();
   const diffHours = diffMs / (1000 * 60 * 60);
   const diffDays = diffHours / 24;

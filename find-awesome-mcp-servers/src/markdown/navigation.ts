@@ -29,6 +29,13 @@ const NAV_PAGES: NavPage[] = [
     path: `./${LEADERBOARD_COPY.activity.filename}`,
   },
   {
+    id: "coverage",
+    label: "Coverage",
+    icon: "🕸️",
+    color: LEADERBOARD_COPY.coverage.badgeColor,
+    path: `./${LEADERBOARD_COPY.coverage.filename}`,
+  },
+  {
     id: "allRepos",
     label: "All Repos",
     icon: "📋",

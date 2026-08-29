@@ -41,10 +41,11 @@ function generateLeaderboard(
   stat: MetricType,
   columnName: string,
   highlightNote?: string,
+  now: Date = new Date(),
 ): string {
   const copy = LEADERBOARD_COPY[leaderboardId];
   const topRepos = topTenByMetric(repos, stat);
-  const generatedDate = new Date().toISOString().split("T")[0];
+  const generatedDate = now.toISOString().split("T")[0];
 
   const sections = [
     navigationBar(leaderboardId),
@@ -65,7 +66,10 @@ function generateLeaderboard(
   return sections.join("\n");
 }
 
-export function generateTopStarred(repos: EnrichedRepo[]): string {
+export function generateTopStarred(
+  repos: EnrichedRepo[],
+  now: Date = new Date(),
+): string {
   const top = topTenByMetric(repos, "stargazers_count");
   const topCount = top[0]?.stargazers_count.toLocaleString() ?? "0";
   return generateLeaderboard(
@@ -74,33 +78,64 @@ export function generateTopStarred(repos: EnrichedRepo[]): string {
     "stargazers_count",
     "Stars",
     `#1 has ${topCount} stars. That's more than most frameworks.`,
+    now,
   );
 }
 
-export function generateTopSubscribed(repos: EnrichedRepo[]): string {
+export function generateTopSubscribed(
+  repos: EnrichedRepo[],
+  now: Date = new Date(),
+): string {
   return generateLeaderboard(
     repos,
     "topSubscribed",
     "subscribers_count",
     "Subscribers",
+    undefined,
+    now,
   );
 }
 
-export function generateTopForked(repos: EnrichedRepo[]): string {
-  return generateLeaderboard(repos, "topForked", "forks_count", "Forks");
+export function generateTopForked(
+  repos: EnrichedRepo[],
+  now: Date = new Date(),
+): string {
+  return generateLeaderboard(
+    repos,
+    "topForked",
+    "forks_count",
+    "Forks",
+    undefined,
+    now,
+  );
 }
 
-export function generateTopIssues(repos: EnrichedRepo[]): string {
+export function generateTopIssues(
+  repos: EnrichedRepo[],
+  now: Date = new Date(),
+): string {
   return generateLeaderboard(
     repos,
     "topIssues",
     "open_issues_count",
     "Open Issues + PRs",
+    undefined,
+    now,
   );
 }
 
-export function generateTopLargest(repos: EnrichedRepo[]): string {
-  return generateLeaderboard(repos, "topLargest", "size", "Size (KB)");
+export function generateTopLargest(
+  repos: EnrichedRepo[],
+  now: Date = new Date(),
+): string {
+  return generateLeaderboard(
+    repos,
+    "topLargest",
+    "size",
+    "Size (KB)",
+    undefined,
+    now,
+  );
 }
 
 type LeaderboardSection = {
@@ -183,9 +218,12 @@ function leaderboardSection(
   ].join("\n");
 }
 
-export function generateTopTens(repos: EnrichedRepo[]): string {
+export function generateTopTens(
+  repos: EnrichedRepo[],
+  now: Date = new Date(),
+): string {
   const copy = LEADERBOARD_COPY.topTens;
-  const generatedDate = new Date().toISOString().split("T")[0];
+  const generatedDate = now.toISOString().split("T")[0];
 
   const sections = [
     navigationBar("topTens"),

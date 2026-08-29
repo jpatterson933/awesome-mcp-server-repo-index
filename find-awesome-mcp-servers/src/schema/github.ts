@@ -18,6 +18,7 @@ export const GithubRepoSchema = z.object({
     html_url: z.url(),
   }),
   description: z.string().nullable(),
+  fork: z.boolean(),
   topics: z.array(z.string()),
   size: z.number(),
   stargazers_count: z.number(),

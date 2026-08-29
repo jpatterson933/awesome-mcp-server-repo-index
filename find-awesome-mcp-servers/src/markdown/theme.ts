@@ -35,6 +35,7 @@ export type LeaderboardId =
   | "topIssues"
   | "topLargest"
   | "activity"
+  | "coverage"
   | "allRepos";
 
 export type LeaderboardCopy = {
@@ -48,18 +49,18 @@ export type LeaderboardCopy = {
 
 export const LEADERBOARD_COPY: Record<LeaderboardId, LeaderboardCopy> = {
   readme: {
-    title: "Awesome MCP Server Git Repo Index",
+    title: "Awesome MCP Indexes",
     subtitle:
-      "A centralized resource for Model Context Protocol (MCP) server discovery.",
+      "A meta-index of curated Model Context Protocol directories and lists.",
     icon: "🏠",
     badgeColor: COLORS.allRepos,
     badgeLabel: "Home",
     filename: "README.md",
   },
   topTens: {
-    title: "Top 10 Leaderboards",
+    title: "MCP Index Leaderboards",
     subtitle:
-      "The best of the best. Top 10 by stars, forks, watchers, issues, and size.",
+      "Compare MCP indexes by visible GitHub activity and adoption signals.",
     icon: "🏆",
     badgeColor: COLORS.starred,
     badgeLabel: "Top Tens",
@@ -111,18 +112,27 @@ export const LEADERBOARD_COPY: Record<LeaderboardId, LeaderboardCopy> = {
     filename: "TOP-LARGEST.md",
   },
   activity: {
-    title: "MCP Repo Activity Analysis",
+    title: "MCP Index Activity",
     subtitle:
-      "Stars are vanity. Commits are sanity. Here's who's actually shipping.",
+      "See which MCP directories and curated lists are still being maintained.",
     icon: "🔥",
     badgeColor: COLORS.activity,
     badgeLabel: "Activity",
     filename: "ACTIVITY.md",
   },
-  allRepos: {
-    title: "Awesome MCP Repos",
+  coverage: {
+    title: "MCP Index Coverage",
     subtitle:
-      "Every awesome-mcp repository on GitHub. Sorted, enriched, and updated daily.",
+      "Compare the repository coverage and unique discoveries of curated MCP indexes.",
+    icon: "🕸️",
+    badgeColor: COLORS.subscribed,
+    badgeLabel: "Coverage",
+    filename: "INDEX-COVERAGE.md",
+  },
+  allRepos: {
+    title: "MCP Index Repositories",
+    subtitle:
+      "Curated MCP lists and directories discovered from GitHub and updated daily.",
     icon: "📋",
     badgeColor: COLORS.allRepos,
     badgeLabel: "All Repos",

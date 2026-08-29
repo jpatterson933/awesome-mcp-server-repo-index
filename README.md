@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Awesome MCP Server Git Repo Index
+# Awesome MCP Indexes
 
-**A centralized resource for Model Context Protocol (MCP) server discovery, submission, and community indexes.**
+**A meta-index of curated Model Context Protocol server lists, directories, registries, and marketplaces.**
 
 </div>
 
@@ -17,9 +17,11 @@
 
 <div align="center">
 
-![Total Repos](https://img.shields.io/badge/Total_Repos-317-1E40AF?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Updated-2026--05--06-059669?style=for-the-badge)
+![Total Repos](https://img.shields.io/badge/Total_Repos-192-1E40AF?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Updated-2026--08--29-059669?style=for-the-badge)
 
-[![Top Tens](https://img.shields.io/badge/%F0%9F%8F%86%20Top%20Tens-F5A623?style=for-the-badge&logo=github)](./TOP-TENS.md) [![Activity](https://img.shields.io/badge/%F0%9F%94%A5%20Activity-EA580C?style=for-the-badge&logo=github)](./ACTIVITY.md) [![All Repos](https://img.shields.io/badge/%F0%9F%93%8B%20All%20Repos-0F172A?style=for-the-badge&logo=github)](./AWESOME-MCP-REPOS.md)
+[![Top Tens](https://img.shields.io/badge/%F0%9F%8F%86%20Top%20Tens-F5A623?style=for-the-badge&logo=github)](./TOP-TENS.md) [![Activity](https://img.shields.io/badge/%F0%9F%94%A5%20Activity-EA580C?style=for-the-badge&logo=github)](./ACTIVITY.md) [![Coverage](https://img.shields.io/badge/%F0%9F%95%B8%EF%B8%8F%20Coverage-0891B2?style=for-the-badge&logo=github)](./INDEX-COVERAGE.md) [![All Repos](https://img.shields.io/badge/%F0%9F%93%8B%20All%20Repos-0F172A?style=for-the-badge&logo=github)](./AWESOME-MCP-REPOS.md)
+
+[Searchable catalog](https://jpatterson933.github.io/awesome-mcp-server-repo-index/) · [Machine-readable index](./data/indexes.json) · [Discovery audit](./data/discovery-audit.json) · [Coverage graph](./data/index-links.json)
 
 </div>
 
@@ -28,11 +30,11 @@
 
 ```mermaid
 pie title Repos by License
-    "MIT" : 129
-    "Other" : 18
-    "No License" : 143
-    "Apache 2.0" : 9
-    "Creative Commons" : 18
+    "No License" : 49
+    "Creative Commons" : 31
+    "MIT" : 82
+    "Other" : 25
+    "Apache 2.0" : 5
 ```
 
 </details>
@@ -41,7 +43,13 @@ pie title Repos by License
 
 ---
 
-## Official Submission Methods
+## What This Repository Indexes
+
+This project tracks repositories and directories that curate multiple MCP servers. It does not attempt to list every individual MCP server directly.
+
+GitHub candidates are discovered automatically, checked for index-oriented metadata, enriched with repository activity, and rendered into the generated pages above. Inclusion is a discovery signal, not an endorsement.
+
+## Official MCP Submission Methods
 
 > [!IMPORTANT]
 > These are the official channels for submitting MCP servers to Anthropic's ecosystem.
@@ -66,8 +74,8 @@ pie title Repos by License
 | PulseMCP        | [pulsemcp.com/servers](https://www.pulsemcp.com/servers) |
 | Smithery        | [smithery.ai](https://smithery.ai/)                      |
 
-## MCP Servers by Category
+## Scope
 
-### Productivity
+Included projects should provide a curated list, directory, catalog, registry, or marketplace covering multiple MCP servers or related ecosystem resources. Individual servers, templates, tutorials, submission branches, backups, and obvious repository copies are outside this index's scope.
 
-- <img src="https://cdn.brandfetch.io/id4MiTks7Q/w/2250/h/2250/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" height="14"> [Fathom AI](https://github.com/agencyenterprise/fathom-mcp-server) - Chat with your meeting transcripts and gain insights faster.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for correction and addition guidance.

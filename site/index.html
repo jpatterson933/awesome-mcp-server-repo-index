@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Search and compare curated Model Context Protocol indexes, directories, and lists."
+    />
+    <title>Awesome MCP Indexes</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23183f30'/%3E%3Cpath d='M17 45V19h8l7 12 7-12h8v26h-8V31l-7 11-7-11v14z' fill='%23d9ff8f'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./app.js" type="module"></script>
+  </head>
+  <body>
+    <header class="hero">
+      <div class="shell">
+        <a class="eyebrow" href="https://github.com/jpatterson933/awesome-mcp-server-repo-index">
+          Open dataset on GitHub ↗
+        </a>
+        <h1>Find the MCP index<br />worth trusting.</h1>
+        <p class="lede">
+          Search curated MCP directories and compare their activity, reach, and unique repository coverage.
+        </p>
+        <div class="stats" aria-label="Dataset summary">
+          <div><strong id="index-stat">—</strong><span>indexes</span></div>
+          <div><strong id="link-stat">—</strong><span>index→repo links</span></div>
+          <div><strong id="updated-stat">—</strong><span>dataset date</span></div>
+        </div>
+      </div>
+    </header>
+
+    <main class="shell">
+      <section class="controls" aria-label="Catalog filters">
+        <label class="search-control">
+          <span>Search</span>
+          <input id="search" type="search" placeholder="Name, description, or topic…" autocomplete="off" />
+        </label>
+        <label>
+          <span>Activity</span>
+          <select id="activity-filter">
+            <option value="all">Any activity</option>
+            <option value="month">Pushed in 30 days</option>
+            <option value="six-months">Pushed in 6 months</option>
+            <option value="dormant">Dormant 6+ months</option>
+          </select>
+        </label>
+        <label>
+          <span>License</span>
+          <select id="license-filter"><option value="all">Any license</option></select>
+        </label>
+        <label>
+          <span>Sort</span>
+          <select id="sort">
+            <option value="coverage">Most coverage</option>
+            <option value="unique">Most unique links</option>
+            <option value="stars">Most stars</option>
+            <option value="updated">Recently updated</option>
+            <option value="name">Name A–Z</option>
+          </select>
+        </label>
+      </section>
+
+      <div class="result-heading">
+        <h2>Index catalog</h2>
+        <p id="result-count" aria-live="polite">Loading…</p>
+      </div>
+      <section id="results" class="catalog" aria-label="MCP index results"></section>
+      <p id="empty-state" class="empty" hidden>No indexes match those filters.</p>
+      <noscript>This catalog needs JavaScript to load the generated dataset.</noscript>
+    </main>
+
+    <footer>
+      <div class="shell footer-inner">
+        <p>Generated from public GitHub metadata. Inclusion is not an endorsement.</p>
+        <nav aria-label="Data downloads">
+          <a href="./data/indexes.json">Indexes JSON</a>
+          <a href="./data/index-links.json">Coverage JSON</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

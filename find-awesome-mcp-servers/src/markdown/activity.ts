@@ -57,6 +57,7 @@ function activityRow(
 
 function groupReposByFreshness(
   repos: EnrichedRepo[],
+  now: Date,
 ): Map<TimePeriodType, EnrichedRepo[]> {
   const groups = new Map<TimePeriodType, EnrichedRepo[]>();
 
@@ -69,7 +70,7 @@ function groupReposByFreshness(
   );
 
   for (const repo of sorted) {
-    const period = calculateTimePeriod(repo.pushed_at);
+    const period = calculateTimePeriod(repo.pushed_at, now);
     groups.get(period)!.push(repo);
   }
 
@@ -105,11 +106,14 @@ function renderTierSection(
   return ["", sectionTitle, "", tableContent].join("\n");
 }
 
-export function generateActivityTimeline(repos: EnrichedRepo[]): string {
+export function generateActivityTimeline(
+  repos: EnrichedRepo[],
+  now: Date = new Date(),
+): string {
   const copy = LEADERBOARD_COPY.activity;
-  const generatedDate = new Date().toISOString().split("T")[0];
-  const groups = groupReposByFreshness(repos);
-  const stats = activitySummaryStats(repos);
+  const generatedDate = now.toISOString().split("T")[0];
+  const groups = groupReposByFreshness(repos, now);
+  const stats = activitySummaryStats(repos, now);
 
   const sections = [
     navigationBar("activity"),

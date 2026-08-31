@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-30T06:13:30.432Z",
+  "generatedAt": "2026-08-31T06:18:37.483Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 416,
+    "candidates": 417,
     "included": 192,
-    "excluded": 224
+    "excluded": 225
   },
   "decisions": [
     {
@@ -229,6 +229,12 @@
       "url": "https://github.com/B0N4N24/My-Awesome-MCP-Server",
       "included": false,
       "reason": "individual MCP server"
+    },
+    {
+      "fullName": "B5-Software/awesome-base-mcp",
+      "url": "https://github.com/B5-Software/awesome-base-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "badkk/awesome-crypto-mcp-servers",

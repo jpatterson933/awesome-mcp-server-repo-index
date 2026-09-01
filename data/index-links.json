@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T06:18:37.483Z",
+  "generatedAt": "2026-09-01T06:15:44.454Z",
   "methodology": "Counts unique GitHub repository links extracted from each index README. Links are not guaranteed to represent MCP servers.",
   "summary": {
-    "indexes": 192,
-    "readmesAnalyzed": 190,
+    "indexes": 194,
+    "readmesAnalyzed": 192,
     "readmesMissing": 2,
     "cacheHits": 176,
-    "uniqueLinkedRepositories": 5613,
-    "links": 19008
+    "uniqueLinkedRepositories": 5644,
+    "links": 19096
   },
   "indexes": [
     {
@@ -578,12 +578,12 @@
     },
     {
       "indexId": "abordage/awesome-mcp",
-      "pushedAt": "2026-08-30T09:10:06Z",
+      "pushedAt": "2026-08-31T09:10:06Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 1318,
-      "uniqueLinkedRepositoryCount": 257,
-      "sharedLinkedRepositoryCount": 1061,
+      "uniqueLinkedRepositoryCount": 255,
+      "sharedLinkedRepositoryCount": 1063,
       "repositories": [
         "0xdaef0f/job-searchoor",
         "0xshellming/mcp-summarizer",
@@ -2021,7 +2021,7 @@
     },
     {
       "indexId": "ai-in-transportation-lab/awesome-mcp",
-      "pushedAt": "2026-08-31T04:57:30Z",
+      "pushedAt": "2026-09-01T04:36:33Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 4,
@@ -2061,12 +2061,12 @@
     },
     {
       "indexId": "alexmili/awesome-mcp",
-      "pushedAt": "2026-08-25T06:45:52Z",
+      "pushedAt": "2026-08-31T08:47:32Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
-      "linkedRepositoryCount": 98,
-      "uniqueLinkedRepositoryCount": 29,
-      "sharedLinkedRepositoryCount": 69,
+      "source": "github",
+      "linkedRepositoryCount": 101,
+      "uniqueLinkedRepositoryCount": 30,
+      "sharedLinkedRepositoryCount": 71,
       "repositories": [
         "2nd1st/open-mcp-apps",
         "aak204/mcp-trust-kit",
@@ -2099,6 +2099,7 @@
         "gabry-ts/mcp-harness",
         "github/github-mcp-server",
         "greynewell/mcpbr",
+        "hellosverre/ghidralens",
         "hendryavila/hoofy",
         "hjlarry/dify-plugin-mcp_server",
         "hyperdrive-eng/mcp-nodejs-debugger",
@@ -2112,6 +2113,7 @@
         "lharries/whatsapp-mcp",
         "livetennisapi/livetennisapi-mcp",
         "lucassssss/eechat",
+        "magichourhq/magic-hour-mcp",
         "mark3labs/mcp-filesystem-server",
         "mark3labs/mcp-go",
         "markuspfundstein/mcp-obsidian",
@@ -2145,6 +2147,7 @@
         "rectalogic/langchain-mcp",
         "rust-mcp-stack/rust-mcp-sdk",
         "sandbaseai/cli",
+        "sandbaseai/sandbase-harness",
         "scottcjn/rustchain-mcp",
         "shibley/mymcptools",
         "skillselion/skillselion-mcp",
@@ -2334,7 +2337,7 @@
     },
     {
       "indexId": "appnova-eu-ou/awesome-remote-mcp-servers",
-      "pushedAt": "2026-08-30T12:06:58Z",
+      "pushedAt": "2026-08-31T14:03:42Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 0,
@@ -3160,18 +3163,19 @@
     },
     {
       "indexId": "bhavyshekhaliya/awesome-public-mcp-servers",
-      "pushedAt": "2026-08-25T01:40:02Z",
+      "pushedAt": "2026-09-01T03:45:19Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
-      "linkedRepositoryCount": 9,
+      "source": "github",
+      "linkedRepositoryCount": 10,
       "uniqueLinkedRepositoryCount": 0,
-      "sharedLinkedRepositoryCount": 9,
+      "sharedLinkedRepositoryCount": 10,
       "repositories": [
         "brave/brave-search-mcp-server",
         "doist/todoist-mcp",
         "elevenlabs/elevenlabs-mcp",
         "github/github-mcp-server",
         "mongodb-js/mongodb-mcp-server",
+        "nowork-studio/notfair-plugin",
         "revlist/pocket-drives-mcp",
         "square/square-mcp-server",
         "worklittle/jobs-mcp",
@@ -3524,7 +3528,7 @@
     },
     {
       "indexId": "chat2anyllm/awesome-mcp-servers",
-      "pushedAt": "2026-08-31T00:02:03Z",
+      "pushedAt": "2026-09-01T05:52:20Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 2,
@@ -3640,9 +3644,9 @@
     },
     {
       "indexId": "cmenge/awesome-b2b-mcp",
-      "pushedAt": "2026-08-24T06:15:02Z",
+      "pushedAt": "2026-08-31T06:21:23Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
+      "source": "github",
       "linkedRepositoryCount": 0,
       "uniqueLinkedRepositoryCount": 0,
       "sharedLinkedRepositoryCount": 0,
@@ -3650,12 +3654,12 @@
     },
     {
       "indexId": "collabnix/awesome-mcp-lists",
-      "pushedAt": "2026-08-31T04:04:47Z",
+      "pushedAt": "2026-09-01T03:46:33Z",
       "readmeStatus": "analyzed",
       "source": "github",
-      "linkedRepositoryCount": 206,
+      "linkedRepositoryCount": 208,
       "uniqueLinkedRepositoryCount": 50,
-      "sharedLinkedRepositoryCount": 156,
+      "sharedLinkedRepositoryCount": 158,
       "repositories": [
         "0x4m4/hexstrike-ai",
         "0xjacky/nginx-ui",
@@ -3768,6 +3772,7 @@
         "lightningfaucet/lightning-wallet-mcp",
         "linux-china/mcp-rs-template",
         "lyonzin/knowledge-rag",
+        "magichourhq/magic-hour-mcp",
         "makenotion/notion-mcp-server",
         "mark3labs/mcp-go",
         "mark3labs/mcphost",
@@ -3846,6 +3851,7 @@
         "upsonic/upsonic",
         "upstash/context7",
         "vinkius-labs/mcp-fusion",
+        "vostride/agent-qa",
         "wanshuiyin/auto-claude-code-research-in-sleep",
         "wgpsec/enscan_go",
         "whateverneveranywhere/aiapplyd-mcp",
@@ -4101,7 +4107,7 @@
       "indexId": "dhanushnehru/awesome-mcp-servers",
       "pushedAt": "2026-08-31T05:57:59Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 40,
       "uniqueLinkedRepositoryCount": 9,
       "sharedLinkedRepositoryCount": 31,
@@ -6265,7 +6271,7 @@
     },
     {
       "indexId": "fuzzylabs/awesome-secure-mcp-servers",
-      "pushedAt": "2026-08-31T06:03:43Z",
+      "pushedAt": "2026-08-31T08:11:04Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 10,
@@ -6285,13 +6291,35 @@
       ]
     },
     {
+      "indexId": "gbrussich52/awesome-legal-mcp-servers",
+      "pushedAt": "2026-08-31T12:01:45Z",
+      "readmeStatus": "analyzed",
+      "source": "github",
+      "linkedRepositoryCount": 11,
+      "uniqueLinkedRepositoryCount": 9,
+      "sharedLinkedRepositoryCount": 2,
+      "repositories": [
+        "agentic-ops/legal-mcp",
+        "ansvar-systems/german-law-mcp",
+        "blakeox/courtlistener-mcp",
+        "feamster/paymo-mcp",
+        "jamesanz/us-legal-mcp",
+        "john-walkoe/courtlistener_citations_mcp",
+        "roboulos/freshbooks-mcp",
+        "supabase-community/supabase-mcp",
+        "sylphxai/pdf-reader-mcp",
+        "tcoder920x/open-legal-compliance-mcp",
+        "yoda-digital/mcp-cerebra-legal-server"
+      ]
+    },
+    {
       "indexId": "geesugar/awesome-mcp",
       "pushedAt": "2025-05-23T13:59:57Z",
       "readmeStatus": "analyzed",
       "source": "cache",
       "linkedRepositoryCount": 34,
-      "uniqueLinkedRepositoryCount": 2,
-      "sharedLinkedRepositoryCount": 32,
+      "uniqueLinkedRepositoryCount": 1,
+      "sharedLinkedRepositoryCount": 33,
       "repositories": [
         "agentdeskai/browser-tools-mcp",
         "alibaba/higress",
@@ -7714,8 +7742,8 @@
       "readmeStatus": "analyzed",
       "source": "cache",
       "linkedRepositoryCount": 41,
-      "uniqueLinkedRepositoryCount": 16,
-      "sharedLinkedRepositoryCount": 25,
+      "uniqueLinkedRepositoryCount": 15,
+      "sharedLinkedRepositoryCount": 26,
       "repositories": [
         "anthropics/mcp-server-anthropic",
         "atlassian/mcp-server-jira",
@@ -7852,7 +7880,7 @@
     },
     {
       "indexId": "jpatterson933/awesome-mcp-server-repo-index",
-      "pushedAt": "2026-08-30T06:13:50Z",
+      "pushedAt": "2026-08-31T06:18:56Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 0,
@@ -7954,7 +7982,7 @@
     },
     {
       "indexId": "justincache/awesome-mcp-collection",
-      "pushedAt": "2026-08-31T01:34:18Z",
+      "pushedAt": "2026-09-01T05:00:13Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 64,
@@ -8090,7 +8118,7 @@
       "indexId": "korchasa/awesome-mcp",
       "pushedAt": "2026-08-31T03:22:04Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 500,
       "uniqueLinkedRepositoryCount": 177,
       "sharedLinkedRepositoryCount": 323,
@@ -10035,8 +10063,8 @@
       "readmeStatus": "analyzed",
       "source": "cache",
       "linkedRepositoryCount": 100,
-      "uniqueLinkedRepositoryCount": 16,
-      "sharedLinkedRepositoryCount": 84,
+      "uniqueLinkedRepositoryCount": 15,
+      "sharedLinkedRepositoryCount": 85,
       "repositories": [
         "1password/mcp-server",
         "21st-dev/magic-mcp",
@@ -12719,10 +12747,91 @@
       ]
     },
     {
+      "indexId": "mhmmdfaizal04/awesome-mcp-servers",
+      "pushedAt": "2026-09-01T03:13:25Z",
+      "readmeStatus": "analyzed",
+      "source": "github",
+      "linkedRepositoryCount": 70,
+      "uniqueLinkedRepositoryCount": 19,
+      "sharedLinkedRepositoryCount": 51,
+      "repositories": [
+        "abhiz123/todoist-mcp-server",
+        "alpacahq/alpaca-mcp",
+        "benborla29/mcp-server-mysql",
+        "blazickjp/arxiv-mcp-server",
+        "browser-use/browser-use",
+        "browserbase/mcp-server-browserbase",
+        "burnysc2/monorepo",
+        "chigkim/telegram-mcp",
+        "ckreiling/mcp-server-docker",
+        "cloudflare/mcp-server-cloudflare",
+        "coinbase/agentkit",
+        "datadog/datadog-mcp-server",
+        "domdomegg/airtable-mcp-server",
+        "exa-labs/exa-mcp-server",
+        "ferrislucas/iterm-mcp",
+        "flux159/mcp-server-kubernetes",
+        "getsentry/sentry-mcp",
+        "googlemaps/js-maps-mcp",
+        "hannesrudolph/mcp-sendgrid-email-server",
+        "hashicorp/terraform-mcp-server",
+        "hubspot/mcp-server",
+        "kiliczsh/mcp-mongo-server",
+        "kimtaeyoon83/mcp-server-youtube-transcript",
+        "langchain-ai/langchain-mcp-adapters",
+        "linear/linear-mcp",
+        "linkupplatform/python-sdk",
+        "makenotion/notion-sdk-js",
+        "markusmelkersson/mcp-obsidian",
+        "mcp-labs/mcp-weather-server",
+        "mendableai/firecrawl-mcp-server",
+        "microsoft/playwright-mcp",
+        "microsoft/vscode-mcp",
+        "miroapp/mcp-server-trello",
+        "modelcontextprotocol/python-sdk",
+        "modelcontextprotocol/servers",
+        "modelcontextprotocol/typescript-sdk",
+        "narumiruna/yfinance-mcp",
+        "neondatabase/mcp-server-neon",
+        "nspaeth/google-calendar-mcp",
+        "openai/openai-mcp",
+        "pieces-app/pieces-mcp",
+        "pinecone-io/pinecone-mcp",
+        "planetscale/database-js",
+        "polygon-io/client-python",
+        "ppl-ai/modelcontextprotocol",
+        "prisma/prisma",
+        "qdrant/mcp-server-qdrant",
+        "raycast/extensions",
+        "redis/mcp-redis",
+        "resend/mcp-send-email",
+        "roychri/mcp-server-asana",
+        "rudra-ravi/wikipedia-mcp",
+        "shaneholloman/mcp-knowledge-graph",
+        "shopify/dev-mcp",
+        "simonb97/win-cli-mcp-server",
+        "sindresorhus/awesome",
+        "sooperset/mcp-atlassian",
+        "stripe/agent-toolkit",
+        "supabase-community/supabase-mcp",
+        "tavily-ai/tavily-mcp",
+        "thinkloop/mcp-node-npm",
+        "tursodatabase/turso-mcp",
+        "twilio-labs/mcp",
+        "unclecode/crawl4ai",
+        "upstash/context7",
+        "v-3/discordmcp",
+        "varunneal/spotify-mcp",
+        "vercel/mcp-adapter",
+        "wonderwhy-er/desktopcommandermcp",
+        "zed-industries/zed"
+      ]
+    },
+    {
       "indexId": "mobinx/awesome-mcp-list",
       "pushedAt": "2026-08-30T19:51:52Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 242,
       "uniqueLinkedRepositoryCount": 34,
       "sharedLinkedRepositoryCount": 208,
@@ -15224,7 +15333,7 @@
     },
     {
       "indexId": "rodert/awesome-mcp",
-      "pushedAt": "2026-08-30T07:23:10Z",
+      "pushedAt": "2026-08-31T07:31:01Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 0,
@@ -15238,8 +15347,8 @@
       "readmeStatus": "analyzed",
       "source": "cache",
       "linkedRepositoryCount": 74,
-      "uniqueLinkedRepositoryCount": 16,
-      "sharedLinkedRepositoryCount": 58,
+      "uniqueLinkedRepositoryCount": 15,
+      "sharedLinkedRepositoryCount": 59,
       "repositories": [
         "abhiz123/todoist-mcp-server",
         "aws/aws-mcp",
@@ -16044,9 +16153,9 @@
     },
     {
       "indexId": "royalpinto007/awesome-mcp-security",
-      "pushedAt": "2026-08-24T07:32:49Z",
+      "pushedAt": "2026-08-31T14:05:02Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
+      "source": "github",
       "linkedRepositoryCount": 27,
       "uniqueLinkedRepositoryCount": 7,
       "sharedLinkedRepositoryCount": 20,
@@ -16117,7 +16226,7 @@
       "indexId": "sagargupta16/awesome-mcp-servers",
       "pushedAt": "2026-08-30T14:04:20Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 202,
       "uniqueLinkedRepositoryCount": 43,
       "sharedLinkedRepositoryCount": 159,
@@ -16712,11 +16821,11 @@
     },
     {
       "indexId": "soxoj/awesome-osint-mcp-servers",
-      "pushedAt": "2026-08-30T19:51:38Z",
+      "pushedAt": "2026-08-31T18:48:25Z",
       "readmeStatus": "analyzed",
       "source": "github",
-      "linkedRepositoryCount": 38,
-      "uniqueLinkedRepositoryCount": 23,
+      "linkedRepositoryCount": 39,
+      "uniqueLinkedRepositoryCount": 24,
       "sharedLinkedRepositoryCount": 15,
       "repositories": [
         "andrey-tut/nummeropslag-api",
@@ -16742,6 +16851,7 @@
         "mefos-lab/sift",
         "nymaxxx/checko-mcp",
         "openosint/openosint",
+        "opensosdata/opensosdata-mcp",
         "pratie/bulktranscripts-mcp",
         "pucilpet/crawlgraph-mcp",
         "scanmalware/mcp-server",
@@ -17501,7 +17611,7 @@
       "indexId": "sunnamed434/awesome-mcp-registry",
       "pushedAt": "2026-08-30T15:58:11Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 49,
       "uniqueLinkedRepositoryCount": 6,
       "sharedLinkedRepositoryCount": 43,
@@ -17690,7 +17800,7 @@
     },
     {
       "indexId": "tensorblock/awesome-mcp-servers",
-      "pushedAt": "2026-08-31T04:57:33Z",
+      "pushedAt": "2026-08-31T20:56:04Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 2,
@@ -17716,9 +17826,9 @@
     },
     {
       "indexId": "timunbasah3/awesome-mcp",
-      "pushedAt": "2026-08-29T06:49:12Z",
+      "pushedAt": "2026-08-31T23:51:52Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
+      "source": "github",
       "linkedRepositoryCount": 0,
       "uniqueLinkedRepositoryCount": 0,
       "sharedLinkedRepositoryCount": 0,
@@ -21105,7 +21215,7 @@
   "repositories": [
     {
       "repositoryId": "modelcontextprotocol/servers",
-      "indexCount": 82,
+      "indexCount": 83,
       "indexes": [
         "7xuanlu/brethofai-awesome-mcp-servers",
         "aaglexx/awesome-mcp-servers",
@@ -21154,6 +21264,7 @@
         "mctrinh/awesome-mcp-servers",
         "mengmeiz/awesome-graph-mcp",
         "mgoldsborough/awesome-mcpb",
+        "mhmmdfaizal04/awesome-mcp-servers",
         "mobinx/awesome-mcp-list",
         "ndeeseee/awesomemcp",
         "neuralrays/awesome-mcp-hub",
@@ -21189,6 +21300,108 @@
         "yongminkim0501/awesome-mcp-servers",
         "yuzehao2023/awesome-mcp-servers",
         "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "cloudflare/mcp-server-cloudflare",
+      "indexCount": 45,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "abordage/awesome-mcp",
+        "agenticdevops/awesome-devops-mcp",
+        "alexmili/awesome-mcp",
+        "awesome-ai-tools/curated-mcp-servers",
+        "christian-sidak/awesome-mcp-tools",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "ethanyolo01/awesome-mcp",
+        "geesugar/awesome-mcp",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "javeriaf19/awesome-mcp-for-creatives",
+        "johnnyferrantetech/awesome-mcp-by-vertical",
+        "justincache/awesome-mcp-collection",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "lilyth-y/awesome-mcp-servers",
+        "liz7788/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mcp-finder/awesome-mcp-servers",
+        "mcphubcloud/awesome-mcp",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "mobinx/awesome-mcp-list",
+        "ndeeseee/awesomemcp",
+        "r00t-kim/awesome-offensive-mcp",
+        "robotlearning123/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers",
+        "rohitg00/awesome-devops-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "sagargupta16/awesome-mcp-servers",
+        "scisharp/awesome-dotnet-mcp",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "spysailor/awesome-mcp-servers",
+        "subratadasgit/awesome-mcp-servers",
+        "swarmclawai/awesome-mcp-for-coding-agents",
+        "truehaiq/awesome-mcp",
+        "twzrd-sol/awesome-mcp-servers",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "wagneragent/awesome-mcp-servers-devops",
+        "win4r/awesome-claude-mcp-servers",
+        "wong2/awesome-mcp-servers",
+        "yuzehao2023/awesome-mcp-servers",
+        "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "microsoft/playwright-mcp",
+      "indexCount": 45,
+      "indexes": [
+        "7xuanlu/brethofai-awesome-mcp-servers",
+        "aaglexx/awesome-mcp-servers",
+        "abordage/awesome-mcp",
+        "alexmili/awesome-mcp",
+        "awesome-ai-tools/curated-mcp-servers",
+        "brethofai/awesome-mcp-servers",
+        "christian-sidak/awesome-mcp-tools",
+        "devinsightdotio/awesome_mcp",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "enterprise-ai-atlas/awesome-mcp-servers",
+        "ethanyolo01/awesome-mcp",
+        "geesugar/awesome-mcp",
+        "gummble/awesome-design-mcp",
+        "habitoai/awesome-mcp-servers",
+        "henrikaronsson/awesome-ng-mcp",
+        "irfandevops01/mcp-awesome-list",
+        "johnnyferrantetech/awesome-mcp-by-vertical",
+        "justincache/awesome-mcp-collection",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "lilyth-y/awesome-mcp-servers",
+        "liz7788/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mcp-finder/awesome-mcp-servers",
+        "mcphubcloud/awesome-mcp",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "ndeeseee/awesomemcp",
+        "princejicoder/awesome-mcp",
+        "r00t-kim/awesome-offensive-mcp",
+        "robotlearning123/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers",
+        "rohitg00/awesome-devops-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "sagargupta16/awesome-mcp-servers",
+        "spysailor/awesome-mcp-servers",
+        "subratadasgit/awesome-mcp-servers",
+        "sunnamed434/awesome-mcp-registry",
+        "swarmclawai/awesome-mcp-for-coding-agents",
+        "twzrd-sol/awesome-mcp-servers",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "vipinmi2024/awesome-mcp-servers",
+        "wagneragent/awesome-mcp-servers-devops",
+        "wong2/awesome-mcp-servers",
+        "yongminkim0501/awesome-mcp-servers"
       ]
     },
     {
@@ -21243,106 +21456,6 @@
       ]
     },
     {
-      "repositoryId": "cloudflare/mcp-server-cloudflare",
-      "indexCount": 44,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "abordage/awesome-mcp",
-        "agenticdevops/awesome-devops-mcp",
-        "alexmili/awesome-mcp",
-        "awesome-ai-tools/curated-mcp-servers",
-        "christian-sidak/awesome-mcp-tools",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "ethanyolo01/awesome-mcp",
-        "geesugar/awesome-mcp",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "javeriaf19/awesome-mcp-for-creatives",
-        "johnnyferrantetech/awesome-mcp-by-vertical",
-        "justincache/awesome-mcp-collection",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "lilyth-y/awesome-mcp-servers",
-        "liz7788/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mcp-finder/awesome-mcp-servers",
-        "mcphubcloud/awesome-mcp",
-        "mctrinh/awesome-mcp-servers",
-        "mobinx/awesome-mcp-list",
-        "ndeeseee/awesomemcp",
-        "r00t-kim/awesome-offensive-mcp",
-        "robotlearning123/awesome-mcp-servers",
-        "rohianon/awesome-mcp-servers",
-        "rohitg00/awesome-devops-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "sagargupta16/awesome-mcp-servers",
-        "scisharp/awesome-dotnet-mcp",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "spysailor/awesome-mcp-servers",
-        "subratadasgit/awesome-mcp-servers",
-        "swarmclawai/awesome-mcp-for-coding-agents",
-        "truehaiq/awesome-mcp",
-        "twzrd-sol/awesome-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "wagneragent/awesome-mcp-servers-devops",
-        "win4r/awesome-claude-mcp-servers",
-        "wong2/awesome-mcp-servers",
-        "yuzehao2023/awesome-mcp-servers",
-        "yvmohsin/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "microsoft/playwright-mcp",
-      "indexCount": 44,
-      "indexes": [
-        "7xuanlu/brethofai-awesome-mcp-servers",
-        "aaglexx/awesome-mcp-servers",
-        "abordage/awesome-mcp",
-        "alexmili/awesome-mcp",
-        "awesome-ai-tools/curated-mcp-servers",
-        "brethofai/awesome-mcp-servers",
-        "christian-sidak/awesome-mcp-tools",
-        "devinsightdotio/awesome_mcp",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "enterprise-ai-atlas/awesome-mcp-servers",
-        "ethanyolo01/awesome-mcp",
-        "geesugar/awesome-mcp",
-        "gummble/awesome-design-mcp",
-        "habitoai/awesome-mcp-servers",
-        "henrikaronsson/awesome-ng-mcp",
-        "irfandevops01/mcp-awesome-list",
-        "johnnyferrantetech/awesome-mcp-by-vertical",
-        "justincache/awesome-mcp-collection",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "lilyth-y/awesome-mcp-servers",
-        "liz7788/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mcp-finder/awesome-mcp-servers",
-        "mcphubcloud/awesome-mcp",
-        "ndeeseee/awesomemcp",
-        "princejicoder/awesome-mcp",
-        "r00t-kim/awesome-offensive-mcp",
-        "robotlearning123/awesome-mcp-servers",
-        "rohianon/awesome-mcp-servers",
-        "rohitg00/awesome-devops-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "sagargupta16/awesome-mcp-servers",
-        "spysailor/awesome-mcp-servers",
-        "subratadasgit/awesome-mcp-servers",
-        "sunnamed434/awesome-mcp-registry",
-        "swarmclawai/awesome-mcp-for-coding-agents",
-        "twzrd-sol/awesome-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "vipinmi2024/awesome-mcp-servers",
-        "wagneragent/awesome-mcp-servers-devops",
-        "wong2/awesome-mcp-servers",
-        "yongminkim0501/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "github/github-mcp-server",
       "indexCount": 43,
       "indexes": [
@@ -21393,7 +21506,7 @@
     },
     {
       "repositoryId": "exa-labs/exa-mcp-server",
-      "indexCount": 40,
+      "indexCount": 41,
       "indexes": [
         "7xuanlu/brethofai-awesome-mcp-servers",
         "aaglexx/awesome-mcp-servers",
@@ -21416,6 +21529,7 @@
         "mcp-finder/awesome-mcp-servers",
         "mctrinh/awesome-mcp-servers",
         "mgoldsborough/awesome-mcpb",
+        "mhmmdfaizal04/awesome-mcp-servers",
         "mobinx/awesome-mcp-list",
         "ndeeseee/awesomemcp",
         "neuralrays/awesome-mcp-hub",
@@ -21480,6 +21594,48 @@
       ]
     },
     {
+      "repositoryId": "browserbase/mcp-server-browserbase",
+      "indexCount": 36,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "awesome-ai-tools/curated-mcp-servers",
+        "christian-sidak/awesome-mcp-tools",
+        "collabnix/awesome-mcp-lists",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "epicmotionsd/awesome-mcp",
+        "ethanyolo01/awesome-mcp",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "justincache/awesome-mcp-collection",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "lilyth-y/awesome-mcp-servers",
+        "liz7788/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mcp-finder/awesome-mcp-servers",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "neuralrays/awesome-mcp-hub",
+        "princejicoder/awesome-mcp",
+        "robotlearning123/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers",
+        "rohitg00/awesome-devops-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "sagargupta16/awesome-mcp-servers",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "spysailor/awesome-mcp-servers",
+        "subratadasgit/awesome-mcp-servers",
+        "swarmclawai/awesome-mcp-for-coding-agents",
+        "twzrd-sol/awesome-mcp-servers",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "vipinmi2024/awesome-mcp-servers",
+        "wagneragent/awesome-mcp-servers-devops",
+        "wong2/awesome-mcp-servers",
+        "yongminkim0501/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "clickhouse/mcp-clickhouse",
       "indexCount": 36,
       "indexes": [
@@ -21522,49 +21678,8 @@
       ]
     },
     {
-      "repositoryId": "browserbase/mcp-server-browserbase",
-      "indexCount": 35,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "awesome-ai-tools/curated-mcp-servers",
-        "christian-sidak/awesome-mcp-tools",
-        "collabnix/awesome-mcp-lists",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "epicmotionsd/awesome-mcp",
-        "ethanyolo01/awesome-mcp",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "justincache/awesome-mcp-collection",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "lilyth-y/awesome-mcp-servers",
-        "liz7788/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mcp-finder/awesome-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "neuralrays/awesome-mcp-hub",
-        "princejicoder/awesome-mcp",
-        "robotlearning123/awesome-mcp-servers",
-        "rohianon/awesome-mcp-servers",
-        "rohitg00/awesome-devops-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "sagargupta16/awesome-mcp-servers",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "spysailor/awesome-mcp-servers",
-        "subratadasgit/awesome-mcp-servers",
-        "swarmclawai/awesome-mcp-for-coding-agents",
-        "twzrd-sol/awesome-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "vipinmi2024/awesome-mcp-servers",
-        "wagneragent/awesome-mcp-servers-devops",
-        "wong2/awesome-mcp-servers",
-        "yongminkim0501/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "neondatabase/mcp-server-neon",
-      "indexCount": 34,
+      "indexCount": 35,
       "indexes": [
         "aaglexx/awesome-mcp-servers",
         "abordage/awesome-mcp",
@@ -21584,6 +21699,7 @@
         "liz7788/awesome-mcp-servers",
         "m18897829375/awesome-mcp-servers",
         "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
         "mobinx/awesome-mcp-list",
         "neuralrays/awesome-mcp-hub",
         "robotlearning123/awesome-mcp-servers",
@@ -21604,7 +21720,7 @@
     },
     {
       "repositoryId": "qdrant/mcp-server-qdrant",
-      "indexCount": 34,
+      "indexCount": 35,
       "indexes": [
         "7xuanlu/brethofai-awesome-mcp-servers",
         "aaglexx/awesome-mcp-servers",
@@ -21626,6 +21742,7 @@
         "m18897829375/awesome-mcp-servers",
         "mcp-finder/awesome-mcp-servers",
         "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
         "neuralrays/awesome-mcp-hub",
         "robotlearning123/awesome-mcp-servers",
         "rohianon/awesome-mcp-servers",
@@ -21644,7 +21761,7 @@
     },
     {
       "repositoryId": "flux159/mcp-server-kubernetes",
-      "indexCount": 32,
+      "indexCount": 33,
       "indexes": [
         "7xuanlu/brethofai-awesome-mcp-servers",
         "aaglexx/awesome-mcp-servers",
@@ -21664,6 +21781,7 @@
         "mcp-finder/awesome-mcp-servers",
         "mcphubcloud/awesome-mcp",
         "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
         "mobinx/awesome-mcp-list",
         "ndeeseee/awesomemcp",
         "r00t-kim/awesome-offensive-mcp",
@@ -21678,6 +21796,43 @@
         "wagneragent/awesome-mcp-servers-devops",
         "wong2/awesome-mcp-servers",
         "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "modelcontextprotocol/python-sdk",
+      "indexCount": 31,
+      "indexes": [
+        "7xuanlu/brethofai-awesome-mcp-servers",
+        "alexmili/awesome-mcp",
+        "brethofai/awesome-mcp-servers",
+        "christian-sidak/awesome-mcp-tools",
+        "devanshug2307/awesome-mcp-servers",
+        "epicmotionsd/awesome-mcp",
+        "epistates/awesome-mcp-devtools",
+        "eruo005-dev/awesome-turkish-mcp",
+        "ethanyolo01/awesome-mcp",
+        "godberrystudios/awesome-mcp-tools",
+        "habitoai/awesome-mcp-servers",
+        "itskiranbabu/awesome-mcp-servers",
+        "jsvvsolsllc/awesome-web-mcp",
+        "justincache/awesome-mcp-collection",
+        "korchasa/awesome-mcp",
+        "liz7788/awesome-mcp-servers",
+        "mcp-finder/awesome-mcp-servers",
+        "mcpstar/awesome-dxt-mcp",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "ndeeseee/awesomemcp",
+        "nluninja/awesome-mcp-resources",
+        "princejicoder/awesome-mcp",
+        "punkpeye/awesome-mcp-devtools",
+        "rohianon/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "scisharp/awesome-dotnet-mcp",
+        "shaxzodbek-uzb/awesome-mcp-erp",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "umitkacar/awesome-iot-ai-agent-mcp",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
       ]
     },
     {
@@ -21754,7 +21909,7 @@
       ]
     },
     {
-      "repositoryId": "modelcontextprotocol/python-sdk",
+      "repositoryId": "modelcontextprotocol/typescript-sdk",
       "indexCount": 30,
       "indexes": [
         "7xuanlu/brethofai-awesome-mcp-servers",
@@ -21762,29 +21917,29 @@
         "brethofai/awesome-mcp-servers",
         "christian-sidak/awesome-mcp-tools",
         "devanshug2307/awesome-mcp-servers",
+        "devinsightdotio/awesome_mcp",
         "epicmotionsd/awesome-mcp",
-        "epistates/awesome-mcp-devtools",
-        "eruo005-dev/awesome-turkish-mcp",
         "ethanyolo01/awesome-mcp",
         "godberrystudios/awesome-mcp-tools",
         "habitoai/awesome-mcp-servers",
+        "henrikaronsson/awesome-ng-mcp",
         "itskiranbabu/awesome-mcp-servers",
         "jsvvsolsllc/awesome-web-mcp",
         "justincache/awesome-mcp-collection",
         "korchasa/awesome-mcp",
         "liz7788/awesome-mcp-servers",
         "mcp-finder/awesome-mcp-servers",
-        "mcpstar/awesome-dxt-mcp",
         "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
         "ndeeseee/awesomemcp",
         "nluninja/awesome-mcp-resources",
         "princejicoder/awesome-mcp",
-        "punkpeye/awesome-mcp-devtools",
         "rohianon/awesome-mcp-servers",
         "sagargupta16/awesome-mcp-servers",
         "scisharp/awesome-dotnet-mcp",
         "shaxzodbek-uzb/awesome-mcp-erp",
         "spinov001-art/awesome-mcp-tools-2026",
+        "studivox/awesome-n8n-whatsapp-mcp",
         "umitkacar/awesome-iot-ai-agent-mcp",
         "ununununium/notfair-awesome-mcp-servers-anuar-boop"
       ]
@@ -21825,41 +21980,6 @@
       ]
     },
     {
-      "repositoryId": "modelcontextprotocol/typescript-sdk",
-      "indexCount": 29,
-      "indexes": [
-        "7xuanlu/brethofai-awesome-mcp-servers",
-        "alexmili/awesome-mcp",
-        "brethofai/awesome-mcp-servers",
-        "christian-sidak/awesome-mcp-tools",
-        "devanshug2307/awesome-mcp-servers",
-        "devinsightdotio/awesome_mcp",
-        "epicmotionsd/awesome-mcp",
-        "ethanyolo01/awesome-mcp",
-        "godberrystudios/awesome-mcp-tools",
-        "habitoai/awesome-mcp-servers",
-        "henrikaronsson/awesome-ng-mcp",
-        "itskiranbabu/awesome-mcp-servers",
-        "jsvvsolsllc/awesome-web-mcp",
-        "justincache/awesome-mcp-collection",
-        "korchasa/awesome-mcp",
-        "liz7788/awesome-mcp-servers",
-        "mcp-finder/awesome-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "ndeeseee/awesomemcp",
-        "nluninja/awesome-mcp-resources",
-        "princejicoder/awesome-mcp",
-        "rohianon/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "scisharp/awesome-dotnet-mcp",
-        "shaxzodbek-uzb/awesome-mcp-erp",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "studivox/awesome-n8n-whatsapp-mcp",
-        "umitkacar/awesome-iot-ai-agent-mcp",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
-      ]
-    },
-    {
       "repositoryId": "neo4j-contrib/mcp-neo4j",
       "indexCount": 29,
       "indexes": [
@@ -21892,6 +22012,41 @@
         "wong2/awesome-mcp-servers",
         "yongminkim0501/awesome-mcp-servers",
         "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "tavily-ai/tavily-mcp",
+      "indexCount": 29,
+      "indexes": [
+        "7xuanlu/brethofai-awesome-mcp-servers",
+        "aaglexx/awesome-mcp-servers",
+        "abordage/awesome-mcp",
+        "awesome-ai-tools/curated-mcp-servers",
+        "brethofai/awesome-mcp-servers",
+        "christian-sidak/awesome-mcp-tools",
+        "enterprise-ai-atlas/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "javeriaf19/awesome-mcp-for-creatives",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "liz7788/awesome-mcp-servers",
+        "mcp-finder/awesome-mcp-servers",
+        "mctrinh/awesome-mcp-servers",
+        "mgoldsborough/awesome-mcpb",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "ndeeseee/awesomemcp",
+        "neuralrays/awesome-mcp-hub",
+        "rohianon/awesome-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "sagargupta16/awesome-mcp-servers",
+        "spinov001-art/awesome-mcp-servers-2026",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "swarmclawai/awesome-mcp-for-coding-agents",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "vipinmi2024/awesome-mcp-servers",
+        "wong2/awesome-mcp-servers"
       ]
     },
     {
@@ -21963,37 +22118,70 @@
       ]
     },
     {
-      "repositoryId": "tavily-ai/tavily-mcp",
+      "repositoryId": "sooperset/mcp-atlassian",
       "indexCount": 28,
       "indexes": [
-        "7xuanlu/brethofai-awesome-mcp-servers",
-        "aaglexx/awesome-mcp-servers",
         "abordage/awesome-mcp",
-        "awesome-ai-tools/curated-mcp-servers",
-        "brethofai/awesome-mcp-servers",
         "christian-sidak/awesome-mcp-tools",
-        "enterprise-ai-atlas/awesome-mcp-servers",
+        "geesugar/awesome-mcp",
         "habitoai/awesome-mcp-servers",
         "habitoai/awesome-mcp-servers-directory",
-        "javeriaf19/awesome-mcp-for-creatives",
+        "irfandevops01/mcp-awesome-list",
+        "justincache/awesome-mcp-collection",
         "korchasa/awesome-mcp",
         "kuberwastaken/awesome-claude-mcp-servers",
         "kuberwastaken/awesome-codex-mcp-servers",
+        "lilyth-y/awesome-mcp-servers",
         "liz7788/awesome-mcp-servers",
         "mcp-finder/awesome-mcp-servers",
         "mctrinh/awesome-mcp-servers",
-        "mgoldsborough/awesome-mcpb",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "robotlearning123/awesome-mcp-servers",
+        "rohitg00/awesome-devops-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "subratadasgit/awesome-mcp-servers",
+        "sunnamed434/awesome-mcp-registry",
+        "swarmclawai/awesome-mcp-for-coding-agents",
+        "twzrd-sol/awesome-mcp-servers",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "wagneragent/awesome-mcp-servers-devops",
+        "yongminkim0501/awesome-mcp-servers",
+        "yuzehao2023/awesome-mcp-servers",
+        "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "getsentry/sentry-mcp",
+      "indexCount": 27,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "abordage/awesome-mcp",
+        "awesome-ai-tools/curated-mcp-servers",
+        "enterprise-ai-atlas/awesome-mcp-servers",
+        "ethanyolo01/awesome-mcp",
+        "irfandevops01/mcp-awesome-list",
+        "johnnyferrantetech/awesome-mcp-by-vertical",
+        "jsvvsolsllc/awesome-web-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "lilyth-y/awesome-mcp-servers",
+        "liz7788/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
         "ndeeseee/awesomemcp",
         "neuralrays/awesome-mcp-hub",
-        "rohianon/awesome-mcp-servers",
+        "princejicoder/awesome-mcp",
+        "r00t-kim/awesome-offensive-mcp",
+        "robotlearning123/awesome-mcp-servers",
         "romeo111/awesome-mcp-servers-2",
         "sagargupta16/awesome-mcp-servers",
         "spinov001-art/awesome-mcp-servers-2026",
         "spinov001-art/awesome-mcp-tools-2026",
         "swarmclawai/awesome-mcp-for-coding-agents",
+        "twzrd-sol/awesome-mcp-servers",
         "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "vipinmi2024/awesome-mcp-servers",
-        "wong2/awesome-mcp-servers"
+        "wong2/awesome-mcp-servers",
+        "yongminkim0501/awesome-mcp-servers"
       ]
     },
     {
@@ -22063,39 +22251,6 @@
       ]
     },
     {
-      "repositoryId": "sooperset/mcp-atlassian",
-      "indexCount": 27,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "christian-sidak/awesome-mcp-tools",
-        "geesugar/awesome-mcp",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "irfandevops01/mcp-awesome-list",
-        "justincache/awesome-mcp-collection",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "lilyth-y/awesome-mcp-servers",
-        "liz7788/awesome-mcp-servers",
-        "mcp-finder/awesome-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "robotlearning123/awesome-mcp-servers",
-        "rohitg00/awesome-devops-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "subratadasgit/awesome-mcp-servers",
-        "sunnamed434/awesome-mcp-registry",
-        "swarmclawai/awesome-mcp-for-coding-agents",
-        "twzrd-sol/awesome-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "wagneragent/awesome-mcp-servers-devops",
-        "yongminkim0501/awesome-mcp-servers",
-        "yuzehao2023/awesome-mcp-servers",
-        "yvmohsin/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "designcomputer/mysql_mcp_server",
       "indexCount": 26,
       "indexes": [
@@ -22125,38 +22280,6 @@
         "yongminkim0501/awesome-mcp-servers",
         "yuzehao2023/awesome-mcp-servers",
         "yvmohsin/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "getsentry/sentry-mcp",
-      "indexCount": 26,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "abordage/awesome-mcp",
-        "awesome-ai-tools/curated-mcp-servers",
-        "enterprise-ai-atlas/awesome-mcp-servers",
-        "ethanyolo01/awesome-mcp",
-        "irfandevops01/mcp-awesome-list",
-        "johnnyferrantetech/awesome-mcp-by-vertical",
-        "jsvvsolsllc/awesome-web-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "lilyth-y/awesome-mcp-servers",
-        "liz7788/awesome-mcp-servers",
-        "ndeeseee/awesomemcp",
-        "neuralrays/awesome-mcp-hub",
-        "princejicoder/awesome-mcp",
-        "r00t-kim/awesome-offensive-mcp",
-        "robotlearning123/awesome-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "sagargupta16/awesome-mcp-servers",
-        "spinov001-art/awesome-mcp-servers-2026",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "swarmclawai/awesome-mcp-for-coding-agents",
-        "twzrd-sol/awesome-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "wong2/awesome-mcp-servers",
-        "yongminkim0501/awesome-mcp-servers"
       ]
     },
     {
@@ -22223,6 +22346,129 @@
       ]
     },
     {
+      "repositoryId": "kiliczsh/mcp-mongo-server",
+      "indexCount": 25,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "abordage/awesome-mcp",
+        "agenticdevops/awesome-devops-mcp",
+        "awesome-ai-tools/curated-mcp-servers",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "epicmotionsd/awesome-mcp",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "lilyth-y/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mcphubcloud/awesome-mcp",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "mobinx/awesome-mcp-list",
+        "neuralrays/awesome-mcp-hub",
+        "robotlearning123/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "subratadasgit/awesome-mcp-servers",
+        "truehaiq/awesome-mcp",
+        "twzrd-sol/awesome-mcp-servers",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "wong2/awesome-mcp-servers",
+        "yuzehao2023/awesome-mcp-servers",
+        "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "stripe/agent-toolkit",
+      "indexCount": 25,
+      "indexes": [
+        "7xuanlu/brethofai-awesome-mcp-servers",
+        "aaglexx/awesome-mcp-servers",
+        "awesome-ai-tools/curated-mcp-servers",
+        "brethofai/awesome-mcp-servers",
+        "ethanyolo01/awesome-mcp",
+        "fuzzylabs/awesome-secure-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "javeriaf19/awesome-mcp-for-creatives",
+        "johnnyferrantetech/awesome-mcp-by-vertical",
+        "justincache/awesome-mcp-collection",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "liz7788/awesome-mcp-servers",
+        "mcp-finder/awesome-mcp-servers",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "ndeeseee/awesomemcp",
+        "rohianon/awesome-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "truehaiq/awesome-mcp",
+        "wong2/awesome-mcp-servers",
+        "yuzehao2023/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "supabase-community/supabase-mcp",
+      "indexCount": 25,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "awesome-ai-tools/curated-mcp-servers",
+        "basilahamed/awesome-mcp-servers",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "gbrussich52/awesome-legal-mcp-servers",
+        "geesugar/awesome-mcp",
+        "irfandevops01/mcp-awesome-list",
+        "johnnyferrantetech/awesome-mcp-by-vertical",
+        "justincache/awesome-mcp-collection",
+        "korchasa/awesome-mcp",
+        "lilyth-y/awesome-mcp-servers",
+        "liz7788/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mcp-finder/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "ndeeseee/awesomemcp",
+        "robotlearning123/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "spencerpauly/awesome-mcp-databases",
+        "subratadasgit/awesome-mcp-servers",
+        "swarmclawai/awesome-mcp-for-coding-agents",
+        "twzrd-sol/awesome-mcp-servers",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "wong2/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "domdomegg/airtable-mcp-server",
+      "indexCount": 24,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "abordage/awesome-mcp",
+        "awesome-ai-tools/curated-mcp-servers",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "lilyth-y/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mcphubcloud/awesome-mcp",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "mobinx/awesome-mcp-list",
+        "robotlearning123/awesome-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "sagargupta16/awesome-mcp-servers",
+        "subratadasgit/awesome-mcp-servers",
+        "truehaiq/awesome-mcp",
+        "twzrd-sol/awesome-mcp-servers",
+        "wong2/awesome-mcp-servers",
+        "yuzehao2023/awesome-mcp-servers",
+        "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "haris-musa/excel-mcp-server",
       "indexCount": 24,
       "indexes": [
@@ -22253,6 +22499,36 @@
       ]
     },
     {
+      "repositoryId": "hashicorp/terraform-mcp-server",
+      "indexCount": 24,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "collabnix/awesome-mcp-lists",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "enterprise-ai-atlas/awesome-mcp-servers",
+        "henrikaronsson/awesome-ng-mcp",
+        "irfandevops01/mcp-awesome-list",
+        "justincache/awesome-mcp-collection",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "liz7788/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "ndeeseee/awesomemcp",
+        "r00t-kim/awesome-offensive-mcp",
+        "robotlearning123/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "swarmclawai/awesome-mcp-for-coding-agents",
+        "twzrd-sol/awesome-mcp-servers",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "wagneragent/awesome-mcp-servers-devops"
+      ]
+    },
+    {
       "repositoryId": "jlowin/fastmcp",
       "indexCount": 24,
       "indexes": [
@@ -22280,66 +22556,6 @@
         "ununununium/notfair-awesome-mcp-servers-anuar-boop",
         "wagneragent/awesome-mcp-servers-devops",
         "yvmohsin/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "kiliczsh/mcp-mongo-server",
-      "indexCount": 24,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "abordage/awesome-mcp",
-        "agenticdevops/awesome-devops-mcp",
-        "awesome-ai-tools/curated-mcp-servers",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "epicmotionsd/awesome-mcp",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "lilyth-y/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mcphubcloud/awesome-mcp",
-        "mctrinh/awesome-mcp-servers",
-        "mobinx/awesome-mcp-list",
-        "neuralrays/awesome-mcp-hub",
-        "robotlearning123/awesome-mcp-servers",
-        "rohianon/awesome-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "subratadasgit/awesome-mcp-servers",
-        "truehaiq/awesome-mcp",
-        "twzrd-sol/awesome-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "wong2/awesome-mcp-servers",
-        "yuzehao2023/awesome-mcp-servers",
-        "yvmohsin/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "stripe/agent-toolkit",
-      "indexCount": 24,
-      "indexes": [
-        "7xuanlu/brethofai-awesome-mcp-servers",
-        "aaglexx/awesome-mcp-servers",
-        "awesome-ai-tools/curated-mcp-servers",
-        "brethofai/awesome-mcp-servers",
-        "ethanyolo01/awesome-mcp",
-        "fuzzylabs/awesome-secure-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "javeriaf19/awesome-mcp-for-creatives",
-        "johnnyferrantetech/awesome-mcp-by-vertical",
-        "justincache/awesome-mcp-collection",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "liz7788/awesome-mcp-servers",
-        "mcp-finder/awesome-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "ndeeseee/awesomemcp",
-        "rohianon/awesome-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "truehaiq/awesome-mcp",
-        "wong2/awesome-mcp-servers",
-        "yuzehao2023/awesome-mcp-servers"
       ]
     },
     {
@@ -22401,35 +22617,6 @@
       ]
     },
     {
-      "repositoryId": "domdomegg/airtable-mcp-server",
-      "indexCount": 23,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "abordage/awesome-mcp",
-        "awesome-ai-tools/curated-mcp-servers",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "lilyth-y/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mcphubcloud/awesome-mcp",
-        "mctrinh/awesome-mcp-servers",
-        "mobinx/awesome-mcp-list",
-        "robotlearning123/awesome-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "sagargupta16/awesome-mcp-servers",
-        "subratadasgit/awesome-mcp-servers",
-        "truehaiq/awesome-mcp",
-        "twzrd-sol/awesome-mcp-servers",
-        "wong2/awesome-mcp-servers",
-        "yuzehao2023/awesome-mcp-servers",
-        "yvmohsin/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "ergut/mcp-bigquery-server",
       "indexCount": 23,
       "indexes": [
@@ -22459,61 +22646,32 @@
       ]
     },
     {
-      "repositoryId": "hashicorp/terraform-mcp-server",
+      "repositoryId": "upstash/context7",
       "indexCount": 23,
       "indexes": [
         "abordage/awesome-mcp",
+        "christian-sidak/awesome-mcp-tools",
         "collabnix/awesome-mcp-lists",
         "dng-ngothanhloi/awesome-mcp-servers",
-        "enterprise-ai-atlas/awesome-mcp-servers",
+        "ethanyolo01/awesome-mcp",
         "henrikaronsson/awesome-ng-mcp",
-        "irfandevops01/mcp-awesome-list",
+        "hireblackout/awesome-mcp-servers",
         "justincache/awesome-mcp-collection",
         "korchasa/awesome-mcp",
         "kuberwastaken/awesome-claude-mcp-servers",
         "kuberwastaken/awesome-codex-mcp-servers",
-        "liz7788/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "ndeeseee/awesomemcp",
-        "r00t-kim/awesome-offensive-mcp",
-        "robotlearning123/awesome-mcp-servers",
-        "rohianon/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "swarmclawai/awesome-mcp-for-coding-agents",
-        "twzrd-sol/awesome-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "wagneragent/awesome-mcp-servers-devops"
-      ]
-    },
-    {
-      "repositoryId": "supabase-community/supabase-mcp",
-      "indexCount": 23,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "awesome-ai-tools/curated-mcp-servers",
-        "basilahamed/awesome-mcp-servers",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "geesugar/awesome-mcp",
-        "irfandevops01/mcp-awesome-list",
-        "johnnyferrantetech/awesome-mcp-by-vertical",
-        "justincache/awesome-mcp-collection",
-        "korchasa/awesome-mcp",
         "lilyth-y/awesome-mcp-servers",
         "liz7788/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mcp-finder/awesome-mcp-servers",
-        "ndeeseee/awesomemcp",
+        "mgoldsborough/awesome-mcpb",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "neuralrays/awesome-mcp-hub",
         "robotlearning123/awesome-mcp-servers",
-        "rohianon/awesome-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "spencerpauly/awesome-mcp-databases",
-        "subratadasgit/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "sunnamed434/awesome-mcp-registry",
         "swarmclawai/awesome-mcp-for-coding-agents",
         "twzrd-sol/awesome-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "wong2/awesome-mcp-servers"
+        "yongminkim0501/awesome-mcp-servers"
       ]
     },
     {
@@ -22573,31 +22731,31 @@
       ]
     },
     {
-      "repositoryId": "upstash/context7",
+      "repositoryId": "redis/mcp-redis",
       "indexCount": 22,
       "indexes": [
         "abordage/awesome-mcp",
-        "christian-sidak/awesome-mcp-tools",
-        "collabnix/awesome-mcp-lists",
         "dng-ngothanhloi/awesome-mcp-servers",
-        "ethanyolo01/awesome-mcp",
-        "henrikaronsson/awesome-ng-mcp",
-        "hireblackout/awesome-mcp-servers",
+        "enterprise-ai-atlas/awesome-mcp-servers",
         "justincache/awesome-mcp-collection",
         "korchasa/awesome-mcp",
         "kuberwastaken/awesome-claude-mcp-servers",
         "kuberwastaken/awesome-codex-mcp-servers",
         "lilyth-y/awesome-mcp-servers",
         "liz7788/awesome-mcp-servers",
-        "mgoldsborough/awesome-mcpb",
-        "neuralrays/awesome-mcp-hub",
+        "m18897829375/awesome-mcp-servers",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "ndeeseee/awesomemcp",
+        "r00t-kim/awesome-offensive-mcp",
         "robotlearning123/awesome-mcp-servers",
         "sagargupta16/awesome-mcp-servers",
         "spinov001-art/awesome-mcp-tools-2026",
-        "sunnamed434/awesome-mcp-registry",
         "swarmclawai/awesome-mcp-for-coding-agents",
         "twzrd-sol/awesome-mcp-servers",
-        "yongminkim0501/awesome-mcp-servers"
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "yongminkim0501/awesome-mcp-servers",
+        "yuzehao2023/awesome-mcp-servers"
       ]
     },
     {
@@ -22791,33 +22949,6 @@
       ]
     },
     {
-      "repositoryId": "redis/mcp-redis",
-      "indexCount": 21,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "enterprise-ai-atlas/awesome-mcp-servers",
-        "justincache/awesome-mcp-collection",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "lilyth-y/awesome-mcp-servers",
-        "liz7788/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "ndeeseee/awesomemcp",
-        "r00t-kim/awesome-offensive-mcp",
-        "robotlearning123/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "swarmclawai/awesome-mcp-for-coding-agents",
-        "twzrd-sol/awesome-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "yongminkim0501/awesome-mcp-servers",
-        "yuzehao2023/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "semgrep/mcp",
       "indexCount": 21,
       "indexes": [
@@ -22919,6 +23050,32 @@
         "truehaiq/awesome-mcp",
         "twzrd-sol/awesome-mcp-servers",
         "wong2/awesome-mcp-servers",
+        "yuzehao2023/awesome-mcp-servers",
+        "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "blazickjp/arxiv-mcp-server",
+      "indexCount": 20,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "collabnix/awesome-mcp-lists",
+        "geesugar/awesome-mcp",
+        "habitoai/awesome-mcp-servers",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "lilyth-y/awesome-mcp-servers",
+        "mcphubcloud/awesome-mcp",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "mobinx/awesome-mcp-list",
+        "ndeeseee/awesomemcp",
+        "robotlearning123/awesome-mcp-servers",
+        "subratadasgit/awesome-mcp-servers",
+        "sunnamed434/awesome-mcp-registry",
+        "truehaiq/awesome-mcp",
+        "twzrd-sol/awesome-mcp-servers",
+        "win4r/awesome-claude-mcp-servers",
         "yuzehao2023/awesome-mcp-servers",
         "yvmohsin/awesome-mcp-servers"
       ]
@@ -23210,6 +23367,32 @@
       ]
     },
     {
+      "repositoryId": "wonderwhy-er/desktopcommandermcp",
+      "indexCount": 20,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "christian-sidak/awesome-mcp-tools",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "geesugar/awesome-mcp",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "lilyth-y/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mgoldsborough/awesome-mcpb",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "robotlearning123/awesome-mcp-servers",
+        "rohitg00/awesome-devops-mcp-servers",
+        "spysailor/awesome-mcp-servers",
+        "subratadasgit/awesome-mcp-servers",
+        "sunnamed434/awesome-mcp-registry",
+        "swarmclawai/awesome-mcp-for-coding-agents",
+        "twzrd-sol/awesome-mcp-servers",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "wagneragent/awesome-mcp-servers-devops"
+      ]
+    },
+    {
       "repositoryId": "zenml-io/mcp-zenml",
       "indexCount": 20,
       "indexes": [
@@ -23258,31 +23441,6 @@
         "subratadasgit/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers",
         "wong2/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "blazickjp/arxiv-mcp-server",
-      "indexCount": 19,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "collabnix/awesome-mcp-lists",
-        "geesugar/awesome-mcp",
-        "habitoai/awesome-mcp-servers",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "lilyth-y/awesome-mcp-servers",
-        "mcphubcloud/awesome-mcp",
-        "mobinx/awesome-mcp-list",
-        "ndeeseee/awesomemcp",
-        "robotlearning123/awesome-mcp-servers",
-        "subratadasgit/awesome-mcp-servers",
-        "sunnamed434/awesome-mcp-registry",
-        "truehaiq/awesome-mcp",
-        "twzrd-sol/awesome-mcp-servers",
-        "win4r/awesome-claude-mcp-servers",
-        "yuzehao2023/awesome-mcp-servers",
-        "yvmohsin/awesome-mcp-servers"
       ]
     },
     {
@@ -23361,6 +23519,31 @@
       ]
     },
     {
+      "repositoryId": "kimtaeyoon83/mcp-server-youtube-transcript",
+      "indexCount": 19,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "korchasa/awesome-mcp",
+        "lilyth-y/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mcphubcloud/awesome-mcp",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "mobinx/awesome-mcp-list",
+        "princejicoder/awesome-mcp",
+        "robotlearning123/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "spysailor/awesome-mcp-servers",
+        "subratadasgit/awesome-mcp-servers",
+        "truehaiq/awesome-mcp",
+        "twzrd-sol/awesome-mcp-servers",
+        "win4r/awesome-claude-mcp-servers",
+        "yuzehao2023/awesome-mcp-servers",
+        "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "modelcontextprotocol/inspector",
       "indexCount": 19,
       "indexes": [
@@ -23411,31 +23594,6 @@
       ]
     },
     {
-      "repositoryId": "wonderwhy-er/desktopcommandermcp",
-      "indexCount": 19,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "christian-sidak/awesome-mcp-tools",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "geesugar/awesome-mcp",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "lilyth-y/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mgoldsborough/awesome-mcpb",
-        "robotlearning123/awesome-mcp-servers",
-        "rohitg00/awesome-devops-mcp-servers",
-        "spysailor/awesome-mcp-servers",
-        "subratadasgit/awesome-mcp-servers",
-        "sunnamed434/awesome-mcp-registry",
-        "swarmclawai/awesome-mcp-for-coding-agents",
-        "twzrd-sol/awesome-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "wagneragent/awesome-mcp-servers-devops"
-      ]
-    },
-    {
       "repositoryId": "ac3xx/mcp-servers-kagi",
       "indexCount": 18,
       "indexes": [
@@ -23456,6 +23614,54 @@
         "win4r/awesome-claude-mcp-servers",
         "wong2/awesome-mcp-servers",
         "yuzehao2023/awesome-mcp-servers",
+        "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "ckreiling/mcp-server-docker",
+      "indexCount": 18,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "agenticdevops/awesome-devops-mcp",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "itskiranbabu/awesome-mcp-servers",
+        "korchasa/awesome-mcp",
+        "lilyth-y/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "ndeeseee/awesomemcp",
+        "neuralrays/awesome-mcp-hub",
+        "robotlearning123/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "subratadasgit/awesome-mcp-servers",
+        "twzrd-sol/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "ferrislucas/iterm-mcp",
+      "indexCount": 18,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "agenticdevops/awesome-devops-mcp",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "korchasa/awesome-mcp",
+        "lilyth-y/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mcphubcloud/awesome-mcp",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "mobinx/awesome-mcp-list",
+        "robotlearning123/awesome-mcp-servers",
+        "rohitg00/awesome-devops-mcp-servers",
+        "spysailor/awesome-mcp-servers",
+        "subratadasgit/awesome-mcp-servers",
+        "twzrd-sol/awesome-mcp-servers",
+        "wagneragent/awesome-mcp-servers-devops",
         "yvmohsin/awesome-mcp-servers"
       ]
     },
@@ -23532,30 +23738,6 @@
       ]
     },
     {
-      "repositoryId": "kimtaeyoon83/mcp-server-youtube-transcript",
-      "indexCount": 18,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "korchasa/awesome-mcp",
-        "lilyth-y/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mcphubcloud/awesome-mcp",
-        "mobinx/awesome-mcp-list",
-        "princejicoder/awesome-mcp",
-        "robotlearning123/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "spysailor/awesome-mcp-servers",
-        "subratadasgit/awesome-mcp-servers",
-        "truehaiq/awesome-mcp",
-        "twzrd-sol/awesome-mcp-servers",
-        "win4r/awesome-claude-mcp-servers",
-        "yuzehao2023/awesome-mcp-servers",
-        "yvmohsin/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "mark3labs/mcp-go",
       "indexCount": 18,
       "indexes": [
@@ -23577,6 +23759,30 @@
         "subratadasgit/awesome-mcp-servers",
         "win4r/awesome-claude-mcp-servers",
         "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "mendableai/firecrawl-mcp-server",
+      "indexCount": 18,
+      "indexes": [
+        "7xuanlu/brethofai-awesome-mcp-servers",
+        "aaglexx/awesome-mcp-servers",
+        "awesome-ai-tools/curated-mcp-servers",
+        "brethofai/awesome-mcp-servers",
+        "enterprise-ai-atlas/awesome-mcp-servers",
+        "ethanyolo01/awesome-mcp",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "mcp-finder/awesome-mcp-servers",
+        "mcphubcloud/awesome-mcp",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "neuralrays/awesome-mcp-hub",
+        "rohianon/awesome-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "wong2/awesome-mcp-servers"
       ]
     },
     {
@@ -23791,29 +23997,6 @@
       ]
     },
     {
-      "repositoryId": "ckreiling/mcp-server-docker",
-      "indexCount": 17,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "agenticdevops/awesome-devops-mcp",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "itskiranbabu/awesome-mcp-servers",
-        "korchasa/awesome-mcp",
-        "lilyth-y/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "ndeeseee/awesomemcp",
-        "neuralrays/awesome-mcp-hub",
-        "robotlearning123/awesome-mcp-servers",
-        "rohianon/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "subratadasgit/awesome-mcp-servers",
-        "twzrd-sol/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "coinpaprika/dexpaprika-mcp",
       "indexCount": 17,
       "indexes": [
@@ -23857,29 +24040,6 @@
         "sagargupta16/awesome-mcp-servers",
         "swarmclawai/awesome-mcp-for-coding-agents",
         "twzrd-sol/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "ferrislucas/iterm-mcp",
-      "indexCount": 17,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "agenticdevops/awesome-devops-mcp",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "korchasa/awesome-mcp",
-        "lilyth-y/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "mcphubcloud/awesome-mcp",
-        "mctrinh/awesome-mcp-servers",
-        "mobinx/awesome-mcp-list",
-        "robotlearning123/awesome-mcp-servers",
-        "rohitg00/awesome-devops-mcp-servers",
-        "spysailor/awesome-mcp-servers",
-        "subratadasgit/awesome-mcp-servers",
-        "twzrd-sol/awesome-mcp-servers",
-        "wagneragent/awesome-mcp-servers-devops",
-        "yvmohsin/awesome-mcp-servers"
       ]
     },
     {
@@ -24018,29 +24178,6 @@
         "twzrd-sol/awesome-mcp-servers",
         "wagneragent/awesome-mcp-servers-devops",
         "yvmohsin/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "mendableai/firecrawl-mcp-server",
-      "indexCount": 17,
-      "indexes": [
-        "7xuanlu/brethofai-awesome-mcp-servers",
-        "aaglexx/awesome-mcp-servers",
-        "awesome-ai-tools/curated-mcp-servers",
-        "brethofai/awesome-mcp-servers",
-        "enterprise-ai-atlas/awesome-mcp-servers",
-        "ethanyolo01/awesome-mcp",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "mcp-finder/awesome-mcp-servers",
-        "mcphubcloud/awesome-mcp",
-        "mctrinh/awesome-mcp-servers",
-        "neuralrays/awesome-mcp-hub",
-        "rohianon/awesome-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "wong2/awesome-mcp-servers"
       ]
     },
     {
@@ -24872,6 +25009,27 @@
       ]
     },
     {
+      "repositoryId": "ppl-ai/modelcontextprotocol",
+      "indexCount": 15,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "awesome-ai-tools/curated-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "mcphubcloud/awesome-mcp",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "ndeeseee/awesomemcp",
+        "rohianon/awesome-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "wong2/awesome-mcp-servers",
+        "yongminkim0501/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "rohitg00/kubectl-mcp-server",
       "indexCount": 15,
       "indexes": [
@@ -25058,6 +25216,26 @@
         "subratadasgit/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers",
         "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "abhiz123/todoist-mcp-server",
+      "indexCount": 14,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "habitoai/awesome-mcp-servers",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "mcp-finder/awesome-mcp-servers",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "neuralrays/awesome-mcp-hub",
+        "rohianon/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "truehaiq/awesome-mcp",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
+        "yuzehao2023/awesome-mcp-servers"
       ]
     },
     {
@@ -25581,6 +25759,26 @@
       ]
     },
     {
+      "repositoryId": "pinecone-io/pinecone-mcp",
+      "indexCount": 14,
+      "indexes": [
+        "7xuanlu/brethofai-awesome-mcp-servers",
+        "abordage/awesome-mcp",
+        "brethofai/awesome-mcp-servers",
+        "enterprise-ai-atlas/awesome-mcp-servers",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "neuralrays/awesome-mcp-hub",
+        "princejicoder/awesome-mcp",
+        "rohianon/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "swarmclawai/awesome-mcp-for-coding-agents",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
+      ]
+    },
+    {
       "repositoryId": "pipedreamhq/pipedream",
       "indexCount": 14,
       "indexes": [
@@ -25598,26 +25796,6 @@
         "vipinmi2024/awesome-mcp-servers",
         "wagneragent/awesome-mcp-servers-devops",
         "yuzehao2023/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "ppl-ai/modelcontextprotocol",
-      "indexCount": 14,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "awesome-ai-tools/curated-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "mcphubcloud/awesome-mcp",
-        "mctrinh/awesome-mcp-servers",
-        "ndeeseee/awesomemcp",
-        "rohianon/awesome-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "wong2/awesome-mcp-servers",
-        "yongminkim0501/awesome-mcp-servers"
       ]
     },
     {
@@ -25898,25 +26076,6 @@
         "sunnamed434/awesome-mcp-registry",
         "twzrd-sol/awesome-mcp-servers",
         "yvmohsin/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "abhiz123/todoist-mcp-server",
-      "indexCount": 13,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "habitoai/awesome-mcp-servers",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "mcp-finder/awesome-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "neuralrays/awesome-mcp-hub",
-        "rohianon/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "truehaiq/awesome-mcp",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop",
-        "yuzehao2023/awesome-mcp-servers"
       ]
     },
     {
@@ -26414,25 +26573,6 @@
       ]
     },
     {
-      "repositoryId": "pinecone-io/pinecone-mcp",
-      "indexCount": 13,
-      "indexes": [
-        "7xuanlu/brethofai-awesome-mcp-servers",
-        "abordage/awesome-mcp",
-        "brethofai/awesome-mcp-servers",
-        "enterprise-ai-atlas/awesome-mcp-servers",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "neuralrays/awesome-mcp-hub",
-        "princejicoder/awesome-mcp",
-        "rohianon/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "swarmclawai/awesome-mcp-for-coding-agents",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
-      ]
-    },
-    {
       "repositoryId": "prisma/mcp",
       "indexCount": 13,
       "indexes": [
@@ -26658,6 +26798,25 @@
         "subratadasgit/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers",
         "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "varunneal/spotify-mcp",
+      "indexCount": 13,
+      "indexes": [
+        "7xuanlu/brethofai-awesome-mcp-servers",
+        "abordage/awesome-mcp",
+        "brethofai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "korchasa/awesome-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "liz7788/awesome-mcp-servers",
+        "mcp-finder/awesome-mcp-servers",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "truehaiq/awesome-mcp",
+        "yuzehao2023/awesome-mcp-servers"
       ]
     },
     {
@@ -27472,21 +27631,21 @@
       ]
     },
     {
-      "repositoryId": "varunneal/spotify-mcp",
+      "repositoryId": "v-3/discordmcp",
       "indexCount": 12,
       "indexes": [
-        "7xuanlu/brethofai-awesome-mcp-servers",
         "abordage/awesome-mcp",
-        "brethofai/awesome-mcp-servers",
         "habitoai/awesome-mcp-servers",
-        "korchasa/awesome-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
         "liz7788/awesome-mcp-servers",
         "mcp-finder/awesome-mcp-servers",
         "mctrinh/awesome-mcp-servers",
-        "truehaiq/awesome-mcp",
-        "yuzehao2023/awesome-mcp-servers"
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "neuralrays/awesome-mcp-hub",
+        "rohianon/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "spinov001-art/awesome-mcp-tools-2026",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
       ]
     },
     {
@@ -27523,6 +27682,24 @@
         "subratadasgit/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers",
         "yongminkim0501/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "zed-industries/zed",
+      "indexCount": 12,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "amazingbecca/awesome-mcp-clients",
+        "awesome-ai-tools/curated-mcp-servers",
+        "epicmotionsd/awesome-mcp",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "malo2b/awesome-mcp-clients",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "punkpeye/awesome-mcp-clients",
+        "romeo111/awesome-mcp-servers-2",
+        "wong2/awesome-mcp-servers",
+        "yuzehao2023/awesome-mcp-servers"
       ]
     },
     {
@@ -28478,6 +28655,23 @@
       ]
     },
     {
+      "repositoryId": "narumiruna/yfinance-mcp",
+      "indexCount": 11,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "justincache/awesome-mcp-collection",
+        "lilyth-y/awesome-mcp-servers",
+        "m18897829375/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "neuralrays/awesome-mcp-hub",
+        "robotlearning123/awesome-mcp-servers",
+        "subratadasgit/awesome-mcp-servers",
+        "twzrd-sol/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "opendatamcp/opendatamcp",
       "indexCount": 11,
       "indexes": [
@@ -28750,23 +28944,6 @@
       ]
     },
     {
-      "repositoryId": "v-3/discordmcp",
-      "indexCount": 11,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "liz7788/awesome-mcp-servers",
-        "mcp-finder/awesome-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "neuralrays/awesome-mcp-hub",
-        "rohianon/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "spinov001-art/awesome-mcp-tools-2026",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
-      ]
-    },
-    {
       "repositoryId": "voska/hass-mcp",
       "indexCount": 11,
       "indexes": [
@@ -28798,23 +28975,6 @@
         "robotlearning123/awesome-mcp-servers",
         "subratadasgit/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "zed-industries/zed",
-      "indexCount": 11,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "amazingbecca/awesome-mcp-clients",
-        "awesome-ai-tools/curated-mcp-servers",
-        "epicmotionsd/awesome-mcp",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "malo2b/awesome-mcp-clients",
-        "punkpeye/awesome-mcp-clients",
-        "romeo111/awesome-mcp-servers-2",
-        "wong2/awesome-mcp-servers",
-        "yuzehao2023/awesome-mcp-servers"
       ]
     },
     {
@@ -29583,22 +29743,6 @@
         "romeo111/awesome-mcp-servers-2",
         "wong2/awesome-mcp-servers",
         "yuzehao2023/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "narumiruna/yfinance-mcp",
-      "indexCount": 10,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "justincache/awesome-mcp-collection",
-        "lilyth-y/awesome-mcp-servers",
-        "m18897829375/awesome-mcp-servers",
-        "neuralrays/awesome-mcp-hub",
-        "robotlearning123/awesome-mcp-servers",
-        "subratadasgit/awesome-mcp-servers",
-        "twzrd-sol/awesome-mcp-servers"
       ]
     },
     {
@@ -30968,6 +31112,21 @@
       ]
     },
     {
+      "repositoryId": "roychri/mcp-server-asana",
+      "indexCount": 9,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "habitoai/awesome-mcp-servers",
+        "lilyth-y/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "robotlearning123/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "subratadasgit/awesome-mcp-servers",
+        "twzrd-sol/awesome-mcp-servers",
+        "yvmohsin/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "sammcj/mcp-package-version",
       "indexCount": 9,
       "indexes": [
@@ -31025,6 +31184,36 @@
         "robotlearning123/awesome-mcp-servers",
         "subratadasgit/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "simonb97/win-cli-mcp-server",
+      "indexCount": 9,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "awesome-ai-tools/curated-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "mctrinh/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
+        "truehaiq/awesome-mcp",
+        "wong2/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "sindresorhus/awesome",
+      "indexCount": 9,
+      "indexes": [
+        "crowdere/awesome-re-mcp",
+        "devanshug2307/awesome-mcp-servers",
+        "dhanushnehru/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "ihpwhath/awesome-mcp-toolkit",
+        "kesaruhasun/awesome-antigravity-skills-mcp-guide",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "rohitg00/awesome-devops-mcp-servers",
+        "wagneragent/awesome-mcp-servers-devops"
       ]
     },
     {
@@ -31204,6 +31393,21 @@
         "robotlearning123/awesome-mcp-servers",
         "romeo111/awesome-mcp-servers-2",
         "twzrd-sol/awesome-mcp-servers",
+        "wong2/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "twilio-labs/mcp",
+      "indexCount": 9,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "abordage/awesome-mcp",
+        "awesome-ai-tools/curated-mcp-servers",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "liz7788/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "romeo111/awesome-mcp-servers-2",
         "wong2/awesome-mcp-servers"
       ]
     },
@@ -32641,20 +32845,6 @@
       ]
     },
     {
-      "repositoryId": "roychri/mcp-server-asana",
-      "indexCount": 8,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "habitoai/awesome-mcp-servers",
-        "lilyth-y/awesome-mcp-servers",
-        "robotlearning123/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "subratadasgit/awesome-mcp-servers",
-        "twzrd-sol/awesome-mcp-servers",
-        "yvmohsin/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "screenshotone/mcp",
       "indexCount": 8,
       "indexes": [
@@ -32708,34 +32898,6 @@
         "spysailor/awesome-mcp-servers",
         "subratadasgit/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "simonb97/win-cli-mcp-server",
-      "indexCount": 8,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "awesome-ai-tools/curated-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "mctrinh/awesome-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
-        "truehaiq/awesome-mcp",
-        "wong2/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "sindresorhus/awesome",
-      "indexCount": 8,
-      "indexes": [
-        "crowdere/awesome-re-mcp",
-        "devanshug2307/awesome-mcp-servers",
-        "dhanushnehru/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "ihpwhath/awesome-mcp-toolkit",
-        "kesaruhasun/awesome-antigravity-skills-mcp-guide",
-        "rohitg00/awesome-devops-mcp-servers",
-        "wagneragent/awesome-mcp-servers-devops"
       ]
     },
     {
@@ -32875,20 +33037,6 @@
         "robotlearning123/awesome-mcp-servers",
         "romeo111/awesome-mcp-servers-2",
         "twzrd-sol/awesome-mcp-servers",
-        "wong2/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "twilio-labs/mcp",
-      "indexCount": 8,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "abordage/awesome-mcp",
-        "awesome-ai-tools/curated-mcp-servers",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "liz7788/awesome-mcp-servers",
-        "romeo111/awesome-mcp-servers-2",
         "wong2/awesome-mcp-servers"
       ]
     },
@@ -36020,6 +36168,18 @@
       ]
     },
     {
+      "repositoryId": "langchain-ai/langchain-mcp-adapters",
+      "indexCount": 6,
+      "indexes": [
+        "liz7788/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers",
+        "shaxzodbek-uzb/awesome-mcp-erp",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
+      ]
+    },
+    {
       "repositoryId": "linux-china/mcp-rs-template",
       "indexCount": 6,
       "indexes": [
@@ -37646,6 +37806,17 @@
       ]
     },
     {
+      "repositoryId": "browser-use/browser-use",
+      "indexCount": 5,
+      "indexes": [
+        "7xuanlu/brethofai-awesome-mcp-servers",
+        "brethofai/awesome-mcp-servers",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "bucketco/bucket-javascript-sdk",
       "indexCount": 5,
       "indexes": [
@@ -37742,6 +37913,17 @@
         "robotlearning123/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers",
         "vipinmi2024/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "coinbase/agentkit",
+      "indexCount": 5,
+      "indexes": [
+        "blockrunai/awesome-finance-mcp",
+        "hive-intel/awesome-crypto-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers",
+        "sagargupta16/awesome-mcp-servers"
       ]
     },
     {
@@ -37852,6 +38034,17 @@
         "malo2b/awesome-mcp-clients",
         "neuralrays/awesome-mcp-hub",
         "punkpeye/awesome-mcp-clients"
+      ]
+    },
+    {
+      "repositoryId": "datadog/datadog-mcp-server",
+      "indexCount": 5,
+      "indexes": [
+        "irfandevops01/mcp-awesome-list",
+        "liz7788/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers",
+        "yongminkim0501/awesome-mcp-servers"
       ]
     },
     {
@@ -38339,6 +38532,17 @@
       ]
     },
     {
+      "repositoryId": "jamesanz/us-legal-mcp",
+      "indexCount": 5,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "dng-ngothanhloi/awesome-mcp-servers",
+        "gbrussich52/awesome-legal-mcp-servers",
+        "robotlearning123/awesome-mcp-servers",
+        "twzrd-sol/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "jaw9c/awesome-remote-mcp-servers",
       "indexCount": 5,
       "indexes": [
@@ -38578,17 +38782,6 @@
         "korchasa/awesome-mcp",
         "mctrinh/awesome-mcp-servers",
         "yuz2023/awesome-mcp-for-power-engineering"
-      ]
-    },
-    {
-      "repositoryId": "langchain-ai/langchain-mcp-adapters",
-      "indexCount": 5,
-      "indexes": [
-        "liz7788/awesome-mcp-servers",
-        "rohianon/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers",
-        "shaxzodbek-uzb/awesome-mcp-erp",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
       ]
     },
     {
@@ -39296,6 +39489,17 @@
       ]
     },
     {
+      "repositoryId": "shaneholloman/mcp-knowledge-graph",
+      "indexCount": 5,
+      "indexes": [
+        "korchasa/awesome-mcp",
+        "mengmeiz/awesome-graph-mcp",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "swarmclawai/awesome-mcp-for-coding-agents",
+        "yongminkim0501/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "shareseer/shareseer-mcp-server",
       "indexCount": 5,
       "indexes": [
@@ -39313,6 +39517,17 @@
         "abordage/awesome-mcp",
         "dng-ngothanhloi/awesome-mcp-servers",
         "lilyth-y/awesome-mcp-servers",
+        "robotlearning123/awesome-mcp-servers",
+        "twzrd-sol/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "shopify/dev-mcp",
+      "indexCount": 5,
+      "indexes": [
+        "devinsightdotio/awesome_mcp",
+        "lilyth-y/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
         "robotlearning123/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers"
       ]
@@ -39667,6 +39882,17 @@
         "m18897829375/awesome-mcp-servers",
         "robotlearning123/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "unclecode/crawl4ai",
+      "indexCount": 5,
+      "indexes": [
+        "jsvvsolsllc/awesome-web-mcp",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
       ]
     },
     {
@@ -40467,16 +40693,6 @@
       ]
     },
     {
-      "repositoryId": "browser-use/browser-use",
-      "indexCount": 4,
-      "indexes": [
-        "7xuanlu/brethofai-awesome-mcp-servers",
-        "brethofai/awesome-mcp-servers",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "bruno-portfolio/agrobr-mcp",
       "indexCount": 4,
       "indexes": [
@@ -40657,16 +40873,6 @@
       ]
     },
     {
-      "repositoryId": "coinbase/agentkit",
-      "indexCount": 4,
-      "indexes": [
-        "blockrunai/awesome-finance-mcp",
-        "hive-intel/awesome-crypto-mcp-servers",
-        "rohianon/awesome-mcp-servers",
-        "sagargupta16/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "coinstatshq/coinstats-mcp",
       "indexCount": 4,
       "indexes": [
@@ -40804,16 +41010,6 @@
         "awesome-ai-tools/curated-mcp-servers",
         "romeo111/awesome-mcp-servers-2",
         "wong2/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "datadog/datadog-mcp-server",
-      "indexCount": 4,
-      "indexes": [
-        "irfandevops01/mcp-awesome-list",
-        "liz7788/awesome-mcp-servers",
-        "rohianon/awesome-mcp-servers",
-        "yongminkim0501/awesome-mcp-servers"
       ]
     },
     {
@@ -41787,16 +41983,6 @@
       ]
     },
     {
-      "repositoryId": "jamesanz/us-legal-mcp",
-      "indexCount": 4,
-      "indexes": [
-        "abordage/awesome-mcp",
-        "dng-ngothanhloi/awesome-mcp-servers",
-        "robotlearning123/awesome-mcp-servers",
-        "twzrd-sol/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "jasonwilbur/cloud-cost-mcp",
       "indexCount": 4,
       "indexes": [
@@ -42184,6 +42370,16 @@
         "lilyth-y/awesome-mcp-servers",
         "robotlearning123/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "linear/linear-mcp",
+      "indexCount": 4,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "princejicoder/awesome-mcp",
+        "spinov001-art/awesome-mcp-servers-2026",
+        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
       ]
     },
     {
@@ -43487,26 +43683,6 @@
       ]
     },
     {
-      "repositoryId": "shaneholloman/mcp-knowledge-graph",
-      "indexCount": 4,
-      "indexes": [
-        "korchasa/awesome-mcp",
-        "mengmeiz/awesome-graph-mcp",
-        "swarmclawai/awesome-mcp-for-coding-agents",
-        "yongminkim0501/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "shopify/dev-mcp",
-      "indexCount": 4,
-      "indexes": [
-        "devinsightdotio/awesome_mcp",
-        "lilyth-y/awesome-mcp-servers",
-        "robotlearning123/awesome-mcp-servers",
-        "twzrd-sol/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "shuowang-ai/weather-mcp",
       "indexCount": 4,
       "indexes": [
@@ -43937,16 +44113,6 @@
       ]
     },
     {
-      "repositoryId": "unclecode/crawl4ai",
-      "indexCount": 4,
-      "indexes": [
-        "jsvvsolsllc/awesome-web-mcp",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
-      ]
-    },
-    {
       "repositoryId": "upstash/context7-mcp",
       "indexCount": 4,
       "indexes": [
@@ -44024,6 +44190,16 @@
         "m18897829375/awesome-mcp-servers",
         "robotlearning123/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "vercel/mcp-adapter",
+      "indexCount": 4,
+      "indexes": [
+        "ethanyolo01/awesome-mcp",
+        "korchasa/awesome-mcp",
+        "liz7788/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers"
       ]
     },
     {
@@ -45983,15 +46159,6 @@
       ]
     },
     {
-      "repositoryId": "linear/linear-mcp",
-      "indexCount": 3,
-      "indexes": [
-        "princejicoder/awesome-mcp",
-        "spinov001-art/awesome-mcp-servers-2026",
-        "ununununium/notfair-awesome-mcp-servers-anuar-boop"
-      ]
-    },
-    {
       "repositoryId": "linear/linear-mcp-server",
       "indexCount": 3,
       "indexes": [
@@ -46964,6 +47131,15 @@
       ]
     },
     {
+      "repositoryId": "sandbaseai/sandbase-harness",
+      "indexCount": 3,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "alexmili/awesome-mcp",
+        "sagargupta16/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "sanyambassi/ciphertrust-manager-mcp-server",
       "indexCount": 3,
       "indexes": [
@@ -47621,15 +47797,6 @@
       ]
     },
     {
-      "repositoryId": "vercel/mcp-adapter",
-      "indexCount": 3,
-      "indexes": [
-        "ethanyolo01/awesome-mcp",
-        "korchasa/awesome-mcp",
-        "liz7788/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "video-creator/ffmpeg-mcp",
       "indexCount": 3,
       "indexes": [
@@ -47654,6 +47821,15 @@
         "abordage/awesome-mcp",
         "habitoai/awesome-mcp-servers",
         "mctrinh/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "vostride/agent-qa",
+      "indexCount": 3,
+      "indexes": [
+        "collabnix/awesome-mcp-lists",
+        "wagneragent/awesome-mcp-servers-devops",
+        "wundercorp/awesome-mcp"
       ]
     },
     {
@@ -51167,6 +51343,14 @@
       ]
     },
     {
+      "repositoryId": "hubspot/mcp-server",
+      "indexCount": 2,
+      "indexes": [
+        "itskiranbabu/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "hug0x0/mcp-reunion",
       "indexCount": 2,
       "indexes": [
@@ -52183,6 +52367,14 @@
       ]
     },
     {
+      "repositoryId": "magichourhq/magic-hour-mcp",
+      "indexCount": 2,
+      "indexes": [
+        "alexmili/awesome-mcp",
+        "collabnix/awesome-mcp-lists"
+      ]
+    },
+    {
       "repositoryId": "mailtrap/mailtrap-mcp",
       "indexCount": 2,
       "indexes": [
@@ -53103,6 +53295,14 @@
       ]
     },
     {
+      "repositoryId": "nowork-studio/notfair-plugin",
+      "indexCount": 2,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "bhavyshekhaliya/awesome-public-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "nteract/semiotic",
       "indexCount": 2,
       "indexes": [
@@ -53308,6 +53508,14 @@
       "indexes": [
         "jsvvsolsllc/awesome-web-mcp",
         "korchasa/awesome-mcp"
+      ]
+    },
+    {
+      "repositoryId": "openai/openai-mcp",
+      "indexCount": 2,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "rohianon/awesome-mcp-servers"
       ]
     },
     {
@@ -53727,6 +53935,14 @@
       ]
     },
     {
+      "repositoryId": "prisma/prisma",
+      "indexCount": 2,
+      "indexes": [
+        "geesugar/awesome-mcp",
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "programcomputer/nasa-mcp-server",
       "indexCount": 2,
       "indexes": [
@@ -54087,6 +54303,14 @@
       ]
     },
     {
+      "repositoryId": "rudra-ravi/wikipedia-mcp",
+      "indexCount": 2,
+      "indexes": [
+        "abordage/awesome-mcp",
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "runyourempire/4da",
       "indexCount": 2,
       "indexes": [
@@ -54219,14 +54443,6 @@
       "indexCount": 2,
       "indexes": [
         "alexmili/awesome-mcp",
-        "sagargupta16/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "sandbaseai/sandbase-harness",
-      "indexCount": 2,
-      "indexes": [
-        "abordage/awesome-mcp",
         "sagargupta16/awesome-mcp-servers"
       ]
     },
@@ -55263,6 +55479,14 @@
       ]
     },
     {
+      "repositoryId": "tursodatabase/turso-mcp",
+      "indexCount": 2,
+      "indexes": [
+        "liz7788/awesome-mcp-servers",
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "twilio-labs/mcp-server-twilio",
       "indexCount": 2,
       "indexes": [
@@ -55524,14 +55748,6 @@
       "indexes": [
         "abordage/awesome-mcp",
         "mctrinh/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "vostride/agent-qa",
-      "indexCount": 2,
-      "indexes": [
-        "wagneragent/awesome-mcp-servers-devops",
-        "wundercorp/awesome-mcp"
       ]
     },
     {
@@ -56514,6 +56730,13 @@
       ]
     },
     {
+      "repositoryId": "agentic-ops/legal-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "gbrussich52/awesome-legal-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "agenticdecks/deckrun-mcp",
       "indexCount": 1,
       "indexes": [
@@ -56983,6 +57206,13 @@
       ]
     },
     {
+      "repositoryId": "alpacahq/alpaca-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "alphavantage/alpha_vantage_mcp",
       "indexCount": 1,
       "indexes": [
@@ -57155,6 +57385,13 @@
       "indexCount": 1,
       "indexes": [
         "irfandevops01/mcp-awesome-list"
+      ]
+    },
+    {
+      "repositoryId": "ansvar-systems/german-law-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "gbrussich52/awesome-legal-mcp-servers"
       ]
     },
     {
@@ -58117,6 +58354,13 @@
       ]
     },
     {
+      "repositoryId": "benborla29/mcp-server-mysql",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "benmillerat/productboard-mcpb",
       "indexCount": 1,
       "indexes": [
@@ -58233,6 +58477,13 @@
       "indexCount": 1,
       "indexes": [
         "benzema216/awesome-map-mcp"
+      ]
+    },
+    {
+      "repositoryId": "blakeox/courtlistener-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "gbrussich52/awesome-legal-mcp-servers"
       ]
     },
     {
@@ -58506,6 +58757,13 @@
       "indexCount": 1,
       "indexes": [
         "benzema216/awesome-map-mcp"
+      ]
+    },
+    {
+      "repositoryId": "burnysc2/monorepo",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
       ]
     },
     {
@@ -58821,6 +59079,13 @@
       "indexCount": 1,
       "indexes": [
         "sunanhe/awesome-medical-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "chigkim/telegram-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
       ]
     },
     {
@@ -61260,6 +61525,13 @@
       ]
     },
     {
+      "repositoryId": "feamster/paymo-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "gbrussich52/awesome-legal-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "fedml-ai/fedml",
       "indexCount": 1,
       "indexes": [
@@ -62100,6 +62372,13 @@
       ]
     },
     {
+      "repositoryId": "googlemaps/js-maps-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "goplussecurity/goplus-mcp",
       "indexCount": 1,
       "indexes": [
@@ -62310,6 +62589,13 @@
       ]
     },
     {
+      "repositoryId": "hannesrudolph/mcp-sendgrid-email-server",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "hannesrudolph/mcp-server-email",
       "indexCount": 1,
       "indexes": [
@@ -62405,6 +62691,13 @@
       "indexCount": 1,
       "indexes": [
         "shaxzodbek-uzb/awesome-mcp-erp"
+      ]
+    },
+    {
+      "repositoryId": "hellosverre/ghidralens",
+      "indexCount": 1,
+      "indexes": [
+        "alexmili/awesome-mcp"
       ]
     },
     {
@@ -62741,13 +63034,6 @@
       "indexCount": 1,
       "indexes": [
         "yongminkim0501/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "hubspot/mcp-server",
-      "indexCount": 1,
-      "indexes": [
-        "itskiranbabu/awesome-mcp-servers"
       ]
     },
     {
@@ -63581,6 +63867,13 @@
       "indexCount": 1,
       "indexes": [
         "wagneragent/awesome-mcp-servers-devops"
+      ]
+    },
+    {
+      "repositoryId": "john-walkoe/courtlistener_citations_mcp",
+      "indexCount": 1,
+      "indexes": [
+        "gbrussich52/awesome-legal-mcp-servers"
       ]
     },
     {
@@ -64872,6 +65165,13 @@
       ]
     },
     {
+      "repositoryId": "linkupplatform/python-sdk",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "litmusautomation/litmus-mcp-server",
       "indexCount": 1,
       "indexes": [
@@ -65187,6 +65487,13 @@
       ]
     },
     {
+      "repositoryId": "makenotion/notion-sdk-js",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "mako202605/mcp-jd-seckill",
       "indexCount": 1,
       "indexes": [
@@ -65296,6 +65603,13 @@
       "indexCount": 1,
       "indexes": [
         "dng-ngothanhloi/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "markusmelkersson/mcp-obsidian",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
       ]
     },
     {
@@ -65499,6 +65813,13 @@
       "indexCount": 1,
       "indexes": [
         "korchasa/awesome-mcp"
+      ]
+    },
+    {
+      "repositoryId": "mcp-labs/mcp-weather-server",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
       ]
     },
     {
@@ -65824,6 +66145,13 @@
       ]
     },
     {
+      "repositoryId": "microsoft/vscode-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "middlepoint-solutions/mcp-on-android-tv",
       "indexCount": 1,
       "indexes": [
@@ -65954,6 +66282,13 @@
       "indexCount": 1,
       "indexes": [
         "ununununium/notfair-awesome-mcp-servers-anuar-boop"
+      ]
+    },
+    {
+      "repositoryId": "miroapp/mcp-server-trello",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
       ]
     },
     {
@@ -67294,13 +67629,6 @@
       ]
     },
     {
-      "repositoryId": "nowork-studio/notfair-plugin",
-      "indexCount": 1,
-      "indexes": [
-        "abordage/awesome-mcp"
-      ]
-    },
-    {
       "repositoryId": "nowork-studio/toprank",
       "indexCount": 1,
       "indexes": [
@@ -67319,6 +67647,13 @@
       "indexCount": 1,
       "indexes": [
         "ununununium/notfair-awesome-mcp-servers-anuar-boop"
+      ]
+    },
+    {
+      "repositoryId": "nspaeth/google-calendar-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
       ]
     },
     {
@@ -67910,13 +68245,6 @@
       ]
     },
     {
-      "repositoryId": "openai/openai-mcp",
-      "indexCount": 1,
-      "indexes": [
-        "rohianon/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "openai/skills",
       "indexCount": 1,
       "indexes": [
@@ -68012,6 +68340,13 @@
       "indexCount": 1,
       "indexes": [
         "abordage/awesome-mcp"
+      ]
+    },
+    {
+      "repositoryId": "opensosdata/opensosdata-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "soxoj/awesome-osint-mcp-servers"
       ]
     },
     {
@@ -68484,6 +68819,13 @@
       ]
     },
     {
+      "repositoryId": "pieces-app/pieces-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "pimzino/spec-workflow-mcp",
       "indexCount": 1,
       "indexes": [
@@ -68582,6 +68924,13 @@
       ]
     },
     {
+      "repositoryId": "planetscale/database-js",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "planetscale/mcp-server",
       "indexCount": 1,
       "indexes": [
@@ -68642,6 +68991,13 @@
       "indexCount": 1,
       "indexes": [
         "hive-intel/awesome-crypto-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "polygon-io/client-python",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
       ]
     },
     {
@@ -68761,13 +69117,6 @@
       "indexCount": 1,
       "indexes": [
         "soxoj/awesome-osint-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "prisma/prisma",
-      "indexCount": 1,
-      "indexes": [
-        "geesugar/awesome-mcp"
       ]
     },
     {
@@ -69471,6 +69820,13 @@
       ]
     },
     {
+      "repositoryId": "raycast/extensions",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "raycast/mcp-simple-jetbrains",
       "indexCount": 1,
       "indexes": [
@@ -69601,6 +69957,13 @@
       "indexCount": 1,
       "indexes": [
         "abordage/awesome-mcp"
+      ]
+    },
+    {
+      "repositoryId": "resend/mcp-send-email",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
       ]
     },
     {
@@ -69828,6 +70191,13 @@
       ]
     },
     {
+      "repositoryId": "roboulos/freshbooks-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "gbrussich52/awesome-legal-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "rog0x/mcp-api-tools",
       "indexCount": 1,
       "indexes": [
@@ -69993,13 +70363,6 @@
       "indexCount": 1,
       "indexes": [
         "crowdere/awesome-re-mcp"
-      ]
-    },
-    {
-      "repositoryId": "rudra-ravi/wikipedia-mcp",
-      "indexCount": 1,
-      "indexes": [
-        "abordage/awesome-mcp"
       ]
     },
     {
@@ -71599,6 +71962,13 @@
       ]
     },
     {
+      "repositoryId": "sylphxai/pdf-reader-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "gbrussich52/awesome-legal-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "sylphxltd/pdf-reader-mcp",
       "indexCount": 1,
       "indexes": [
@@ -71778,6 +72148,13 @@
       "indexCount": 1,
       "indexes": [
         "mgoldsborough/awesome-mcpb"
+      ]
+    },
+    {
+      "repositoryId": "tcoder920x/open-legal-compliance-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "gbrussich52/awesome-legal-mcp-servers"
       ]
     },
     {
@@ -72009,6 +72386,13 @@
       "indexCount": 1,
       "indexes": [
         "alexmili/awesome-mcp"
+      ]
+    },
+    {
+      "repositoryId": "thinkloop/mcp-node-npm",
+      "indexCount": 1,
+      "indexes": [
+        "mhmmdfaizal04/awesome-mcp-servers"
       ]
     },
     {
@@ -72289,13 +72673,6 @@
       "indexCount": 1,
       "indexes": [
         "twzrd-sol/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "tursodatabase/turso-mcp",
-      "indexCount": 1,
-      "indexes": [
-        "liz7788/awesome-mcp-servers"
       ]
     },
     {
@@ -73437,6 +73814,13 @@
       "indexCount": 1,
       "indexes": [
         "korchasa/awesome-mcp"
+      ]
+    },
+    {
+      "repositoryId": "yoda-digital/mcp-cerebra-legal-server",
+      "indexCount": 1,
+      "indexes": [
+        "gbrussich52/awesome-legal-mcp-servers"
       ]
     },
     {

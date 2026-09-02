@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-01T06:15:44.454Z",
+  "generatedAt": "2026-09-02T10:30:15.667Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 420,
-    "included": 194,
-    "excluded": 226
+    "candidates": 424,
+    "included": 196,
+    "excluded": 228
   },
   "decisions": [
     {
@@ -643,6 +643,12 @@
       "url": "https://github.com/elecycele/Awesome-MCP",
       "included": true,
       "reason": "index metadata signal"
+    },
+    {
+      "fullName": "emptinens/awesome-mcp",
+      "url": "https://github.com/emptinens/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "enhansome/enhansome-Awesome-MCP",
@@ -1323,6 +1329,12 @@
       "reason": "individual MCP server"
     },
     {
+      "fullName": "MaheshUmale/awesome-remote-mcp-servers",
+      "url": "https://github.com/MaheshUmale/awesome-remote-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
       "fullName": "Majboor/awesome-upwork-mcp",
       "url": "https://github.com/Majboor/awesome-upwork-mcp",
       "included": true,
@@ -1947,6 +1959,12 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
+      "fullName": "Shyboy0499/awesome-deepseek-mcp",
+      "url": "https://github.com/Shyboy0499/awesome-deepseek-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
       "fullName": "shyshyshyyyy/awesome-mcp-zh",
       "url": "https://github.com/shyshyshyyyy/awesome-mcp-zh",
       "included": false,
@@ -2231,6 +2249,12 @@
     {
       "fullName": "twzrd-sol/awesome-mcp-servers",
       "url": "https://github.com/twzrd-sol/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "uhub/awesome-mcp",
+      "url": "https://github.com/uhub/awesome-mcp",
       "included": true,
       "reason": "index metadata signal"
     },

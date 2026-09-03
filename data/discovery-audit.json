@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T10:30:15.667Z",
+  "generatedAt": "2026-09-03T10:35:53.700Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 424,
+    "candidates": 423,
     "included": 196,
-    "excluded": 228
+    "excluded": 227
   },
   "decisions": [
     {
@@ -1327,12 +1327,6 @@
       "url": "https://github.com/Magdoub/awesome-gsc-mcp",
       "included": false,
       "reason": "individual MCP server"
-    },
-    {
-      "fullName": "MaheshUmale/awesome-remote-mcp-servers",
-      "url": "https://github.com/MaheshUmale/awesome-remote-mcp-servers",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "Majboor/awesome-upwork-mcp",

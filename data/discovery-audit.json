@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T10:35:53.700Z",
+  "generatedAt": "2026-09-04T10:33:06.919Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 423,
+    "candidates": 422,
     "included": 196,
-    "excluded": 227
+    "excluded": 226
   },
   "decisions": [
     {
@@ -1025,12 +1025,6 @@
     {
       "fullName": "jjeejj/awesome-mcp-scheme",
       "url": "https://github.com/jjeejj/awesome-mcp-scheme",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
-    },
-    {
-      "fullName": "JoasASantos/awesome-cybersecurity-MCP",
-      "url": "https://github.com/JoasASantos/awesome-cybersecurity-MCP",
       "included": false,
       "reason": "description does not identify an index or curated collection"
     },

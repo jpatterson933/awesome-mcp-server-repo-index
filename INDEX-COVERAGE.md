@@ -11,7 +11,7 @@
 
 **Compare the repository coverage and unique discoveries of curated MCP indexes.**
 
-![Generated](https://img.shields.io/badge/Generated-2026--09--04-059669?style=flat-square)
+![Generated](https://img.shields.io/badge/Generated-2026--09--05-059669?style=flat-square)
 
 </div>
 
@@ -29,11 +29,11 @@
       <sub>Indexes Analyzed</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/6239-1E40AF?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/6238-1E40AF?style=for-the-badge" /><br>
       <sub>Unique Linked Repos</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/20138-0891B2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/20139-0891B2?style=for-the-badge" /><br>
       <sub>Index → Repo Links</sub>
     </td>
   </tr>
@@ -47,7 +47,7 @@
 | 2 | [m18897829375/awesome-mcp-servers](https://github.com/m18897829375/awesome-mcp-servers) | Analyzed | 1,500 | 111 | 1,389 |
 | 3 | [twzrd-sol/awesome-mcp-servers](https://github.com/twzrd-sol/awesome-mcp-servers) | Analyzed | 1,486 | 40 | 1,446 |
 | 4 | [robotlearning123/awesome-mcp-servers](https://github.com/robotlearning123/awesome-mcp-servers) | Analyzed | 1,347 | 0 | 1,347 |
-| 5 | [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) | Analyzed | 1,318 | 224 | 1,094 |
+| 5 | [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) | Analyzed | 1,317 | 224 | 1,093 |
 | 6 | [uhub/awesome-mcp](https://github.com/uhub/awesome-mcp) | Analyzed | 1,002 | 568 | 434 |
 | 7 | [lilyth-y/awesome-mcp-servers](https://github.com/lilyth-y/awesome-mcp-servers) | Analyzed | 961 | 1 | 960 |
 | 8 | [habitoai/awesome-mcp-servers](https://github.com/habitoai/awesome-mcp-servers) | Analyzed | 673 | 2 | 671 |
@@ -63,7 +63,7 @@
 | 18 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | Analyzed | 226 | 12 | 214 |
 | 19 | [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) | Analyzed | 216 | 51 | 165 |
 | 20 | [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | Analyzed | 208 | 45 | 163 |
-| 21 | [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | Analyzed | 203 | 37 | 166 |
+| 21 | [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | Analyzed | 203 | 36 | 167 |
 | 22 | [Kuberwastaken/awesome-claude-mcp-servers](https://github.com/Kuberwastaken/awesome-claude-mcp-servers) | Analyzed | 184 | 1 | 183 |
 | 23 | [Kuberwastaken/awesome-codex-mcp-servers](https://github.com/Kuberwastaken/awesome-codex-mcp-servers) | Analyzed | 184 | 1 | 183 |
 | 24 | [YvMohsin/awesome-mcp-servers](https://github.com/YvMohsin/awesome-mcp-servers) | Analyzed | 183 | 0 | 183 |
@@ -91,8 +91,8 @@
 | 46 | [VipinMI2024/awesome-mcp-servers](https://github.com/VipinMI2024/awesome-mcp-servers) | Analyzed | 73 | 19 | 54 |
 | 47 | [Yuz2023/Awesome-MCP-for-Power-Engineering](https://github.com/Yuz2023/Awesome-MCP-for-Power-Engineering) | Analyzed | 72 | 60 | 12 |
 | 48 | [mcp-finder/awesome-mcp-servers](https://github.com/mcp-finder/awesome-mcp-servers) | Analyzed | 72 | 20 | 52 |
-| 49 | [AmazingBecca/awesome-mcp-clients](https://github.com/AmazingBecca/awesome-mcp-clients) | Analyzed | 72 | 0 | 72 |
-| 50 | [MhmmdFaizal04/awesome-mcp-servers](https://github.com/MhmmdFaizal04/awesome-mcp-servers) | Analyzed | 70 | 19 | 51 |
+| 49 | [MhmmdFaizal04/awesome-mcp-servers](https://github.com/MhmmdFaizal04/awesome-mcp-servers) | Analyzed | 72 | 19 | 53 |
+| 50 | [AmazingBecca/awesome-mcp-clients](https://github.com/AmazingBecca/awesome-mcp-clients) | Analyzed | 72 | 0 | 72 |
 | 51 | [sharozdawa/awesome-seo-mcp-servers](https://github.com/sharozdawa/awesome-seo-mcp-servers) | Analyzed | 69 | 4 | 65 |
 | 52 | [TrueHaiq/awesome-mcp](https://github.com/TrueHaiq/awesome-mcp) | Analyzed | 68 | 1 | 67 |
 | 53 | [spinov001-art/awesome-mcp-tools-2026](https://github.com/spinov001-art/awesome-mcp-tools-2026) | Analyzed | 67 | 17 | 50 |
@@ -117,7 +117,7 @@
 | 72 | [DhanushNehru/awesome-mcp-servers](https://github.com/DhanushNehru/awesome-mcp-servers) | Analyzed | 40 | 9 | 31 |
 | 73 | [yongminkim0501/awesome-mcp-servers](https://github.com/yongminkim0501/awesome-mcp-servers) | Analyzed | 40 | 4 | 36 |
 | 74 | [mgoldsborough/awesome-mcpb](https://github.com/mgoldsborough/awesome-mcpb) | Analyzed | 39 | 27 | 12 |
-| 75 | [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) | Analyzed | 39 | 24 | 15 |
+| 75 | [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) | Analyzed | 38 | 23 | 15 |
 | 76 | [healthkowshik/awesome-health-mcp](https://github.com/healthkowshik/awesome-health-mcp) | Analyzed | 38 | 11 | 27 |
 | 77 | [psylch/awesome-mcp-apps](https://github.com/psylch/awesome-mcp-apps) | Analyzed | 36 | 29 | 7 |
 | 78 | [umitkacar/awesome-IOT-AI-agent-MCP](https://github.com/umitkacar/awesome-IOT-AI-agent-MCP) | Analyzed | 34 | 22 | 12 |
@@ -126,8 +126,8 @@
 | 81 | [NDeeSeee/AwesomeMCP](https://github.com/NDeeSeee/AwesomeMCP) | Analyzed | 34 | 1 | 33 |
 | 82 | [crowdere/Awesome-RE-MCP](https://github.com/crowdere/Awesome-RE-MCP) | Analyzed | 30 | 10 | 20 |
 | 83 | [tamish560/awesome-mcp-security](https://github.com/tamish560/awesome-mcp-security) | Analyzed | 30 | 9 | 21 |
-| 84 | [IrfanDevOps01/mcp-awesome-list](https://github.com/IrfanDevOps01/mcp-awesome-list) | Analyzed | 28 | 6 | 22 |
-| 85 | [royalpinto007/awesome-mcp-security](https://github.com/royalpinto007/awesome-mcp-security) | Analyzed | 27 | 7 | 20 |
+| 84 | [royalpinto007/awesome-mcp-security](https://github.com/royalpinto007/awesome-mcp-security) | Analyzed | 28 | 7 | 21 |
+| 85 | [IrfanDevOps01/mcp-awesome-list](https://github.com/IrfanDevOps01/mcp-awesome-list) | Analyzed | 28 | 6 | 22 |
 | 86 | [Shyboy0499/awesome-deepseek-mcp](https://github.com/Shyboy0499/awesome-deepseek-mcp) | Analyzed | 25 | 20 | 5 |
 | 87 | [spinov001-art/awesome-mcp-servers-2026](https://github.com/spinov001-art/awesome-mcp-servers-2026) | Analyzed | 24 | 19 | 5 |
 | 88 | [e2b-dev/awesome-mcp-gateways](https://github.com/e2b-dev/awesome-mcp-gateways) | Analyzed | 23 | 12 | 11 |

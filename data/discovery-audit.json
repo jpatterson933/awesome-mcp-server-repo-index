@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-04T10:33:06.919Z",
+  "generatedAt": "2026-09-05T09:53:10.133Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 422,
+    "candidates": 423,
     "included": 196,
-    "excluded": 226
+    "excluded": 227
   },
   "decisions": [
     {
@@ -37,6 +37,12 @@
       "url": "https://github.com/7xuanlu/brethofai-awesome-mcp-servers",
       "included": true,
       "reason": "index metadata signal"
+    },
+    {
+      "fullName": "a1adams/awesome-mcp-servers-for-image-generation",
+      "url": "https://github.com/a1adams/awesome-mcp-servers-for-image-generation",
+      "included": false,
+      "reason": "individual MCP server"
     },
     {
       "fullName": "aaglexx/awesome-mcp-servers",
@@ -1341,12 +1347,6 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
-      "fullName": "mansiTT/awesome-mcp-servers",
-      "url": "https://github.com/mansiTT/awesome-mcp-servers",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
-    },
-    {
       "fullName": "margaret-bassett717c/awesome-mcp-servers",
       "url": "https://github.com/margaret-bassett717c/awesome-mcp-servers",
       "included": false,
@@ -2275,6 +2275,12 @@
       "url": "https://github.com/ununununium/notfair-awesome-mcp-servers-anuar-boop",
       "included": true,
       "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ununununium/notfair-awesome-mcp-servers-mansitt",
+      "url": "https://github.com/ununununium/notfair-awesome-mcp-servers-mansitt",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "ununununium/notfair-awesome-mcp-servers-morisono",

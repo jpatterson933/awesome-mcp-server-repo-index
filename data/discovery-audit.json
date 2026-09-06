@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T09:53:10.133Z",
+  "generatedAt": "2026-09-06T10:10:37.598Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 423,
+    "candidates": 424,
     "included": 196,
-    "excluded": 227
+    "excluded": 228
   },
   "decisions": [
     {
@@ -433,6 +433,12 @@
       "url": "https://github.com/Christian-Sidak/awesome-mcp-tools",
       "included": true,
       "reason": "index metadata signal"
+    },
+    {
+      "fullName": "citrus02/awesome-mcp-games-cn",
+      "url": "https://github.com/citrus02/awesome-mcp-games-cn",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "claudioed/awesome-dev-mcp",

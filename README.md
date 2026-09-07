@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Repos](https://img.shields.io/badge/Total_Repos-196-1E40AF?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Updated-2026--09--06-059669?style=for-the-badge)
+![Total Repos](https://img.shields.io/badge/Total_Repos-198-1E40AF?style=for-the-badge) ![Last Updated](https://img.shields.io/badge/Updated-2026--09--07-059669?style=for-the-badge)
 
 [![Top Tens](https://img.shields.io/badge/%F0%9F%8F%86%20Top%20Tens-F5A623?style=for-the-badge&logo=github)](./TOP-TENS.md) [![Activity](https://img.shields.io/badge/%F0%9F%94%A5%20Activity-EA580C?style=for-the-badge&logo=github)](./ACTIVITY.md) [![Coverage](https://img.shields.io/badge/%F0%9F%95%B8%EF%B8%8F%20Coverage-0891B2?style=for-the-badge&logo=github)](./INDEX-COVERAGE.md) [![All Repos](https://img.shields.io/badge/%F0%9F%93%8B%20All%20Repos-0F172A?style=for-the-badge&logo=github)](./AWESOME-MCP-REPOS.md)
 
@@ -30,10 +30,10 @@
 
 ```mermaid
 pie title Repos by License
-    "MIT" : 82
+    "MIT" : 83
     "Other" : 27
     "Apache 2.0" : 5
-    "Creative Commons" : 31
+    "Creative Commons" : 32
     "No License" : 51
 ```
 

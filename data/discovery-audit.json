@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06T10:10:37.598Z",
+  "generatedAt": "2026-09-07T11:26:38.198Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 424,
-    "included": 196,
+    "candidates": 426,
+    "included": 198,
     "excluded": 228
   },
   "decisions": [
@@ -987,6 +987,12 @@
       "reason": "copy, backup, or submission repository"
     },
     {
+      "fullName": "jaguarkyng/awesome-mcp-servers",
+      "url": "https://github.com/jaguarkyng/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
       "fullName": "Janabi/awesome-pizza-mcp-py",
       "url": "https://github.com/Janabi/awesome-pizza-mcp-py",
       "included": false,
@@ -1715,6 +1721,12 @@
     {
       "fullName": "RanaAhmar/awesome-mcp-servers",
       "url": "https://github.com/RanaAhmar/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "RankSpotAI/awesome-seo-mcp",
+      "url": "https://github.com/RankSpotAI/awesome-seo-mcp",
       "included": true,
       "reason": "index metadata signal"
     },

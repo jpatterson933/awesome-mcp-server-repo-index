@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T11:26:38.198Z",
+  "generatedAt": "2026-09-08T10:29:23.815Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 426,
-    "included": 198,
+    "candidates": 428,
+    "included": 200,
     "excluded": 228
   },
   "decisions": [
@@ -1695,6 +1695,12 @@
       "reason": "index metadata signal"
     },
     {
+      "fullName": "punkpeye/awesome-remote-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
       "fullName": "R00T-Kim/awesome-offensive-mcp",
       "url": "https://github.com/R00T-Kim/awesome-offensive-mcp",
       "included": true,
@@ -2237,6 +2243,12 @@
     {
       "fullName": "TrueHaiq/awesome-mcp",
       "url": "https://github.com/TrueHaiq/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "tuanone123/awesome-social-commerce-mcp",
+      "url": "https://github.com/tuanone123/awesome-social-commerce-mcp",
       "included": true,
       "reason": "index metadata signal"
     },

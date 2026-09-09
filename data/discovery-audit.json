@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-08T10:29:23.815Z",
+  "generatedAt": "2026-09-09T10:40:47.866Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
     "candidates": 428,
-    "included": 200,
-    "excluded": 228
+    "included": 201,
+    "excluded": 227
   },
   "decisions": [
     {
@@ -17,12 +17,6 @@
     {
       "fullName": "0xBabatunde/awesome-seo-mcp",
       "url": "https://github.com/0xBabatunde/awesome-seo-mcp",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
-    },
-    {
-      "fullName": "26BB/agentic-awesome-skills-mcp",
-      "url": "https://github.com/26BB/agentic-awesome-skills-mcp",
       "included": false,
       "reason": "description does not identify an index or curated collection"
     },
@@ -2243,6 +2237,12 @@
     {
       "fullName": "TrueHaiq/awesome-mcp",
       "url": "https://github.com/TrueHaiq/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "tuanone123/awesome-mcp-testing",
+      "url": "https://github.com/tuanone123/awesome-mcp-testing",
       "included": true,
       "reason": "index metadata signal"
     },

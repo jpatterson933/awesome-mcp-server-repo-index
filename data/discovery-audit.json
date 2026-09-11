@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T10:29:08.352Z",
+  "generatedAt": "2026-09-11T10:31:03.386Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 428,
+    "candidates": 429,
     "included": 202,
-    "excluded": 226
+    "excluded": 227
   },
   "decisions": [
     {
@@ -1015,6 +1015,12 @@
       "url": "https://github.com/jaw9c/awesome-remote-mcp-servers",
       "included": false,
       "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Jerry2d3d/css-is-awesome-mcp",
+      "url": "https://github.com/Jerry2d3d/css-is-awesome-mcp",
+      "included": false,
+      "reason": "individual MCP server"
     },
     {
       "fullName": "jessicaburnsbrandtcamryn278/awesome-remote-mcp-servers",

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T10:31:03.386Z",
+  "generatedAt": "2026-09-12T09:59:00.394Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 429,
+    "candidates": 430,
     "included": 202,
-    "excluded": 227
+    "excluded": 228
   },
   "decisions": [
     {
@@ -2045,6 +2045,12 @@
     {
       "fullName": "SterlingChin/awesome-mcp-servers-discovery",
       "url": "https://github.com/SterlingChin/awesome-mcp-servers-discovery",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "stonianua/awesome-mcp-servers-punkpeye-empty-scratch",
+      "url": "https://github.com/stonianua/awesome-mcp-servers-punkpeye-empty-scratch",
       "included": false,
       "reason": "description does not identify an index or curated collection"
     },

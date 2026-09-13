@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T09:59:00.394Z",
+  "generatedAt": "2026-09-13T11:00:05.681Z",
   "methodology": "Counts unique GitHub repository links extracted from each index README. Links are not guaranteed to represent MCP servers.",
   "summary": {
     "indexes": 202,
     "readmesAnalyzed": 200,
     "readmesMissing": 2,
-    "cacheHits": 187,
+    "cacheHits": 188,
     "uniqueLinkedRepositories": 6359,
-    "links": 22006
+    "links": 22007
   },
   "indexes": [
     {
@@ -578,7 +578,7 @@
     },
     {
       "indexId": "abordage/awesome-mcp",
-      "pushedAt": "2026-09-12T09:10:07Z",
+      "pushedAt": "2026-09-13T09:10:07Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 1318,
@@ -2021,7 +2021,7 @@
     },
     {
       "indexId": "ai-in-transportation-lab/awesome-mcp",
-      "pushedAt": "2026-09-12T04:07:09Z",
+      "pushedAt": "2026-09-13T04:18:51Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 4,
@@ -2337,7 +2337,7 @@
     },
     {
       "indexId": "appnova-eu-ou/awesome-remote-mcp-servers",
-      "pushedAt": "2026-09-12T06:42:45Z",
+      "pushedAt": "2026-09-13T07:00:13Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 0,
@@ -3163,12 +3163,12 @@
     },
     {
       "indexId": "bhavyshekhaliya/awesome-public-mcp-servers",
-      "pushedAt": "2026-09-11T01:30:13Z",
+      "pushedAt": "2026-09-12T13:00:58Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
-      "linkedRepositoryCount": 12,
+      "source": "github",
+      "linkedRepositoryCount": 13,
       "uniqueLinkedRepositoryCount": 0,
-      "sharedLinkedRepositoryCount": 12,
+      "sharedLinkedRepositoryCount": 13,
       "repositories": [
         "brave/brave-search-mcp-server",
         "devdasx/aperture",
@@ -3180,6 +3180,7 @@
         "revlist/pocket-drives-mcp",
         "runapi-ai/mcp",
         "square/square-mcp-server",
+        "stonianua/neither-mcp",
         "worklittle/jobs-mcp",
         "xeroapi/xero-mcp-server"
       ]
@@ -3565,7 +3566,7 @@
     },
     {
       "indexId": "chat2anyllm/awesome-mcp-servers",
-      "pushedAt": "2026-09-12T09:47:43Z",
+      "pushedAt": "2026-09-13T07:46:52Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 2,
@@ -6067,7 +6068,7 @@
       "indexId": "epistates/awesome-mcp-devtools",
       "pushedAt": "2026-09-11T15:58:06Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 104,
       "uniqueLinkedRepositoryCount": 4,
       "sharedLinkedRepositoryCount": 100,
@@ -6358,7 +6359,7 @@
     },
     {
       "indexId": "fuzzylabs/awesome-secure-mcp-servers",
-      "pushedAt": "2026-09-12T08:08:03Z",
+      "pushedAt": "2026-09-13T08:08:42Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 10,
@@ -9517,7 +9518,7 @@
     },
     {
       "indexId": "jpatterson933/awesome-mcp-server-repo-index",
-      "pushedAt": "2026-09-11T10:31:30Z",
+      "pushedAt": "2026-09-12T09:59:24Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 0,
@@ -9619,7 +9620,7 @@
     },
     {
       "indexId": "justincache/awesome-mcp-collection",
-      "pushedAt": "2026-09-12T08:53:27Z",
+      "pushedAt": "2026-09-13T06:01:05Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 64,
@@ -15328,9 +15329,9 @@
     },
     {
       "indexId": "punkpeye/awesome-mcp-servers",
-      "pushedAt": "2026-09-08T13:25:58Z",
+      "pushedAt": "2026-09-13T07:49:46Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
+      "source": "github",
       "linkedRepositoryCount": 0,
       "uniqueLinkedRepositoryCount": 0,
       "sharedLinkedRepositoryCount": 0,
@@ -15338,7 +15339,7 @@
     },
     {
       "indexId": "punkpeye/awesome-remote-mcp-servers",
-      "pushedAt": "2026-09-12T05:27:01Z",
+      "pushedAt": "2026-09-13T04:44:47Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 2,
@@ -15671,7 +15672,7 @@
       "indexId": "recall-kitchen/awesome-x402-mcp-services",
       "pushedAt": "2026-09-11T17:07:56Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 3,
       "uniqueLinkedRepositoryCount": 2,
       "sharedLinkedRepositoryCount": 1,
@@ -17059,7 +17060,7 @@
     },
     {
       "indexId": "rodert/awesome-mcp",
-      "pushedAt": "2026-09-12T06:25:46Z",
+      "pushedAt": "2026-09-13T06:41:19Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 0,
@@ -17879,9 +17880,9 @@
     },
     {
       "indexId": "royalpinto007/awesome-mcp-security",
-      "pushedAt": "2026-09-07T12:45:30Z",
+      "pushedAt": "2026-09-12T14:12:58Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
+      "source": "github",
       "linkedRepositoryCount": 28,
       "uniqueLinkedRepositoryCount": 7,
       "sharedLinkedRepositoryCount": 21,
@@ -17953,10 +17954,10 @@
       "indexId": "sagargupta16/awesome-mcp-servers",
       "pushedAt": "2026-09-12T02:04:38Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 311,
-      "uniqueLinkedRepositoryCount": 53,
-      "sharedLinkedRepositoryCount": 258,
+      "uniqueLinkedRepositoryCount": 52,
+      "sharedLinkedRepositoryCount": 259,
       "repositories": [
         "21st-dev/magic-mcp",
         "54yyyu/zotero-mcp",
@@ -19675,7 +19676,7 @@
     },
     {
       "indexId": "tensorblock/awesome-mcp-servers",
-      "pushedAt": "2026-09-12T08:43:29Z",
+      "pushedAt": "2026-09-13T09:45:05Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 2,
@@ -19701,7 +19702,7 @@
     },
     {
       "indexId": "timunbasah3/awesome-mcp",
-      "pushedAt": "2026-09-12T08:36:51Z",
+      "pushedAt": "2026-09-13T05:37:17Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 0,
@@ -19913,7 +19914,7 @@
       "indexId": "twzrd-sol/awesome-mcp-servers",
       "pushedAt": "2026-09-12T08:27:31Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 1488,
       "uniqueLinkedRepositoryCount": 40,
       "sharedLinkedRepositoryCount": 1448,
@@ -61960,6 +61961,14 @@
       ]
     },
     {
+      "repositoryId": "stonianua/neither-mcp",
+      "indexCount": 2,
+      "indexes": [
+        "bhavyshekhaliya/awesome-public-mcp-servers",
+        "sagargupta16/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "stoyky/mitre-attack-mcp",
       "indexCount": 2,
       "indexes": [
@@ -81457,13 +81466,6 @@
       "indexCount": 1,
       "indexes": [
         "abordage/awesome-mcp"
-      ]
-    },
-    {
-      "repositoryId": "stonianua/neither-mcp",
-      "indexCount": 1,
-      "indexes": [
-        "sagargupta16/awesome-mcp-servers"
       ]
     },
     {

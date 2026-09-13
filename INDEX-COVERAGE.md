@@ -11,7 +11,7 @@
 
 **Compare the repository coverage and unique discoveries of curated MCP indexes.**
 
-![Generated](https://img.shields.io/badge/Generated-2026--09--12-059669?style=flat-square)
+![Generated](https://img.shields.io/badge/Generated-2026--09--13-059669?style=flat-square)
 
 </div>
 
@@ -33,7 +33,7 @@
       <sub>Unique Linked Repos</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/22006-0891B2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/22007-0891B2?style=for-the-badge" /><br>
       <sub>Index → Repo Links</sub>
     </td>
   </tr>
@@ -59,7 +59,7 @@
 | 14 | [romeo111/awesome-mcp-servers-2](https://github.com/romeo111/awesome-mcp-servers-2) | Analyzed | 487 | 0 | 487 |
 | 15 | [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | Analyzed | 487 | 0 | 487 |
 | 16 | [subratadasGit/awesome-mcp-servers](https://github.com/subratadasGit/awesome-mcp-servers) | Analyzed | 460 | 3 | 457 |
-| 17 | [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | Analyzed | 311 | 53 | 258 |
+| 17 | [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | Analyzed | 311 | 52 | 259 |
 | 18 | [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | Analyzed | 253 | 71 | 182 |
 | 19 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | Analyzed | 242 | 34 | 208 |
 | 20 | [habitoai/Awesome-MCP-Servers-directory](https://github.com/habitoai/Awesome-MCP-Servers-directory) | Analyzed | 228 | 26 | 202 |
@@ -155,10 +155,10 @@
 | 110 | [eruo005-dev/awesome-turkish-mcp](https://github.com/eruo005-dev/awesome-turkish-mcp) | Analyzed | 13 | 8 | 5 |
 | 111 | [godberrystudios/awesome-mcp-tools](https://github.com/godberrystudios/awesome-mcp-tools) | Analyzed | 13 | 3 | 10 |
 | 112 | [Javeriaf19/awesome-mcp-for-creatives](https://github.com/Javeriaf19/awesome-mcp-for-creatives) | Analyzed | 13 | 2 | 11 |
-| 113 | [EternaHybridExchange/awesome-mcp-trading](https://github.com/EternaHybridExchange/awesome-mcp-trading) | Analyzed | 12 | 9 | 3 |
-| 114 | [tuanone123/awesome-mcp-registries](https://github.com/tuanone123/awesome-mcp-registries) | Analyzed | 12 | 2 | 10 |
-| 115 | [BehiSecc/awesome-bugbounty-mcp](https://github.com/BehiSecc/awesome-bugbounty-mcp) | Analyzed | 12 | 1 | 11 |
-| 116 | [bhavyshekhaliya/awesome-public-mcp-servers](https://github.com/bhavyshekhaliya/awesome-public-mcp-servers) | Analyzed | 12 | 0 | 12 |
+| 113 | [bhavyshekhaliya/awesome-public-mcp-servers](https://github.com/bhavyshekhaliya/awesome-public-mcp-servers) | Analyzed | 13 | 0 | 13 |
+| 114 | [EternaHybridExchange/awesome-mcp-trading](https://github.com/EternaHybridExchange/awesome-mcp-trading) | Analyzed | 12 | 9 | 3 |
+| 115 | [tuanone123/awesome-mcp-registries](https://github.com/tuanone123/awesome-mcp-registries) | Analyzed | 12 | 2 | 10 |
+| 116 | [BehiSecc/awesome-bugbounty-mcp](https://github.com/BehiSecc/awesome-bugbounty-mcp) | Analyzed | 12 | 1 | 11 |
 | 117 | [gbrussich52/awesome-legal-mcp-servers](https://github.com/gbrussich52/awesome-legal-mcp-servers) | Analyzed | 11 | 9 | 2 |
 | 118 | [gndps/awesome-mcp-server-managers](https://github.com/gndps/awesome-mcp-server-managers) | Analyzed | 11 | 3 | 8 |
 | 119 | [fuzzylabs/awesome-secure-mcp-servers](https://github.com/fuzzylabs/awesome-secure-mcp-servers) | Analyzed | 10 | 1 | 9 |

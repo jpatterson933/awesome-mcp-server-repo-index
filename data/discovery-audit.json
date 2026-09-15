@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T11:37:08.088Z",
+  "generatedAt": "2026-09-15T10:57:39.672Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 430,
-    "included": 202,
-    "excluded": 228
+    "candidates": 435,
+    "included": 205,
+    "excluded": 230
   },
   "decisions": [
     {
@@ -807,6 +807,12 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
+      "fullName": "getmoxlade/awesome-mcp-data",
+      "url": "https://github.com/getmoxlade/awesome-mcp-data",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
       "fullName": "gndps/awesome-mcp-server-managers",
       "url": "https://github.com/gndps/awesome-mcp-server-managers",
       "included": true,
@@ -923,6 +929,12 @@
     {
       "fullName": "Innocent-Akim/awesome-mcp-servers-data",
       "url": "https://github.com/Innocent-Akim/awesome-mcp-servers-data",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "internet-dot/awesome-mcp-security-pr",
+      "url": "https://github.com/internet-dot/awesome-mcp-security-pr",
       "included": false,
       "reason": "description does not identify an index or curated collection"
     },
@@ -1317,6 +1329,12 @@
       "reason": "index metadata signal"
     },
     {
+      "fullName": "lorenzomeolav32-png/awesome-claude-skills-mcp-servers",
+      "url": "https://github.com/lorenzomeolav32-png/awesome-claude-skills-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
       "fullName": "luna-industry/awesome-mcp-servers",
       "url": "https://github.com/luna-industry/awesome-mcp-servers",
       "included": true,
@@ -1421,6 +1439,12 @@
     {
       "fullName": "MCPHubCloud/awesome-mcp",
       "url": "https://github.com/MCPHubCloud/awesome-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "MCPPlayground/awesome-mcp-servers",
+      "url": "https://github.com/MCPPlayground/awesome-mcp-servers",
       "included": true,
       "reason": "index metadata signal"
     },
@@ -2051,6 +2075,12 @@
     {
       "fullName": "stonianua/awesome-mcp-servers-punkpeye-empty-scratch",
       "url": "https://github.com/stonianua/awesome-mcp-servers-punkpeye-empty-scratch",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "stsqit/mcphq-awesome-mcp-servers",
+      "url": "https://github.com/stsqit/mcphq-awesome-mcp-servers",
       "included": false,
       "reason": "description does not identify an index or curated collection"
     },

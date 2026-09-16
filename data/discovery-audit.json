@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T10:57:39.672Z",
+  "generatedAt": "2026-09-16T10:45:25.907Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 435,
-    "included": 205,
-    "excluded": 230
+    "candidates": 438,
+    "included": 207,
+    "excluded": 231
   },
   "decisions": [
     {
@@ -235,6 +235,12 @@
       "url": "https://github.com/B5-Software/awesome-base-mcp",
       "included": false,
       "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "baditaflorin/awesome-mcp-servers",
+      "url": "https://github.com/baditaflorin/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
     },
     {
       "fullName": "badkk/awesome-crypto-mcp-servers",
@@ -1029,6 +1035,12 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
+      "fullName": "jeffreychu-au/awesome-azure-mcp",
+      "url": "https://github.com/jeffreychu-au/awesome-azure-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
       "fullName": "Jerry2d3d/css-is-awesome-mcp",
       "url": "https://github.com/Jerry2d3d/css-is-awesome-mcp",
       "included": false,
@@ -1049,6 +1061,12 @@
     {
       "fullName": "jjeejj/awesome-mcp-scheme",
       "url": "https://github.com/jjeejj/awesome-mcp-scheme",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "JoasASantos/awesome-cybersecurity-MCP",
+      "url": "https://github.com/JoasASantos/awesome-cybersecurity-MCP",
       "included": false,
       "reason": "description does not identify an index or curated collection"
     },

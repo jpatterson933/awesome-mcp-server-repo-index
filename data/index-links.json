@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T10:45:25.907Z",
+  "generatedAt": "2026-09-17T10:52:29.304Z",
   "methodology": "Counts unique GitHub repository links extracted from each index README. Links are not guaranteed to represent MCP servers.",
   "summary": {
     "indexes": 207,
     "readmesAnalyzed": 205,
     "readmesMissing": 2,
-    "cacheHits": 188,
-    "uniqueLinkedRepositories": 6655,
-    "links": 22585
+    "cacheHits": 191,
+    "uniqueLinkedRepositories": 6659,
+    "links": 22593
   },
   "indexes": [
     {
@@ -578,12 +578,12 @@
     },
     {
       "indexId": "abordage/awesome-mcp",
-      "pushedAt": "2026-09-16T09:10:07Z",
+      "pushedAt": "2026-09-17T09:10:08Z",
       "readmeStatus": "analyzed",
       "source": "github",
-      "linkedRepositoryCount": 1320,
+      "linkedRepositoryCount": 1319,
       "uniqueLinkedRepositoryCount": 221,
-      "sharedLinkedRepositoryCount": 1099,
+      "sharedLinkedRepositoryCount": 1098,
       "repositories": [
         "0xdaef0f/job-searchoor",
         "0xshellming/mcp-summarizer",
@@ -1469,7 +1469,6 @@
         "oschina/mcp-gitee",
         "othmaneblial/term_mcp_deepseek",
         "overtlids/mcp-searxng-enhanced",
-        "oxylabs/oxylabs-mcp",
         "ozgureyilmaz/polymarket-mcp",
         "pab1it0/adx-mcp-server",
         "pab1it0/chess-mcp",
@@ -2023,7 +2022,7 @@
     },
     {
       "indexId": "ai-in-transportation-lab/awesome-mcp",
-      "pushedAt": "2026-09-16T04:21:20Z",
+      "pushedAt": "2026-09-17T04:27:43Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 4,
@@ -2339,7 +2338,7 @@
     },
     {
       "indexId": "appnova-eu-ou/awesome-remote-mcp-servers",
-      "pushedAt": "2026-09-15T11:54:02Z",
+      "pushedAt": "2026-09-17T06:56:22Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 0,
@@ -2863,7 +2862,7 @@
       "indexId": "baditaflorin/awesome-mcp-servers",
       "pushedAt": "2026-09-16T08:26:11Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 1,
       "uniqueLinkedRepositoryCount": 1,
       "sharedLinkedRepositoryCount": 0,
@@ -3177,14 +3176,15 @@
     },
     {
       "indexId": "bhavyshekhaliya/awesome-public-mcp-servers",
-      "pushedAt": "2026-09-12T13:00:58Z",
+      "pushedAt": "2026-09-17T01:43:49Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
-      "linkedRepositoryCount": 13,
+      "source": "github",
+      "linkedRepositoryCount": 14,
       "uniqueLinkedRepositoryCount": 0,
-      "sharedLinkedRepositoryCount": 13,
+      "sharedLinkedRepositoryCount": 14,
       "repositories": [
         "brave/brave-search-mcp-server",
+        "contextstream/mcp-server",
         "devdasx/aperture",
         "doist/todoist-mcp",
         "elevenlabs/elevenlabs-mcp",
@@ -3580,7 +3580,7 @@
     },
     {
       "indexId": "chat2anyllm/awesome-mcp-servers",
-      "pushedAt": "2026-09-16T08:03:41Z",
+      "pushedAt": "2026-09-17T08:09:45Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 2,
@@ -5809,11 +5809,11 @@
     },
     {
       "indexId": "e2b-dev/awesome-mcp-gateways",
-      "pushedAt": "2026-09-16T09:31:19Z",
+      "pushedAt": "2026-09-17T10:31:17Z",
       "readmeStatus": "analyzed",
       "source": "github",
-      "linkedRepositoryCount": 25,
-      "uniqueLinkedRepositoryCount": 12,
+      "linkedRepositoryCount": 24,
+      "uniqueLinkedRepositoryCount": 11,
       "sharedLinkedRepositoryCount": 13,
       "repositories": [
         "agentgateway/agentgateway",
@@ -5838,7 +5838,6 @@
         "obot-platform/obot",
         "pomerium/pomerium",
         "smart-mcp-proxy/mcpproxy-go",
-        "speakeasy-api/gram",
         "toolsdk-ai/toolsdk-mcp-registry",
         "tuananh/hyper-mcp"
       ]
@@ -6374,7 +6373,7 @@
     },
     {
       "indexId": "fuzzylabs/awesome-secure-mcp-servers",
-      "pushedAt": "2026-09-16T08:09:50Z",
+      "pushedAt": "2026-09-17T08:10:23Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 10,
@@ -9731,7 +9730,7 @@
       "indexId": "jeffreychu-au/awesome-azure-mcp",
       "pushedAt": "2026-09-16T10:14:09Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 5,
       "uniqueLinkedRepositoryCount": 3,
       "sharedLinkedRepositoryCount": 2,
@@ -9775,7 +9774,7 @@
     },
     {
       "indexId": "jpatterson933/awesome-mcp-server-repo-index",
-      "pushedAt": "2026-09-15T10:58:07Z",
+      "pushedAt": "2026-09-16T10:45:51Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 0,
@@ -9877,12 +9876,12 @@
     },
     {
       "indexId": "justincache/awesome-mcp-collection",
-      "pushedAt": "2026-09-16T09:55:24Z",
+      "pushedAt": "2026-09-17T06:38:56Z",
       "readmeStatus": "analyzed",
       "source": "github",
-      "linkedRepositoryCount": 64,
-      "uniqueLinkedRepositoryCount": 4,
-      "sharedLinkedRepositoryCount": 60,
+      "linkedRepositoryCount": 67,
+      "uniqueLinkedRepositoryCount": 5,
+      "sharedLinkedRepositoryCount": 62,
       "repositories": [
         "2s-io/sdk",
         "ahujasid/blender-mcp",
@@ -9908,7 +9907,9 @@
         "googleapis/genai-toolbox",
         "hashicorp/terraform-mcp-server",
         "hyperb1iss/droidmind",
+        "janyork/llm-wiki-cli",
         "jetbrains/mcpproxy",
+        "lacs-project/sysknife",
         "langfuse/langfuse",
         "laukikk/alpaca-mcp",
         "linear/linear-mcp-server",
@@ -9926,6 +9927,7 @@
         "neondatabase/mcp-server-neon",
         "notionhq/notion-mcp-server",
         "nowork-studio/notfair",
+        "orkas-ai/orkas-videostudio",
         "pinecone-io/assistant-mcp",
         "polygon-io/mcp_polygon",
         "prisma/mcp",
@@ -10011,9 +10013,9 @@
     },
     {
       "indexId": "korchasa/awesome-mcp",
-      "pushedAt": "2026-09-14T03:45:02Z",
+      "pushedAt": "2026-09-17T08:14:12Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
+      "source": "github",
       "linkedRepositoryCount": 500,
       "uniqueLinkedRepositoryCount": 163,
       "sharedLinkedRepositoryCount": 337,
@@ -12078,11 +12080,11 @@
     },
     {
       "indexId": "lorenzomeolav32-png/awesome-claude-skills-mcp-servers",
-      "pushedAt": "2026-09-15T11:35:16Z",
+      "pushedAt": "2026-09-17T08:08:15Z",
       "readmeStatus": "analyzed",
       "source": "github",
-      "linkedRepositoryCount": 28,
-      "uniqueLinkedRepositoryCount": 8,
+      "linkedRepositoryCount": 29,
+      "uniqueLinkedRepositoryCount": 9,
       "sharedLinkedRepositoryCount": 20,
       "repositories": [
         "activepieces/activepieces",
@@ -12102,6 +12104,7 @@
         "langflow-ai/langflow",
         "langgenius/dify",
         "lorenzomeolav32-png/ai-assets-directory-skills",
+        "magichourhq/skills",
         "microsoft/playwright-mcp",
         "modelcontextprotocol/servers",
         "neondatabase/mcp-server-neon",
@@ -14896,12 +14899,12 @@
     },
     {
       "indexId": "mobinx/awesome-mcp-list",
-      "pushedAt": "2026-09-16T03:06:22Z",
+      "pushedAt": "2026-09-17T03:09:33Z",
       "readmeStatus": "analyzed",
       "source": "github",
-      "linkedRepositoryCount": 442,
-      "uniqueLinkedRepositoryCount": 136,
-      "sharedLinkedRepositoryCount": 306,
+      "linkedRepositoryCount": 444,
+      "uniqueLinkedRepositoryCount": 135,
+      "sharedLinkedRepositoryCount": 309,
       "repositories": [
         "0xbrainkid/agentfolio-mcp-server",
         "0xshellming/mcp-summarizer",
@@ -15310,6 +15313,7 @@
         "unitedideas/aidevboard-mcp",
         "unitedideas/nothumansearch",
         "unitedideas/resolve-mcp",
+        "usenetstate/statsnet-mcp",
         "vaaya-ai/vaaya-mcp",
         "vbkotecha/aiservices-api",
         "vdalhambra/financekit-mcp",
@@ -15336,6 +15340,7 @@
         "xuanwo/mcp-server-opendal",
         "xzq-xu/jvm-mcp-server",
         "yangkyeongmo/mcp-server-apache-airflow",
+        "youdotcom-oss/mcp",
         "yuchenssr/mindmap-mcp-server",
         "yuna0x0/anilist-mcp",
         "yyeongjin/secret_mcp",
@@ -15960,7 +15965,7 @@
       "indexId": "punkpeye/awesome-mcp-servers",
       "pushedAt": "2026-09-15T23:17:39Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 0,
       "uniqueLinkedRepositoryCount": 0,
       "sharedLinkedRepositoryCount": 0,
@@ -15970,7 +15975,7 @@
       "indexId": "punkpeye/awesome-remote-mcp-servers",
       "pushedAt": "2026-09-15T17:24:37Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 3,
       "uniqueLinkedRepositoryCount": 1,
       "sharedLinkedRepositoryCount": 2,
@@ -17690,7 +17695,7 @@
     },
     {
       "indexId": "rodert/awesome-mcp",
-      "pushedAt": "2026-09-16T06:27:16Z",
+      "pushedAt": "2026-09-17T06:43:51Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 0,
@@ -18582,12 +18587,12 @@
     },
     {
       "indexId": "sagargupta16/awesome-mcp-servers",
-      "pushedAt": "2026-09-16T02:13:38Z",
+      "pushedAt": "2026-09-17T00:43:18Z",
       "readmeStatus": "analyzed",
       "source": "github",
-      "linkedRepositoryCount": 312,
+      "linkedRepositoryCount": 313,
       "uniqueLinkedRepositoryCount": 51,
-      "sharedLinkedRepositoryCount": 261,
+      "sharedLinkedRepositoryCount": 262,
       "repositories": [
         "21st-dev/magic-mcp",
         "54yyyu/zotero-mcp",
@@ -18656,6 +18661,7 @@
         "commercetools/mcp-essentials",
         "confluentinc/mcp-confluent",
         "containers/kubernetes-mcp-server",
+        "contextstream/mcp-server",
         "couchbase/mcp-server-couchbase",
         "crowdstrike/falcon-mcp",
         "crystaldba/postgres-mcp",
@@ -20308,7 +20314,7 @@
     },
     {
       "indexId": "tensorblock/awesome-mcp-servers",
-      "pushedAt": "2026-09-16T10:39:40Z",
+      "pushedAt": "2026-09-17T09:33:26Z",
       "readmeStatus": "analyzed",
       "source": "github",
       "linkedRepositoryCount": 2,
@@ -20336,7 +20342,7 @@
       "indexId": "timunbasah3/awesome-mcp",
       "pushedAt": "2026-09-16T06:45:10Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 0,
       "uniqueLinkedRepositoryCount": 0,
       "sharedLinkedRepositoryCount": 0,
@@ -23326,7 +23332,7 @@
       "indexId": "wagneragent/awesome-mcp-servers-devops",
       "pushedAt": "2026-09-15T18:00:13Z",
       "readmeStatus": "analyzed",
-      "source": "github",
+      "source": "cache",
       "linkedRepositoryCount": 166,
       "uniqueLinkedRepositoryCount": 11,
       "sharedLinkedRepositoryCount": 155,
@@ -24051,16 +24057,17 @@
     },
     {
       "indexId": "wundercorp/awesome-mcp",
-      "pushedAt": "2026-09-08T15:39:52Z",
+      "pushedAt": "2026-09-16T17:50:44Z",
       "readmeStatus": "analyzed",
-      "source": "cache",
-      "linkedRepositoryCount": 18,
-      "uniqueLinkedRepositoryCount": 3,
-      "sharedLinkedRepositoryCount": 15,
+      "source": "github",
+      "linkedRepositoryCount": 20,
+      "uniqueLinkedRepositoryCount": 4,
+      "sharedLinkedRepositoryCount": 16,
       "repositories": [
         "amorizz/tubask-mcp",
         "buywhere/buywhere-mcp",
         "estevecastells/domscan-mcp",
+        "hermes-labs-ai/fidelis",
         "jacobiusmakes/parlay-api-mcp",
         "magichourhq/magic-hour-mcp",
         "maxbaluev/accreted-intelligence",
@@ -24072,6 +24079,7 @@
         "taisly/agent",
         "talivia-group/agent",
         "thebrierfox/the-stall",
+        "theluckystrike/mcp-spreadsheet",
         "uizze/uizze",
         "vostride/agent-qa",
         "worklittle/jobs-mcp",
@@ -34054,23 +34062,6 @@
       ]
     },
     {
-      "repositoryId": "oxylabs/oxylabs-mcp",
-      "indexCount": 11,
-      "indexes": [
-        "aaglexx/awesome-mcp-servers",
-        "abordage/awesome-mcp",
-        "awesome-ai-tools/curated-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers-directory",
-        "kuberwastaken/awesome-claude-mcp-servers",
-        "kuberwastaken/awesome-codex-mcp-servers",
-        "mctrinh/awesome-mcp-servers",
-        "rankspotai/awesome-seo-mcp",
-        "romeo111/awesome-mcp-servers-2",
-        "wong2/awesome-mcp-servers"
-      ]
-    },
-    {
       "repositoryId": "pab1it0/chess-mcp",
       "indexCount": 11,
       "indexes": [
@@ -35097,6 +35088,22 @@
         "robotlearning123/awesome-mcp-servers",
         "subratadasgit/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "oxylabs/oxylabs-mcp",
+      "indexCount": 10,
+      "indexes": [
+        "aaglexx/awesome-mcp-servers",
+        "awesome-ai-tools/curated-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers-directory",
+        "kuberwastaken/awesome-claude-mcp-servers",
+        "kuberwastaken/awesome-codex-mcp-servers",
+        "mctrinh/awesome-mcp-servers",
+        "rankspotai/awesome-seo-mcp",
+        "romeo111/awesome-mcp-servers-2",
+        "wong2/awesome-mcp-servers"
       ]
     },
     {
@@ -38282,6 +38289,20 @@
       ]
     },
     {
+      "repositoryId": "orkas-ai/orkas-videostudio",
+      "indexCount": 8,
+      "indexes": [
+        "collabnix/awesome-mcp-lists",
+        "dhanushnehru/awesome-mcp-servers",
+        "habitoai/awesome-mcp-servers",
+        "justincache/awesome-mcp-collection",
+        "mhmmdfaizal04/awesome-mcp-servers",
+        "mobinx/awesome-mcp-list",
+        "sagargupta16/awesome-mcp-servers",
+        "wundercorp/awesome-mcp"
+      ]
+    },
+    {
       "repositoryId": "pearch-ai/mcp_pearch",
       "indexCount": 8,
       "indexes": [
@@ -40851,19 +40872,6 @@
         "mctrinh/awesome-mcp-servers",
         "robotlearning123/awesome-mcp-servers",
         "twzrd-sol/awesome-mcp-servers"
-      ]
-    },
-    {
-      "repositoryId": "orkas-ai/orkas-videostudio",
-      "indexCount": 7,
-      "indexes": [
-        "collabnix/awesome-mcp-lists",
-        "dhanushnehru/awesome-mcp-servers",
-        "habitoai/awesome-mcp-servers",
-        "mhmmdfaizal04/awesome-mcp-servers",
-        "mobinx/awesome-mcp-list",
-        "sagargupta16/awesome-mcp-servers",
-        "wundercorp/awesome-mcp"
       ]
     },
     {
@@ -52974,6 +52982,15 @@
       ]
     },
     {
+      "repositoryId": "contextstream/mcp-server",
+      "indexCount": 3,
+      "indexes": [
+        "bhavyshekhaliya/awesome-public-mcp-servers",
+        "mobinx/awesome-mcp-list",
+        "sagargupta16/awesome-mcp-servers"
+      ]
+    },
+    {
       "repositoryId": "copperline-labs/rendex-mcp",
       "indexCount": 3,
       "indexes": [
@@ -60500,6 +60517,14 @@
       ]
     },
     {
+      "repositoryId": "hermes-labs-ai/fidelis",
+      "indexCount": 2,
+      "indexes": [
+        "mobinx/awesome-mcp-list",
+        "wundercorp/awesome-mcp"
+      ]
+    },
+    {
       "repositoryId": "hesreallyhim/awesome-claude-code",
       "indexCount": 2,
       "indexes": [
@@ -60681,6 +60706,14 @@
       "indexes": [
         "sharozdawa/awesome-seo-mcp-servers",
         "sharozdawafynd/awesome-seo-mcp-servers"
+      ]
+    },
+    {
+      "repositoryId": "janyork/llm-wiki-cli",
+      "indexCount": 2,
+      "indexes": [
+        "justincache/awesome-mcp-collection",
+        "mobinx/awesome-mcp-list"
       ]
     },
     {
@@ -68776,13 +68809,6 @@
       ]
     },
     {
-      "repositoryId": "contextstream/mcp-server",
-      "indexCount": 1,
-      "indexes": [
-        "mobinx/awesome-mcp-list"
-      ]
-    },
-    {
       "repositoryId": "contrast-security-oss/mcp-contrast",
       "indexCount": 1,
       "indexes": [
@@ -72864,13 +72890,6 @@
       ]
     },
     {
-      "repositoryId": "hermes-labs-ai/fidelis",
-      "indexCount": 1,
-      "indexes": [
-        "mobinx/awesome-mcp-list"
-      ]
-    },
-    {
       "repositoryId": "heshengtao/comfyui_llm_party",
       "indexCount": 1,
       "indexes": [
@@ -73946,13 +73965,6 @@
       "indexCount": 1,
       "indexes": [
         "mengmeiz/awesome-graph-mcp"
-      ]
-    },
-    {
-      "repositoryId": "janyork/llm-wiki-cli",
-      "indexCount": 1,
-      "indexes": [
-        "mobinx/awesome-mcp-list"
       ]
     },
     {
@@ -75552,6 +75564,13 @@
       ]
     },
     {
+      "repositoryId": "lacs-project/sysknife",
+      "indexCount": 1,
+      "indexes": [
+        "justincache/awesome-mcp-collection"
+      ]
+    },
+    {
       "repositoryId": "lakr233/iphone-mcp",
       "indexCount": 1,
       "indexes": [
@@ -76305,6 +76324,13 @@
       "indexCount": 1,
       "indexes": [
         "abordage/awesome-mcp"
+      ]
+    },
+    {
+      "repositoryId": "magichourhq/skills",
+      "indexCount": 1,
+      "indexes": [
+        "lorenzomeolav32-png/awesome-claude-skills-mcp-servers"
       ]
     },
     {
@@ -83840,13 +83866,6 @@
       ]
     },
     {
-      "repositoryId": "speakeasy-api/gram",
-      "indexCount": 1,
-      "indexes": [
-        "e2b-dev/awesome-mcp-gateways"
-      ]
-    },
-    {
       "repositoryId": "spences10/mcp-n8n-builder",
       "indexCount": 1,
       "indexes": [
@@ -84939,6 +84958,13 @@
       ]
     },
     {
+      "repositoryId": "theluckystrike/mcp-spreadsheet",
+      "indexCount": 1,
+      "indexes": [
+        "wundercorp/awesome-mcp"
+      ]
+    },
+    {
       "repositoryId": "themanojdesai/python-a2a",
       "indexCount": 1,
       "indexes": [
@@ -85650,6 +85676,13 @@
       "indexCount": 1,
       "indexes": [
         "uhub/awesome-mcp"
+      ]
+    },
+    {
+      "repositoryId": "usenetstate/statsnet-mcp",
+      "indexCount": 1,
+      "indexes": [
+        "mobinx/awesome-mcp-list"
       ]
     },
     {
@@ -86889,6 +86922,13 @@
       "indexCount": 1,
       "indexes": [
         "shown06/awesome-japanese-mcp"
+      ]
+    },
+    {
+      "repositoryId": "youdotcom-oss/mcp",
+      "indexCount": 1,
+      "indexes": [
+        "mobinx/awesome-mcp-list"
       ]
     },
     {

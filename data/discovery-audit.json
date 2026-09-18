@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-17T10:52:29.304Z",
+  "generatedAt": "2026-09-18T10:27:49.046Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
     "candidates": 438,

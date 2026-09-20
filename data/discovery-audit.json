@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T10:12:56.128Z",
+  "generatedAt": "2026-09-20T10:31:38.795Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 439,
-    "included": 208,
-    "excluded": 231
+    "candidates": 442,
+    "included": 209,
+    "excluded": 233
   },
   "decisions": [
     {
@@ -501,6 +501,18 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
+      "fullName": "Cubiczan/awesome-mcp-servers-wong2",
+      "url": "https://github.com/Cubiczan/awesome-mcp-servers-wong2",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Cubiczan/awesome-mcp-servers1",
+      "url": "https://github.com/Cubiczan/awesome-mcp-servers1",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
       "fullName": "Daeda-Technologies-Ltd/Awesome-MCP-Servers",
       "url": "https://github.com/Daeda-Technologies-Ltd/Awesome-MCP-Servers",
       "included": true,
@@ -923,6 +935,12 @@
     {
       "fullName": "hodovani/awesome-mcp-tools",
       "url": "https://github.com/hodovani/awesome-mcp-tools",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "honeyvig/Awesome-MCP-Servers",
+      "url": "https://github.com/honeyvig/Awesome-MCP-Servers",
       "included": false,
       "reason": "description does not identify an index or curated collection"
     },
@@ -1457,8 +1475,8 @@
     {
       "fullName": "mcpHQ/awesome-mcp-servers",
       "url": "https://github.com/mcpHQ/awesome-mcp-servers",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
+      "included": true,
+      "reason": "index metadata signal"
     },
     {
       "fullName": "MCPHubCloud/awesome-mcp",

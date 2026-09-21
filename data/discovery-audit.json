@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T10:31:38.795Z",
+  "generatedAt": "2026-09-21T11:50:33.383Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 442,
-    "included": 209,
-    "excluded": 233
+    "candidates": 447,
+    "included": 213,
+    "excluded": 234
   },
   "decisions": [
     {
@@ -371,6 +371,24 @@
     {
       "fullName": "buddies2705/awesome-crypto-mcp",
       "url": "https://github.com/buddies2705/awesome-crypto-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Built-By-Aura/awesome-mcp-servers",
+      "url": "https://github.com/Built-By-Aura/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Built-By-Aura/awesome-mcp-servers-1",
+      "url": "https://github.com/Built-By-Aura/awesome-mcp-servers-1",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "Built-By-Aura/awesome-mcp-servers-2",
+      "url": "https://github.com/Built-By-Aura/awesome-mcp-servers-2",
       "included": true,
       "reason": "index metadata signal"
     },
@@ -871,6 +889,12 @@
       "url": "https://github.com/guru4elephant/awesome-cursor-mcp",
       "included": false,
       "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "h00klod0er/awesome-re-mcp",
+      "url": "https://github.com/h00klod0er/awesome-re-mcp",
+      "included": true,
+      "reason": "index metadata signal"
     },
     {
       "fullName": "habeebmoosa/awesome-mcp-servers",
@@ -1951,6 +1975,12 @@
       "url": "https://github.com/SciSharp/Awesome-DotNET-MCP",
       "included": true,
       "reason": "index metadata signal"
+    },
+    {
+      "fullName": "secsovereign/wong2-awesome-mcp-servers",
+      "url": "https://github.com/secsovereign/wong2-awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "sendaifun/awesome-solana-mcp-servers",

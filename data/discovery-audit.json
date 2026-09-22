@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T11:50:33.383Z",
+  "generatedAt": "2026-09-22T10:51:55.587Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 447,
-    "included": 213,
+    "candidates": 455,
+    "included": 221,
     "excluded": 234
   },
   "decisions": [
@@ -257,6 +257,12 @@
     {
       "fullName": "BASILAHAMED/Awesome-MCP-Servers",
       "url": "https://github.com/BASILAHAMED/Awesome-MCP-Servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "BearRizgar/awesome-mcp-servers",
+      "url": "https://github.com/BearRizgar/awesome-mcp-servers",
       "included": true,
       "reason": "index metadata signal"
     },
@@ -933,6 +939,12 @@
       "reason": "index metadata signal"
     },
     {
+      "fullName": "heygen-mcp/awesome-blader-humanizer",
+      "url": "https://github.com/heygen-mcp/awesome-blader-humanizer",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
       "fullName": "hgxszhj/Awesome-Claude-MCP-Servers",
       "url": "https://github.com/hgxszhj/Awesome-Claude-MCP-Servers",
       "included": false,
@@ -1159,12 +1171,6 @@
       "url": "https://github.com/jsvvsolsllc/awesome-web-mcp",
       "included": true,
       "reason": "index metadata signal"
-    },
-    {
-      "fullName": "Julion/awesome-mcp",
-      "url": "https://github.com/Julion/awesome-mcp",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "Justin-gooslin/awesome-remote-MCP-server",
@@ -2669,6 +2675,48 @@
     {
       "fullName": "zahidabdillahdev/awesome-mcp-ui",
       "url": "https://github.com/zahidabdillahdev/awesome-mcp-ui",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "zeoagency/awesome-google-ads-mcp",
+      "url": "https://github.com/zeoagency/awesome-google-ads-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "zeoagency/awesome-google-analytics-mcp",
+      "url": "https://github.com/zeoagency/awesome-google-analytics-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "zeoagency/awesome-google-merchant-center-mcp",
+      "url": "https://github.com/zeoagency/awesome-google-merchant-center-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "zeoagency/awesome-google-trends-mcp",
+      "url": "https://github.com/zeoagency/awesome-google-trends-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "zeoagency/awesome-gtm-mcp",
+      "url": "https://github.com/zeoagency/awesome-gtm-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "zeoagency/awesome-meta-instagram-ads-mcp",
+      "url": "https://github.com/zeoagency/awesome-meta-instagram-ads-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "zeoagency/awesome-search-console-mcp",
+      "url": "https://github.com/zeoagency/awesome-search-console-mcp",
       "included": true,
       "reason": "index metadata signal"
     },

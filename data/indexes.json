@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T10:51:55.587Z",
+  "generatedAt": "2026-09-23T10:40:38.835Z",
   "source": {
     "type": "github-repository-search",
     "query": "awesome-mcp in:name archived:false fork:false",
@@ -130,14 +130,14 @@
       ],
       "metrics": {
         "stars": 23,
-        "forks": 81,
+        "forks": 84,
         "subscribers": 0,
-        "openIssues": 3,
-        "sizeKb": 1823
+        "openIssues": 2,
+        "sizeKb": 2054
       },
       "timestamps": {
         "createdAt": "2025-12-25T21:53:01Z",
-        "pushedAt": "2026-09-22T09:10:07Z"
+        "pushedAt": "2026-09-23T09:10:08Z"
       },
       "license": "MIT License",
       "provenance": {
@@ -146,8 +146,8 @@
       },
       "analysis": {
         "readmeStatus": "analyzed",
-        "linkedRepositoryCount": 1317,
-        "uniqueLinkedRepositoryCount": 216,
+        "linkedRepositoryCount": 1319,
+        "uniqueLinkedRepositoryCount": 218,
         "sharedLinkedRepositoryCount": 1101
       }
     },
@@ -238,11 +238,11 @@
         "forks": 18,
         "subscribers": 1,
         "openIssues": 16,
-        "sizeKb": 147
+        "sizeKb": 156
       },
       "timestamps": {
         "createdAt": "2025-06-15T00:21:13Z",
-        "pushedAt": "2026-09-22T04:21:19Z"
+        "pushedAt": "2026-09-23T04:18:13Z"
       },
       "license": "Other",
       "provenance": {
@@ -500,12 +500,12 @@
         "stars": 2,
         "forks": 11,
         "subscribers": 0,
-        "openIssues": 709,
-        "sizeKb": 1163
+        "openIssues": 736,
+        "sizeKb": 1206
       },
       "timestamps": {
         "createdAt": "2026-04-02T12:50:53Z",
-        "pushedAt": "2026-09-22T07:04:43Z"
+        "pushedAt": "2026-09-23T07:01:56Z"
       },
       "license": "Other",
       "provenance": {
@@ -547,9 +547,9 @@
       ],
       "metrics": {
         "stars": 5,
-        "forks": 11,
+        "forks": 12,
         "subscribers": 1,
-        "openIssues": 21,
+        "openIssues": 22,
         "sizeKb": 94
       },
       "timestamps": {
@@ -627,11 +627,11 @@
         "forks": 1,
         "subscribers": 0,
         "openIssues": 1,
-        "sizeKb": 630
+        "sizeKb": 1034
       },
       "timestamps": {
         "createdAt": "2026-09-16T07:50:42Z",
-        "pushedAt": "2026-09-21T14:35:07Z"
+        "pushedAt": "2026-09-23T10:27:31Z"
       },
       "license": null,
       "provenance": {
@@ -641,8 +641,8 @@
       "analysis": {
         "readmeStatus": "analyzed",
         "linkedRepositoryCount": 3,
-        "uniqueLinkedRepositoryCount": 2,
-        "sharedLinkedRepositoryCount": 1
+        "uniqueLinkedRepositoryCount": 1,
+        "sharedLinkedRepositoryCount": 2
       }
     },
     {
@@ -751,8 +751,8 @@
       "analysis": {
         "readmeStatus": "analyzed",
         "linkedRepositoryCount": 1443,
-        "uniqueLinkedRepositoryCount": 165,
-        "sharedLinkedRepositoryCount": 1278
+        "uniqueLinkedRepositoryCount": 164,
+        "sharedLinkedRepositoryCount": 1279
       }
     },
     {
@@ -984,9 +984,9 @@
       ],
       "metrics": {
         "stars": 5,
-        "forks": 15,
+        "forks": 16,
         "subscribers": 0,
-        "openIssues": 0,
+        "openIssues": 1,
         "sizeKb": 170
       },
       "timestamps": {
@@ -1031,10 +1031,10 @@
         "web3"
       ],
       "metrics": {
-        "stars": 215,
-        "forks": 95,
+        "stars": 216,
+        "forks": 96,
         "subscribers": 2,
-        "openIssues": 21,
+        "openIssues": 22,
         "sizeKb": 74
       },
       "timestamps": {
@@ -1278,9 +1278,9 @@
       "topics": [],
       "metrics": {
         "stars": 0,
-        "forks": 0,
+        "forks": 1,
         "subscribers": 0,
-        "openIssues": 0,
+        "openIssues": 1,
         "sizeKb": 620
       },
       "timestamps": {
@@ -1383,11 +1383,11 @@
         "forks": 13,
         "subscribers": 0,
         "openIssues": 11,
-        "sizeKb": 1746
+        "sizeKb": 1753
       },
       "timestamps": {
         "createdAt": "2026-06-22T09:40:17Z",
-        "pushedAt": "2026-09-22T10:34:55Z"
+        "pushedAt": "2026-09-23T06:58:45Z"
       },
       "license": "MIT License",
       "provenance": {
@@ -1528,7 +1528,7 @@
       "topics": [],
       "metrics": {
         "stars": 34,
-        "forks": 66,
+        "forks": 67,
         "subscribers": 2,
         "openIssues": 20,
         "sizeKb": 294
@@ -1596,9 +1596,9 @@
       "topics": [],
       "metrics": {
         "stars": 3,
-        "forks": 1,
+        "forks": 2,
         "subscribers": 0,
-        "openIssues": 2,
+        "openIssues": 3,
         "sizeKb": 8
       },
       "timestamps": {
@@ -1632,7 +1632,7 @@
         "stars": 243,
         "forks": 42,
         "subscribers": 2,
-        "openIssues": 24,
+        "openIssues": 25,
         "sizeKb": 66
       },
       "timestamps": {
@@ -1800,9 +1800,9 @@
       ],
       "metrics": {
         "stars": 5,
-        "forks": 56,
+        "forks": 57,
         "subscribers": 0,
-        "openIssues": 42,
+        "openIssues": 43,
         "sizeKb": 93
       },
       "timestamps": {
@@ -2389,7 +2389,7 @@
         "resources"
       ],
       "metrics": {
-        "stars": 106,
+        "stars": 107,
         "forks": 112,
         "subscribers": 3,
         "openIssues": 129,
@@ -2423,7 +2423,7 @@
       "description": "A curated list of awesome MCP servers for productivity, knowledge work, research, collaboration, automation, and AI workflows.",
       "topics": [],
       "metrics": {
-        "stars": 5,
+        "stars": 6,
         "forks": 7,
         "subscribers": 0,
         "openIssues": 4,
@@ -2544,7 +2544,7 @@
         "stars": 0,
         "forks": 7,
         "subscribers": 0,
-        "openIssues": 7,
+        "openIssues": 8,
         "sizeKb": 18
       },
       "timestamps": {
@@ -2578,12 +2578,12 @@
         "stars": 0,
         "forks": 7,
         "subscribers": 1,
-        "openIssues": 480,
+        "openIssues": 481,
         "sizeKb": 262
       },
       "timestamps": {
         "createdAt": "2025-06-24T10:46:08Z",
-        "pushedAt": "2026-09-22T08:10:01Z"
+        "pushedAt": "2026-09-23T08:09:58Z"
       },
       "license": "MIT License",
       "provenance": {
@@ -3006,9 +3006,9 @@
       ],
       "metrics": {
         "stars": 20,
-        "forks": 104,
+        "forks": 106,
         "subscribers": 1,
-        "openIssues": 77,
+        "openIssues": 79,
         "sizeKb": 725
       },
       "timestamps": {
@@ -3217,7 +3217,7 @@
         "stars": 25,
         "forks": 22,
         "subscribers": 0,
-        "openIssues": 29,
+        "openIssues": 30,
         "sizeKb": 46
       },
       "timestamps": {
@@ -3377,9 +3377,9 @@
       "topics": [],
       "metrics": {
         "stars": 1,
-        "forks": 3,
+        "forks": 4,
         "subscribers": 1,
-        "openIssues": 1,
+        "openIssues": 2,
         "sizeKb": 20
       },
       "timestamps": {
@@ -3775,11 +3775,11 @@
         "forks": 1,
         "subscribers": 0,
         "openIssues": 2,
-        "sizeKb": 1855
+        "sizeKb": 1941
       },
       "timestamps": {
         "createdAt": "2026-02-05T17:12:21Z",
-        "pushedAt": "2026-09-21T11:50:58Z"
+        "pushedAt": "2026-09-22T10:52:21Z"
       },
       "license": null,
       "provenance": {
@@ -3933,14 +3933,14 @@
       ],
       "metrics": {
         "stars": 14,
-        "forks": 28,
+        "forks": 29,
         "subscribers": 1,
         "openIssues": 17,
-        "sizeKb": 707
+        "sizeKb": 610
       },
       "timestamps": {
         "createdAt": "2026-02-02T19:55:37Z",
-        "pushedAt": "2026-09-22T06:02:15Z"
+        "pushedAt": "2026-09-23T09:30:32Z"
       },
       "license": "MIT License",
       "provenance": {
@@ -4180,9 +4180,9 @@
       ],
       "metrics": {
         "stars": 3,
-        "forks": 4,
+        "forks": 5,
         "subscribers": 0,
-        "openIssues": 6,
+        "openIssues": 7,
         "sizeKb": 364
       },
       "timestamps": {
@@ -4228,9 +4228,9 @@
       ],
       "metrics": {
         "stars": 2,
-        "forks": 4,
+        "forks": 5,
         "subscribers": 0,
-        "openIssues": 7,
+        "openIssues": 8,
         "sizeKb": 351
       },
       "timestamps": {
@@ -4295,7 +4295,7 @@
       "description": "A collection of MCP servers for mainland China services. 支持 MCP 的国内服务一览。",
       "topics": [],
       "metrics": {
-        "stars": 49,
+        "stars": 48,
         "forks": 9,
         "subscribers": 1,
         "openIssues": 4,
@@ -4514,7 +4514,7 @@
         "stars": 1,
         "forks": 4,
         "subscribers": 0,
-        "openIssues": 0,
+        "openIssues": 1,
         "sizeKb": 92
       },
       "timestamps": {
@@ -4838,14 +4838,14 @@
       ],
       "metrics": {
         "stars": 5,
-        "forks": 36,
+        "forks": 37,
         "subscribers": 0,
-        "openIssues": 5,
-        "sizeKb": 1576
+        "openIssues": 1,
+        "sizeKb": 1643
       },
       "timestamps": {
         "createdAt": "2026-05-30T20:36:56Z",
-        "pushedAt": "2026-09-22T09:22:03Z"
+        "pushedAt": "2026-09-22T20:47:09Z"
       },
       "license": "MIT License",
       "provenance": {
@@ -4854,9 +4854,9 @@
       },
       "analysis": {
         "readmeStatus": "analyzed",
-        "linkedRepositoryCount": 125,
+        "linkedRepositoryCount": 129,
         "uniqueLinkedRepositoryCount": 22,
-        "sharedLinkedRepositoryCount": 103
+        "sharedLinkedRepositoryCount": 107
       }
     },
     {
@@ -4923,7 +4923,7 @@
         "stars": 0,
         "forks": 2,
         "subscribers": 0,
-        "openIssues": 2,
+        "openIssues": 3,
         "sizeKb": 10
       },
       "timestamps": {
@@ -5209,7 +5209,7 @@
         "stars": 0,
         "forks": 5,
         "subscribers": 0,
-        "openIssues": 3,
+        "openIssues": 4,
         "sizeKb": 29
       },
       "timestamps": {
@@ -5241,14 +5241,14 @@
       "topics": [],
       "metrics": {
         "stars": 883,
-        "forks": 334,
+        "forks": 341,
         "subscribers": 11,
         "openIssues": 4,
-        "sizeKb": 624
+        "sizeKb": 851
       },
       "timestamps": {
         "createdAt": "2025-03-24T16:33:17Z",
-        "pushedAt": "2026-09-22T03:08:54Z"
+        "pushedAt": "2026-09-23T03:06:52Z"
       },
       "license": null,
       "provenance": {
@@ -5257,9 +5257,9 @@
       },
       "analysis": {
         "readmeStatus": "analyzed",
-        "linkedRepositoryCount": 466,
-        "uniqueLinkedRepositoryCount": 148,
-        "sharedLinkedRepositoryCount": 318
+        "linkedRepositoryCount": 473,
+        "uniqueLinkedRepositoryCount": 152,
+        "sharedLinkedRepositoryCount": 321
       }
     },
     {
@@ -5436,9 +5436,9 @@
       "topics": [],
       "metrics": {
         "stars": 28,
-        "forks": 6,
+        "forks": 7,
         "subscribers": 2,
-        "openIssues": 3,
+        "openIssues": 4,
         "sizeKb": 1
       },
       "timestamps": {
@@ -5615,7 +5615,7 @@
         "mcp"
       ],
       "metrics": {
-        "stars": 6592,
+        "stars": 6591,
         "forks": 664,
         "subscribers": 36,
         "openIssues": 101,
@@ -5653,9 +5653,9 @@
       ],
       "metrics": {
         "stars": 484,
-        "forks": 310,
+        "forks": 311,
         "subscribers": 8,
-        "openIssues": 154,
+        "openIssues": 155,
         "sizeKb": 191
       },
       "timestamps": {
@@ -5689,15 +5689,15 @@
         "mcp"
       ],
       "metrics": {
-        "stars": 95414,
-        "forks": 16466,
+        "stars": 95451,
+        "forks": 16505,
         "subscribers": 52,
-        "openIssues": 2195,
-        "sizeKb": 389921
+        "openIssues": 2220,
+        "sizeKb": 392898
       },
       "timestamps": {
         "createdAt": "2024-11-30T04:49:10Z",
-        "pushedAt": "2026-09-21T04:51:35Z"
+        "pushedAt": "2026-09-23T06:38:45Z"
       },
       "license": "MIT License",
       "provenance": {
@@ -5725,15 +5725,15 @@
         "mcp"
       ],
       "metrics": {
-        "stars": 344,
-        "forks": 483,
+        "stars": 359,
+        "forks": 516,
         "subscribers": 0,
-        "openIssues": 185,
-        "sizeKb": 1327
+        "openIssues": 160,
+        "sizeKb": 1661
       },
       "timestamps": {
         "createdAt": "2026-09-08T00:43:30Z",
-        "pushedAt": "2026-09-21T04:55:15Z"
+        "pushedAt": "2026-09-23T06:04:02Z"
       },
       "license": "MIT License",
       "provenance": {
@@ -5864,9 +5864,9 @@
       ],
       "metrics": {
         "stars": 51,
-        "forks": 4,
+        "forks": 5,
         "subscribers": 1,
-        "openIssues": 4,
+        "openIssues": 5,
         "sizeKb": 39
       },
       "timestamps": {
@@ -5926,8 +5926,8 @@
       "analysis": {
         "readmeStatus": "analyzed",
         "linkedRepositoryCount": 103,
-        "uniqueLinkedRepositoryCount": 84,
-        "sharedLinkedRepositoryCount": 19
+        "uniqueLinkedRepositoryCount": 83,
+        "sharedLinkedRepositoryCount": 20
       }
     },
     {
@@ -5951,14 +5951,14 @@
       ],
       "metrics": {
         "stars": 1,
-        "forks": 62,
+        "forks": 61,
         "subscribers": 1,
-        "openIssues": 2,
-        "sizeKb": 25
+        "openIssues": 0,
+        "sizeKb": 26
       },
       "timestamps": {
         "createdAt": "2026-03-15T22:00:44Z",
-        "pushedAt": "2026-09-14T21:55:53Z"
+        "pushedAt": "2026-09-22T16:01:51Z"
       },
       "license": "MIT License",
       "provenance": {
@@ -6056,11 +6056,11 @@
         "forks": 26,
         "subscribers": 0,
         "openIssues": 15,
-        "sizeKb": 59385
+        "sizeKb": 59948
       },
       "timestamps": {
         "createdAt": "2025-11-22T02:26:01Z",
-        "pushedAt": "2026-09-22T06:19:23Z"
+        "pushedAt": "2026-09-23T06:13:59Z"
       },
       "license": "Apache License 2.0",
       "provenance": {
@@ -6137,9 +6137,9 @@
       ],
       "metrics": {
         "stars": 1023,
-        "forks": 329,
+        "forks": 330,
         "subscribers": 6,
-        "openIssues": 88,
+        "openIssues": 89,
         "sizeKb": 698
       },
       "timestamps": {
@@ -6292,14 +6292,14 @@
       ],
       "metrics": {
         "stars": 5,
-        "forks": 31,
+        "forks": 34,
         "subscribers": 1,
         "openIssues": 8,
-        "sizeKb": 278
+        "sizeKb": 300
       },
       "timestamps": {
         "createdAt": "2026-03-04T01:10:56Z",
-        "pushedAt": "2026-09-22T04:56:45Z"
+        "pushedAt": "2026-09-23T05:14:49Z"
       },
       "license": "Creative Commons Zero v1.0 Universal",
       "provenance": {
@@ -6308,9 +6308,9 @@
       },
       "analysis": {
         "readmeStatus": "analyzed",
-        "linkedRepositoryCount": 318,
+        "linkedRepositoryCount": 320,
         "uniqueLinkedRepositoryCount": 51,
-        "sharedLinkedRepositoryCount": 267
+        "sharedLinkedRepositoryCount": 269
       }
     },
     {
@@ -6718,9 +6718,9 @@
       ],
       "metrics": {
         "stars": 494,
-        "forks": 107,
+        "forks": 108,
         "subscribers": 6,
-        "openIssues": 4,
+        "openIssues": 5,
         "sizeKb": 71
       },
       "timestamps": {
@@ -7032,7 +7032,7 @@
         "stars": 2,
         "forks": 6,
         "subscribers": 1,
-        "openIssues": 0,
+        "openIssues": 1,
         "sizeKb": 656
       },
       "timestamps": {
@@ -7047,8 +7047,8 @@
       "analysis": {
         "readmeStatus": "analyzed",
         "linkedRepositoryCount": 54,
-        "uniqueLinkedRepositoryCount": 4,
-        "sharedLinkedRepositoryCount": 50
+        "uniqueLinkedRepositoryCount": 5,
+        "sharedLinkedRepositoryCount": 49
       }
     },
     {
@@ -7123,9 +7123,9 @@
       ],
       "metrics": {
         "stars": 71,
-        "forks": 102,
+        "forks": 105,
         "subscribers": 3,
-        "openIssues": 94,
+        "openIssues": 97,
         "sizeKb": 51
       },
       "timestamps": {
@@ -7210,15 +7210,15 @@
         "model-context-protocol"
       ],
       "metrics": {
-        "stars": 862,
-        "forks": 905,
+        "stars": 864,
+        "forks": 919,
         "subscribers": 9,
-        "openIssues": 12,
-        "sizeKb": 10629
+        "openIssues": 24,
+        "sizeKb": 10927
       },
       "timestamps": {
         "createdAt": "2025-04-04T04:23:33Z",
-        "pushedAt": "2026-09-22T09:24:30Z"
+        "pushedAt": "2026-09-23T09:25:05Z"
       },
       "license": "MIT License",
       "provenance": {
@@ -7676,14 +7676,14 @@
       ],
       "metrics": {
         "stars": 0,
-        "forks": 2,
+        "forks": 3,
         "subscribers": 0,
-        "openIssues": 2,
-        "sizeKb": 71
+        "openIssues": 4,
+        "sizeKb": 76
       },
       "timestamps": {
         "createdAt": "2026-09-02T08:54:23Z",
-        "pushedAt": "2026-09-02T15:33:13Z"
+        "pushedAt": "2026-09-22T12:51:14Z"
       },
       "license": null,
       "provenance": {
@@ -7692,9 +7692,9 @@
       },
       "analysis": {
         "readmeStatus": "analyzed",
-        "linkedRepositoryCount": 1002,
-        "uniqueLinkedRepositoryCount": 570,
-        "sharedLinkedRepositoryCount": 432
+        "linkedRepositoryCount": 1023,
+        "uniqueLinkedRepositoryCount": 587,
+        "sharedLinkedRepositoryCount": 436
       }
     },
     {
@@ -8040,7 +8040,7 @@
         "stars": 87,
         "forks": 62,
         "subscribers": 2,
-        "openIssues": 62,
+        "openIssues": 60,
         "sizeKb": 66
       },
       "timestamps": {
@@ -8071,8 +8071,8 @@
       "description": "A curated list of Model Context Protocol (MCP) servers",
       "topics": [],
       "metrics": {
-        "stars": 4323,
-        "forks": 2060,
+        "stars": 4321,
+        "forks": 2068,
         "subscribers": 51,
         "openIssues": 36,
         "sizeKb": 702
@@ -8113,7 +8113,7 @@
       ],
       "metrics": {
         "stars": 20,
-        "forks": 36,
+        "forks": 37,
         "subscribers": 1,
         "openIssues": 18,
         "sizeKb": 101
@@ -8321,7 +8321,7 @@
       ],
       "metrics": {
         "stars": 1066,
-        "forks": 320,
+        "forks": 324,
         "subscribers": 9,
         "openIssues": 351,
         "sizeKb": 4287
@@ -8432,10 +8432,10 @@
         "model-context-protocol"
       ],
       "metrics": {
-        "stars": 12,
-        "forks": 5,
+        "stars": 13,
+        "forks": 6,
         "subscribers": 0,
-        "openIssues": 2,
+        "openIssues": 3,
         "sizeKb": 78
       },
       "timestamps": {
@@ -8685,7 +8685,7 @@
       "topics": [],
       "metrics": {
         "stars": 0,
-        "forks": 0,
+        "forks": 1,
         "subscribers": 0,
         "openIssues": 0,
         "sizeKb": 37

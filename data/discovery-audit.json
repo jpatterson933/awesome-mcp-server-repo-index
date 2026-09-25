@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T11:01:06.664Z",
+  "generatedAt": "2026-09-25T11:00:55.813Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 455,
-    "included": 221,
-    "excluded": 234
+    "candidates": 458,
+    "included": 222,
+    "excluded": 236
   },
   "decisions": [
     {
@@ -1413,6 +1413,12 @@
       "reason": "index metadata signal"
     },
     {
+      "fullName": "lutu123-web/awesome-mcp-servers-by-category",
+      "url": "https://github.com/lutu123-web/awesome-mcp-servers-by-category",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
       "fullName": "m18897829375/awesome-mcp-servers",
       "url": "https://github.com/m18897829375/awesome-mcp-servers",
       "included": true,
@@ -1575,6 +1581,12 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
+      "fullName": "mizacu72/awesome-mcp",
+      "url": "https://github.com/mizacu72/awesome-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
       "fullName": "MobinX/awesome-mcp-list",
       "url": "https://github.com/MobinX/awesome-mcp-list",
       "included": true,
@@ -1601,6 +1613,12 @@
     {
       "fullName": "MorDavid/awesome-cyber-security-mcp",
       "url": "https://github.com/MorDavid/awesome-cyber-security-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "mouseart2025/awesome-cn-mcp",
+      "url": "https://github.com/mouseart2025/awesome-cn-mcp",
       "included": false,
       "reason": "description does not identify an index or curated collection"
     },

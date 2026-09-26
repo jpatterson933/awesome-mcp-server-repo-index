@@ -11,7 +11,7 @@
 
 **Compare the repository coverage and unique discoveries of curated MCP indexes.**
 
-![Generated](https://img.shields.io/badge/Generated-2026--09--25-059669?style=flat-square)
+![Generated](https://img.shields.io/badge/Generated-2026--09--26-059669?style=flat-square)
 
 </div>
 
@@ -29,11 +29,11 @@
       <sub>Indexes Analyzed</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/7348-1E40AF?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/7350-1E40AF?style=for-the-badge" /><br>
       <sub>Unique Linked Repos</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/27303-0891B2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/27304-0891B2?style=for-the-badge" /><br>
       <sub>Index → Repo Links</sub>
     </td>
   </tr>
@@ -50,7 +50,7 @@
 | 5 | [twzrd-sol/awesome-mcp-servers](https://github.com/twzrd-sol/awesome-mcp-servers) | Analyzed | 1,488 | 36 | 1,452 |
 | 6 | [BearRizgar/awesome-mcp-servers](https://github.com/BearRizgar/awesome-mcp-servers) | Analyzed | 1,443 | 164 | 1,279 |
 | 7 | [robotlearning123/awesome-mcp-servers](https://github.com/robotlearning123/awesome-mcp-servers) | Analyzed | 1,347 | 0 | 1,347 |
-| 8 | [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) | Analyzed | 1,319 | 198 | 1,121 |
+| 8 | [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) | Analyzed | 1,318 | 197 | 1,121 |
 | 9 | [uhub/awesome-mcp](https://github.com/uhub/awesome-mcp) | Analyzed | 1,023 | 581 | 442 |
 | 10 | [lilyth-y/awesome-mcp-servers](https://github.com/lilyth-y/awesome-mcp-servers) | Analyzed | 961 | 1 | 960 |
 | 11 | [habitoai/awesome-mcp-servers](https://github.com/habitoai/awesome-mcp-servers) | Analyzed | 673 | 2 | 671 |
@@ -61,10 +61,10 @@
 | 16 | [Built-By-Aura/awesome-mcp-servers-1](https://github.com/Built-By-Aura/awesome-mcp-servers-1) | Analyzed | 487 | 0 | 487 |
 | 17 | [romeo111/awesome-mcp-servers-2](https://github.com/romeo111/awesome-mcp-servers-2) | Analyzed | 487 | 0 | 487 |
 | 18 | [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | Analyzed | 487 | 0 | 487 |
-| 19 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | Analyzed | 479 | 167 | 312 |
+| 19 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | Analyzed | 485 | 169 | 316 |
 | 20 | [subratadasGit/awesome-mcp-servers](https://github.com/subratadasGit/awesome-mcp-servers) | Analyzed | 460 | 3 | 457 |
 | 21 | [lutu123-web/awesome-mcp-servers-by-category](https://github.com/lutu123-web/awesome-mcp-servers-by-category) | Analyzed | 377 | 112 | 265 |
-| 22 | [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | Analyzed | 320 | 50 | 270 |
+| 22 | [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | Analyzed | 322 | 51 | 271 |
 | 23 | [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | Analyzed | 253 | 60 | 193 |
 | 24 | [habitoai/Awesome-MCP-Servers-directory](https://github.com/habitoai/Awesome-MCP-Servers-directory) | Analyzed | 228 | 26 | 202 |
 | 25 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | Analyzed | 226 | 11 | 215 |
@@ -78,12 +78,12 @@
 | 33 | [buddies2705/awesome-crypto-mcp](https://github.com/buddies2705/awesome-crypto-mcp) | Analyzed | 151 | 62 | 89 |
 | 34 | [MCPHubCloud/awesome-mcp](https://github.com/MCPHubCloud/awesome-mcp) | Analyzed | 145 | 0 | 145 |
 | 35 | [BENZEMA216/awesome-map-mcp](https://github.com/BENZEMA216/awesome-map-mcp) | Analyzed | 143 | 137 | 6 |
-| 36 | [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) | Analyzed | 133 | 23 | 110 |
-| 37 | [hive-intel/awesome-crypto-mcp-servers](https://github.com/hive-intel/awesome-crypto-mcp-servers) | Analyzed | 132 | 60 | 72 |
+| 36 | [hive-intel/awesome-crypto-mcp-servers](https://github.com/hive-intel/awesome-crypto-mcp-servers) | Analyzed | 132 | 60 | 72 |
+| 37 | [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) | Analyzed | 123 | 19 | 104 |
 | 38 | [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) | Analyzed | 122 | 13 | 109 |
 | 39 | [MCPPlayground/awesome-mcp-servers](https://github.com/MCPPlayground/awesome-mcp-servers) | Analyzed | 120 | 71 | 49 |
 | 40 | [zackchewa/awesome-china-mcp](https://github.com/zackchewa/awesome-china-mcp) | Analyzed | 119 | 75 | 44 |
-| 41 | [AlexMili/Awesome-MCP](https://github.com/AlexMili/Awesome-MCP) | Analyzed | 112 | 24 | 88 |
+| 41 | [AlexMili/Awesome-MCP](https://github.com/AlexMili/Awesome-MCP) | Analyzed | 116 | 25 | 91 |
 | 42 | [ExMapo/awesome-productivity-mcp-servers](https://github.com/ExMapo/awesome-productivity-mcp-servers) | Analyzed | 106 | 0 | 106 |
 | 43 | [Epistates/awesome-mcp-devtools](https://github.com/Epistates/awesome-mcp-devtools) | Analyzed | 105 | 5 | 100 |
 | 44 | [rdmgator12/awesome-healthcare-mcp-servers](https://github.com/rdmgator12/awesome-healthcare-mcp-servers) | Analyzed | 103 | 82 | 21 |
@@ -157,7 +157,7 @@
 | 112 | [royyannick/awesome-blockchain-mcps](https://github.com/royyannick/awesome-blockchain-mcps) | Analyzed | 22 | 0 | 22 |
 | 113 | [BlockRunAI/awesome-healthcare-mcp](https://github.com/BlockRunAI/awesome-healthcare-mcp) | Analyzed | 20 | 0 | 20 |
 | 114 | [jpeslar1/awesome-linkedin-mcp](https://github.com/jpeslar1/awesome-linkedin-mcp) | Analyzed | 19 | 16 | 3 |
-| 115 | [ivishnuraj/awesome-mcp-servers](https://github.com/ivishnuraj/awesome-mcp-servers) | Analyzed | 19 | 4 | 15 |
+| 115 | [ivishnuraj/awesome-mcp-servers](https://github.com/ivishnuraj/awesome-mcp-servers) | Analyzed | 19 | 5 | 14 |
 | 116 | [tuanone123/awesome-social-commerce-mcp](https://github.com/tuanone123/awesome-social-commerce-mcp) | Analyzed | 19 | 3 | 16 |
 | 117 | [JohnnyFerranteTech/awesome-mcp-by-vertical](https://github.com/JohnnyFerranteTech/awesome-mcp-by-vertical) | Analyzed | 19 | 2 | 17 |
 | 118 | [LichAmnesia/awesome-mcp-clients](https://github.com/LichAmnesia/awesome-mcp-clients) | Analyzed | 18 | 5 | 13 |

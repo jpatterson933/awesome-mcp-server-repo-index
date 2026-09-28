@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T11:17:01.258Z",
+  "generatedAt": "2026-09-28T12:45:32.910Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
-    "candidates": 456,
+    "candidates": 458,
     "included": 222,
-    "excluded": 234
+    "excluded": 236
   },
   "decisions": [
     {
@@ -537,6 +537,12 @@
       "reason": "index metadata signal"
     },
     {
+      "fullName": "daniel-filius/awesome-mcp-brasil",
+      "url": "https://github.com/daniel-filius/awesome-mcp-brasil",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
       "fullName": "darjeeling/awesome-mcp-korea",
       "url": "https://github.com/darjeeling/awesome-mcp-korea",
       "included": true,
@@ -661,6 +667,12 @@
       "url": "https://github.com/eaccesdev/awesome-mcp-servers",
       "included": false,
       "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "EL4CTEO/awesome-mcp-servers",
+      "url": "https://github.com/EL4CTEO/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
     },
     {
       "fullName": "elasticflowapp/awesome-business-agents-skills-mcps",
@@ -857,12 +869,6 @@
     {
       "fullName": "gndps/awesome-mcp-server-managers",
       "url": "https://github.com/gndps/awesome-mcp-server-managers",
-      "included": true,
-      "reason": "index metadata signal"
-    },
-    {
-      "fullName": "godberrystudios/awesome-mcp-tools",
-      "url": "https://github.com/godberrystudios/awesome-mcp-tools",
       "included": true,
       "reason": "index metadata signal"
     },
@@ -1219,6 +1225,12 @@
       "url": "https://github.com/kbingol/awesome-aad-mcps",
       "included": false,
       "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "Kei000001/my-awesome-mcp-server",
+      "url": "https://github.com/Kei000001/my-awesome-mcp-server",
+      "included": false,
+      "reason": "individual MCP server"
     },
     {
       "fullName": "KeiosStarqua/TensorBlock-awesome-mcp-servers",

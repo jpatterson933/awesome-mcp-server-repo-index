@@ -11,7 +11,7 @@
 
 **Compare MCP indexes by visible GitHub activity and adoption signals.**
 
-![Generated](https://img.shields.io/badge/Generated-2026--09--28-059669?style=flat-square)
+![Generated](https://img.shields.io/badge/Generated-2026--09--29-059669?style=flat-square)
 
 </div>
 
@@ -33,16 +33,16 @@
 
 | Rank | Repository | Stars | Description |
 | ---: | ---------- | ---: | ----------- |
-| 🥇 1 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-95624-F5A623?style=flat-square) | A collection of MCP servers. |
-| 🥈 2 | [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | ![⭐](https://img.shields.io/badge/%E2%AD%90-6589-F5A623?style=flat-square) | A collection of MCP clients. |
-| 🥉 3 | [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-4329-F5A623?style=flat-square) | A curated list of Model Context Protocol (MCP) servers |
-| 4 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-1064-F5A623?style=flat-square) | A curated list of Model Context Protocol (MCP) servers  |
-| 5 | [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-1022-F5A623?style=flat-square) | A curated list of awesome MCP servers focused on DevOps tools and capabilities. |
-| 6 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | ![⭐](https://img.shields.io/badge/%E2%AD%90-884-F5A623?style=flat-square) | A concise list for mcp servers |
-| 7 | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-868-F5A623?style=flat-square) | A comprehensive collection of Model Context Protocol (MCP) servers |
-| 8 | [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-496-F5A623?style=flat-square) | 🔌 A curated list of OSINT MCP servers. Pull requests are welcomed! |
-| 9 | [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-488-F5A623?style=flat-square) | A collection of remote MCP servers. |
-| 10 | [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) | ![⭐](https://img.shields.io/badge/%E2%AD%90-485-F5A623?style=flat-square) | A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protoco... |
+| 🥇 1 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-95660-F5A623?style=flat-square) | A collection of MCP servers. |
+| 🥈 2 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | ![⭐](https://img.shields.io/badge/%E2%AD%90-884-F5A623?style=flat-square) | A concise list for mcp servers |
+| 🥉 3 | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-870-F5A623?style=flat-square) | A comprehensive collection of Model Context Protocol (MCP) servers |
+| 4 | [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-514-F5A623?style=flat-square) | A collection of remote MCP servers. |
+| 5 | [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) | ![⭐](https://img.shields.io/badge/%E2%AD%90-497-F5A623?style=flat-square) | 🔌 A curated list of OSINT MCP servers. Pull requests are welcomed! |
+| 6 | [BlockRunAI/awesome-finance-mcp](https://github.com/BlockRunAI/awesome-finance-mcp) | ![⭐](https://img.shields.io/badge/%E2%AD%90-218-F5A623?style=flat-square) | A curated list of MCP servers for AI finance agents |
+| 7 | [e2b-dev/awesome-mcp-gateways](https://github.com/e2b-dev/awesome-mcp-gateways) | ![⭐](https://img.shields.io/badge/%E2%AD%90-175-F5A623?style=flat-square) | A list of MCP gateways |
+| 8 | [AlexMili/Awesome-MCP](https://github.com/AlexMili/Awesome-MCP) | ![⭐](https://img.shields.io/badge/%E2%AD%90-146-F5A623?style=flat-square) | Awesome ModelContextProtocol resources - A curated list of MCP resources |
+| 9 | [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | ![⭐](https://img.shields.io/badge/%E2%AD%90-97-F5A623?style=flat-square) | A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC... |
+| 10 | [RankSpotAI/awesome-seo-mcp](https://github.com/RankSpotAI/awesome-seo-mcp) | ![⭐](https://img.shields.io/badge/%E2%AD%90-49-F5A623?style=flat-square) | A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI... |
 
 <a id="top-forked"></a>
 
@@ -52,16 +52,16 @@
 
 | Rank | Repository | Forks | Description |
 | ---: | ---------- | ---: | ----------- |
-| 🥇 1 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-16740-7C3AED?style=flat-square) | A collection of MCP servers. |
-| 🥈 2 | [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-2082-7C3AED?style=flat-square) | A curated list of Model Context Protocol (MCP) servers |
-| 🥉 3 | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-963-7C3AED?style=flat-square) | A comprehensive collection of Model Context Protocol (MCP) servers |
-| 4 | [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-686-7C3AED?style=flat-square) | A collection of remote MCP servers. |
-| 5 | [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-667-7C3AED?style=flat-square) | A collection of MCP clients. |
-| 6 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-372-7C3AED?style=flat-square) | A concise list for mcp servers |
-| 7 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-343-7C3AED?style=flat-square) | A curated list of Model Context Protocol (MCP) servers  |
-| 8 | [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-335-7C3AED?style=flat-square) | A curated list of awesome MCP servers focused on DevOps tools and capabilities. |
-| 9 | [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-312-7C3AED?style=flat-square) | A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protoco... |
-| 10 | [AlexMili/Awesome-MCP](https://github.com/AlexMili/Awesome-MCP) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-129-7C3AED?style=flat-square) | Awesome ModelContextProtocol resources - A curated list of MCP resources |
+| 🥇 1 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-16790-7C3AED?style=flat-square) | A collection of MCP servers. |
+| 🥈 2 | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-980-7C3AED?style=flat-square) | A comprehensive collection of Model Context Protocol (MCP) servers |
+| 🥉 3 | [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-726-7C3AED?style=flat-square) | A collection of remote MCP servers. |
+| 4 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-377-7C3AED?style=flat-square) | A concise list for mcp servers |
+| 5 | [AlexMili/Awesome-MCP](https://github.com/AlexMili/Awesome-MCP) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-129-7C3AED?style=flat-square) | Awesome ModelContextProtocol resources - A curated list of MCP resources |
+| 6 | [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-111-7C3AED?style=flat-square) | 🔌 A curated list of OSINT MCP servers. Pull requests are welcomed! |
+| 7 | [BlockRunAI/awesome-finance-mcp](https://github.com/BlockRunAI/awesome-finance-mcp) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-98-7C3AED?style=flat-square) | A curated list of MCP servers for AI finance agents |
+| 8 | [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-85-7C3AED?style=flat-square) | Curated list of Model Context Protocol (MCP) servers, clients, and frameworks. Automatically update... |
+| 9 | [e2b-dev/awesome-mcp-gateways](https://github.com/e2b-dev/awesome-mcp-gateways) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-80-7C3AED?style=flat-square) | A list of MCP gateways |
+| 10 | [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | ![🍴](https://img.shields.io/badge/%F0%9F%8D%B4-69-7C3AED?style=flat-square) | A Curated List of MCP Servers, Clients and Toolkits |
 
 <a id="top-watched"></a>
 
@@ -72,15 +72,15 @@
 | Rank | Repository | Subscribers | Description |
 | ---: | ---------- | ---: | ----------- |
 | 🥇 1 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-52-0891B2?style=flat-square) | A collection of MCP servers. |
-| 🥈 2 | [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-50-0891B2?style=flat-square) | A curated list of Model Context Protocol (MCP) servers |
-| 🥉 3 | [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-36-0891B2?style=flat-square) | A collection of MCP clients. |
-| 4 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-11-0891B2?style=flat-square) | A concise list for mcp servers |
-| 5 | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-9-0891B2?style=flat-square) | A comprehensive collection of Model Context Protocol (MCP) servers |
-| 6 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-9-0891B2?style=flat-square) | A curated list of Model Context Protocol (MCP) servers  |
-| 7 | [SciSharp/Awesome-DotNET-MCP](https://github.com/SciSharp/Awesome-DotNET-MCP) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-9-0891B2?style=flat-square) | Awesome ModelContextProtocol resources - A curated list of MCP DotNET resources |
-| 8 | [PipedreamHQ/awesome-mcp-servers](https://github.com/PipedreamHQ/awesome-mcp-servers) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-9-0891B2?style=flat-square) | A collection of MCP servers |
-| 9 | [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-8-0891B2?style=flat-square) | A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protoco... |
-| 10 | [ChatGPTNextWeb/NextChat-MCP-Awesome](https://github.com/ChatGPTNextWeb/NextChat-MCP-Awesome) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-7-0891B2?style=flat-square) | NextChat mcp server collection |
+| 🥈 2 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-11-0891B2?style=flat-square) | A concise list for mcp servers |
+| 🥉 3 | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-9-0891B2?style=flat-square) | A comprehensive collection of Model Context Protocol (MCP) servers |
+| 4 | [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-6-0891B2?style=flat-square) | 🔌 A curated list of OSINT MCP servers. Pull requests are welcomed! |
+| 5 | [e2b-dev/awesome-mcp-gateways](https://github.com/e2b-dev/awesome-mcp-gateways) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-5-0891B2?style=flat-square) | A list of MCP gateways |
+| 6 | [AlexMili/Awesome-MCP](https://github.com/AlexMili/Awesome-MCP) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-4-0891B2?style=flat-square) | Awesome ModelContextProtocol resources - A curated list of MCP resources |
+| 7 | [mcp-security-project/awesome-agentic-mcp-security](https://github.com/mcp-security-project/awesome-agentic-mcp-security) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-3-0891B2?style=flat-square) | Awesome Agentic MCP Security List |
+| 8 | [JustInCache/awesome-mcp-collection](https://github.com/JustInCache/awesome-mcp-collection) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-2-0891B2?style=flat-square) | The most comprehensive, curated collection of MCP servers with ready-to-use configurations |
+| 9 | [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-2-0891B2?style=flat-square) | A curated, DevOps-focused list of Model Context Protocol (MCP) servers—covering source control, IaC... |
+| 10 | [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | ![👀](https://img.shields.io/badge/%F0%9F%91%80-2-0891B2?style=flat-square) | A Curated List of MCP Servers, Clients and Toolkits |
 
 <a id="top-issues"></a>
 
@@ -90,16 +90,16 @@
 
 | Rank | Repository | Open Issues + PRs | Description |
 | ---: | ---------- | ---: | ----------- |
-| 🥇 1 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-2496-DC2626?style=flat-square) | A collection of MCP servers. |
-| 🥈 2 | [Appnova-EU-OU/awesome-remote-mcp-servers](https://github.com/Appnova-EU-OU/awesome-remote-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-868-DC2626?style=flat-square) | A curated list of remote & hosted MCP (Model Context Protocol) servers — no local setup required |
-| 🥉 3 | [fuzzylabs/awesome-secure-mcp-servers](https://github.com/fuzzylabs/awesome-secure-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-488-DC2626?style=flat-square) | A curated list of Model Context Protocol (MCP) servers with comprehensive security validation using... |
-| 4 | [YuzeHao2023/Awesome-MCP-Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-368-DC2626?style=flat-square) | A curated list of Model Context Protocol (MCP) servers  |
-| 5 | [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-275-DC2626?style=flat-square) | A collection of remote MCP servers. |
-| 6 | [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-157-DC2626?style=flat-square) | A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protoco... |
-| 7 | [ever-works/awesome-mcp-servers](https://github.com/ever-works/awesome-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-137-DC2626?style=flat-square) | A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. - http... |
-| 8 | [mctrinh/awesome-mcp-servers](https://github.com/mctrinh/awesome-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-110-DC2626?style=flat-square) | A curated list of excellent Model Context Protocol (MCP) servers. |
-| 9 | [sylviangth/awesome-remote-mcp-servers](https://github.com/sylviangth/awesome-remote-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-106-DC2626?style=flat-square) | A curated list of Hosted & Managed Model Context Protocol (MCP) Servers accessible via a simple URL... |
-| 10 | [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-103-DC2626?style=flat-square) | A collection of MCP clients. |
+| 🥇 1 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-2551-DC2626?style=flat-square) | A collection of MCP servers. |
+| 🥈 2 | [Appnova-EU-OU/awesome-remote-mcp-servers](https://github.com/Appnova-EU-OU/awesome-remote-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-894-DC2626?style=flat-square) | A curated list of remote & hosted MCP (Model Context Protocol) servers — no local setup required |
+| 🥉 3 | [fuzzylabs/awesome-secure-mcp-servers](https://github.com/fuzzylabs/awesome-secure-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-489-DC2626?style=flat-square) | A curated list of Model Context Protocol (MCP) servers with comprehensive security validation using... |
+| 4 | [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-315-DC2626?style=flat-square) | A collection of remote MCP servers. |
+| 5 | [DhanushNehru/awesome-mcp-servers](https://github.com/DhanushNehru/awesome-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-46-DC2626?style=flat-square) | A curated list of awesome Model Context Protocol (MCP) servers, tools, SDKs and resources for AI as... |
+| 6 | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-35-DC2626?style=flat-square) | A comprehensive collection of Model Context Protocol (MCP) servers |
+| 7 | [BlockRunAI/awesome-finance-mcp](https://github.com/BlockRunAI/awesome-finance-mcp) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-26-DC2626?style=flat-square) | A curated list of MCP servers for AI finance agents |
+| 8 | [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-24-DC2626?style=flat-square) | A Curated List of MCP Servers, Clients and Toolkits |
+| 9 | [wundercorp/awesome-mcp](https://github.com/wundercorp/awesome-mcp) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-23-DC2626?style=flat-square) | Curated directory of Model Context Protocol servers, tools, transports, categories, and contributio... |
+| 10 | [JustInCache/awesome-mcp-collection](https://github.com/JustInCache/awesome-mcp-collection) | ![🗂️](https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F-21-DC2626?style=flat-square) | The most comprehensive, curated collection of MCP servers with ready-to-use configurations |
 
 <a id="top-largest"></a>
 
@@ -110,15 +110,15 @@
 | Rank | Repository | Size (KB) | Description |
 | ---: | ---------- | ---: | ----------- |
 | 🥇 1 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-396394-64748B?style=flat-square) | A collection of MCP servers. |
-| 🥈 2 | [EL4CTEO/awesome-mcp-servers](https://github.com/EL4CTEO/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-145413-64748B?style=flat-square) | A collection of MCP servers. |
-| 🥉 3 | [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-113973-64748B?style=flat-square) | A collection of MCP clients. |
-| 4 | [AmazingBecca/awesome-mcp-clients](https://github.com/AmazingBecca/awesome-mcp-clients) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-113593-64748B?style=flat-square) | A collection of MCP clients. |
-| 5 | [malo2b/awesome-mcp-clients](https://github.com/malo2b/awesome-mcp-clients) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-83451-64748B?style=flat-square) | A collection of MCP clients. |
-| 6 | [Rodert/awesome-mcp](https://github.com/Rodert/awesome-mcp) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-55773-64748B?style=flat-square) | A curated list of MCP servers and related resources. |
-| 7 | [BearRizgar/awesome-mcp-servers](https://github.com/BearRizgar/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-54770-64748B?style=flat-square) | A collection of MCP servers. |
-| 8 | [dng-ngothanhloi/awesome-mcp-servers](https://github.com/dng-ngothanhloi/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-23987-64748B?style=flat-square) | A collection of MCP servers. |
-| 9 | [Built-By-Aura/awesome-mcp-servers](https://github.com/Built-By-Aura/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-21645-64748B?style=flat-square) | A collection of MCP servers. |
-| 10 | [jaguarkyng/awesome-mcp-servers](https://github.com/jaguarkyng/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-21631-64748B?style=flat-square) | A collection of MCP servers. |
+| 🥈 2 | [Rodert/awesome-mcp](https://github.com/Rodert/awesome-mcp) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-55910-64748B?style=flat-square) | A curated list of MCP servers and related resources. |
+| 🥉 3 | [BearRizgar/awesome-mcp-servers](https://github.com/BearRizgar/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-54770-64748B?style=flat-square) | A collection of MCP servers. |
+| 4 | [Built-By-Aura/awesome-mcp-servers](https://github.com/Built-By-Aura/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-21645-64748B?style=flat-square) | A collection of MCP servers. |
+| 5 | [jaguarkyng/awesome-mcp-servers](https://github.com/jaguarkyng/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-21631-64748B?style=flat-square) | A collection of MCP servers. |
+| 6 | [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-12071-64748B?style=flat-square) | A comprehensive collection of Model Context Protocol (MCP) servers |
+| 7 | [twzrd-sol/awesome-mcp-servers](https://github.com/twzrd-sol/awesome-mcp-servers) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-9687-64748B?style=flat-square) | A collection of MCP servers. |
+| 8 | [mphinance/awesome-broker-mcp](https://github.com/mphinance/awesome-broker-mcp) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-3893-64748B?style=flat-square) | Which brokers can an AI actually trade through? A verified directory of broker MCP servers — offici... |
+| 9 | [abordage/awesome-mcp](https://github.com/abordage/awesome-mcp) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-2700-64748B?style=flat-square) | Curated list of Model Context Protocol (MCP) servers, clients, and frameworks. Automatically update... |
+| 10 | [jpatterson933/awesome-mcp-server-repo-index](https://github.com/jpatterson933/awesome-mcp-server-repo-index) | ![💾](https://img.shields.io/badge/%F0%9F%92%BE-2215-64748B?style=flat-square) | A collection of existing actively managed or inactive awesome-mcp server collections |
 
 <hr>
 

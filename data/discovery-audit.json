@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T12:01:28.046Z",
+  "generatedAt": "2026-09-30T11:49:45.052Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
     "candidates": 99,
-    "included": 65,
-    "excluded": 34
+    "included": 66,
+    "excluded": 33
   },
   "decisions": [
     {
@@ -57,12 +57,6 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
-      "fullName": "awesome-town/canvas-mcp-node",
-      "url": "https://github.com/awesome-town/canvas-mcp-node",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
-    },
-    {
       "fullName": "awesome-town/canvas-mcp-skills",
       "url": "https://github.com/awesome-town/canvas-mcp-skills",
       "included": false,
@@ -103,6 +97,12 @@
       "url": "https://github.com/boarlabsxyz/awesome-mcp",
       "included": false,
       "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "BrethofAI/awesome-mcp-servers",
+      "url": "https://github.com/BrethofAI/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
     },
     {
       "fullName": "Built-By-Aura/awesome-mcp-servers",

@@ -11,7 +11,7 @@
 
 **Compare the repository coverage and unique discoveries of curated MCP indexes.**
 
-![Generated](https://img.shields.io/badge/Generated-2026--09--30-059669?style=flat-square)
+![Generated](https://img.shields.io/badge/Generated-2026--10--01-059669?style=flat-square)
 
 </div>
 
@@ -29,11 +29,11 @@
       <sub>Indexes Analyzed</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/5802-1E40AF?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/5807-1E40AF?style=for-the-badge" /><br>
       <sub>Unique Linked Repos</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/13397-0891B2?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/13403-0891B2?style=for-the-badge" /><br>
       <sub>Index → Repo Links</sub>
     </td>
   </tr>
@@ -52,16 +52,16 @@
 | 7 | [korchasa/awesome-mcp](https://github.com/korchasa/awesome-mcp) | Analyzed | 500 | 196 | 304 |
 | 8 | [MobinX/awesome-mcp-list](https://github.com/MobinX/awesome-mcp-list) | Analyzed | 498 | 190 | 308 |
 | 9 | [Built-By-Aura/awesome-mcp-servers-1](https://github.com/Built-By-Aura/awesome-mcp-servers-1) | Analyzed | 487 | 91 | 396 |
-| 10 | [lutu123-web/awesome-mcp-servers-by-category](https://github.com/lutu123-web/awesome-mcp-servers-by-category) | Analyzed | 377 | 119 | 258 |
-| 11 | [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | Analyzed | 323 | 64 | 259 |
-| 12 | [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | Analyzed | 253 | 68 | 185 |
+| 10 | [lutu123-web/awesome-mcp-servers-by-category](https://github.com/lutu123-web/awesome-mcp-servers-by-category) | Analyzed | 377 | 120 | 257 |
+| 11 | [Sagargupta16/awesome-mcp-servers](https://github.com/Sagargupta16/awesome-mcp-servers) | Analyzed | 325 | 65 | 260 |
+| 12 | [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) | Analyzed | 253 | 69 | 184 |
 | 13 | [getmoxlade/awesome-mcp-data](https://github.com/getmoxlade/awesome-mcp-data) | Analyzed | 215 | 96 | 119 |
 | 14 | [Built-By-Aura/awesome-mcp-servers-2](https://github.com/Built-By-Aura/awesome-mcp-servers-2) | Analyzed | 177 | 12 | 165 |
 | 15 | [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | Analyzed | 173 | 38 | 135 |
-| 16 | [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) | Analyzed | 127 | 21 | 106 |
+| 16 | [mcpHQ/awesome-mcp-servers](https://github.com/mcpHQ/awesome-mcp-servers) | Analyzed | 128 | 21 | 107 |
 | 17 | [MCPPlayground/awesome-mcp-servers](https://github.com/MCPPlayground/awesome-mcp-servers) | Analyzed | 120 | 80 | 40 |
 | 18 | [zackchewa/awesome-china-mcp](https://github.com/zackchewa/awesome-china-mcp) | Analyzed | 120 | 80 | 40 |
-| 19 | [AlexMili/Awesome-MCP](https://github.com/AlexMili/Awesome-MCP) | Analyzed | 117 | 28 | 89 |
+| 19 | [AlexMili/Awesome-MCP](https://github.com/AlexMili/Awesome-MCP) | Analyzed | 118 | 28 | 90 |
 | 20 | [ExMapo/awesome-productivity-mcp-servers](https://github.com/ExMapo/awesome-productivity-mcp-servers) | Analyzed | 106 | 0 | 106 |
 | 21 | [Epistates/awesome-mcp-devtools](https://github.com/Epistates/awesome-mcp-devtools) | Analyzed | 105 | 51 | 54 |
 | 22 | [PrincejiCoder/awesome-mcp](https://github.com/PrincejiCoder/awesome-mcp) | Analyzed | 96 | 42 | 54 |
@@ -90,7 +90,7 @@
 | 45 | [tuanone123/awesome-mcp-testing](https://github.com/tuanone123/awesome-mcp-testing) | Analyzed | 22 | 8 | 14 |
 | 46 | [ivishnuraj/awesome-mcp-servers](https://github.com/ivishnuraj/awesome-mcp-servers) | Analyzed | 19 | 8 | 11 |
 | 47 | [tuanone123/awesome-social-commerce-mcp](https://github.com/tuanone123/awesome-social-commerce-mcp) | Analyzed | 19 | 3 | 16 |
-| 48 | [bhavyshekhaliya/awesome-public-mcp-servers](https://github.com/bhavyshekhaliya/awesome-public-mcp-servers) | Analyzed | 17 | 1 | 16 |
+| 48 | [bhavyshekhaliya/awesome-public-mcp-servers](https://github.com/bhavyshekhaliya/awesome-public-mcp-servers) | Analyzed | 19 | 2 | 17 |
 | 49 | [tuanone123/awesome-mcp-registries](https://github.com/tuanone123/awesome-mcp-registries) | Analyzed | 12 | 2 | 10 |
 | 50 | [fuzzylabs/awesome-secure-mcp-servers](https://github.com/fuzzylabs/awesome-secure-mcp-servers) | Analyzed | 10 | 1 | 9 |
 | 51 | [mcp-security-project/awesome-agentic-mcp-security](https://github.com/mcp-security-project/awesome-agentic-mcp-security) | Analyzed | 7 | 2 | 5 |

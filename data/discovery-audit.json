@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T12:19:23.967Z",
+  "generatedAt": "2026-10-02T11:47:39.932Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
     "candidates": 99,
-    "included": 66,
-    "excluded": 33
+    "included": 67,
+    "excluded": 32
   },
   "decisions": [
     {
@@ -53,12 +53,6 @@
     {
       "fullName": "avinash1441/awesome-mcp-korea",
       "url": "https://github.com/avinash1441/awesome-mcp-korea",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
-    },
-    {
-      "fullName": "awesome-town/canvas-mcp-skills",
-      "url": "https://github.com/awesome-town/canvas-mcp-skills",
       "included": false,
       "reason": "description does not identify an index or curated collection"
     },
@@ -425,6 +419,12 @@
     {
       "fullName": "Sagargupta16/awesome-mcp-servers",
       "url": "https://github.com/Sagargupta16/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
+      "fullName": "SciSharp/Awesome-DotNET-MCP",
+      "url": "https://github.com/SciSharp/Awesome-DotNET-MCP",
       "included": true,
       "reason": "index metadata signal"
     },

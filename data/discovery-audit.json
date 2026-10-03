@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T11:47:39.932Z",
+  "generatedAt": "2026-10-03T11:00:59.370Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
     "candidates": 99,
-    "included": 67,
-    "excluded": 32
+    "included": 65,
+    "excluded": 34
   },
   "decisions": [
     {
@@ -81,12 +81,6 @@
       "reason": "index metadata signal"
     },
     {
-      "fullName": "BlockRunAI/awesome-finance-mcp",
-      "url": "https://github.com/BlockRunAI/awesome-finance-mcp",
-      "included": true,
-      "reason": "index metadata signal"
-    },
-    {
       "fullName": "boarlabsxyz/awesome-mcp",
       "url": "https://github.com/boarlabsxyz/awesome-mcp",
       "included": false,
@@ -129,22 +123,28 @@
       "reason": "index metadata signal"
     },
     {
-      "fullName": "citrus02/awesome-mcp-games-cn",
-      "url": "https://github.com/citrus02/awesome-mcp-games-cn",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
-    },
-    {
       "fullName": "cmenge/awesome-b2b-mcp",
       "url": "https://github.com/cmenge/awesome-b2b-mcp",
       "included": true,
       "reason": "index metadata signal"
     },
     {
+      "fullName": "CodesbyFebin/awesome-mcp-servers-2027",
+      "url": "https://github.com/CodesbyFebin/awesome-mcp-servers-2027",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
       "fullName": "collabnix/awesome-mcp-lists",
       "url": "https://github.com/collabnix/awesome-mcp-lists",
       "included": true,
       "reason": "index metadata signal"
+    },
+    {
+      "fullName": "CSOAI-ORG/awesome-mcp-security-tools",
+      "url": "https://github.com/CSOAI-ORG/awesome-mcp-security-tools",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "Cubiczan/awesome-mcp-servers",
@@ -231,6 +231,12 @@
       "reason": "index metadata signal"
     },
     {
+      "fullName": "habitoai/awesome-mcp-servers",
+      "url": "https://github.com/habitoai/awesome-mcp-servers",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
       "fullName": "heygen-mcp/awesome-blader-humanizer",
       "url": "https://github.com/heygen-mcp/awesome-blader-humanizer",
       "included": true,
@@ -239,12 +245,6 @@
     {
       "fullName": "ivishnuraj/awesome-mcp-servers",
       "url": "https://github.com/ivishnuraj/awesome-mcp-servers",
-      "included": true,
-      "reason": "index metadata signal"
-    },
-    {
-      "fullName": "jaguarkyng/awesome-mcp-servers",
-      "url": "https://github.com/jaguarkyng/awesome-mcp-servers",
       "included": true,
       "reason": "index metadata signal"
     },
@@ -321,6 +321,12 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
+      "fullName": "MCP-ADMIN-cloud/AWESOME-MCP-SERVERS-LIST",
+      "url": "https://github.com/MCP-ADMIN-cloud/AWESOME-MCP-SERVERS-LIST",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
       "fullName": "mcp-security-project/awesome-agentic-mcp-security",
       "url": "https://github.com/mcp-security-project/awesome-agentic-mcp-security",
       "included": true,
@@ -335,12 +341,6 @@
     {
       "fullName": "MCPPlayground/awesome-mcp-servers",
       "url": "https://github.com/MCPPlayground/awesome-mcp-servers",
-      "included": true,
-      "reason": "index metadata signal"
-    },
-    {
-      "fullName": "MhmmdFaizal04/awesome-mcp-servers",
-      "url": "https://github.com/MhmmdFaizal04/awesome-mcp-servers",
       "included": true,
       "reason": "index metadata signal"
     },
@@ -441,8 +441,8 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
-      "fullName": "Shyboy0499/awesome-deepseek-mcp",
-      "url": "https://github.com/Shyboy0499/awesome-deepseek-mcp",
+      "fullName": "SohniSwatantra/awesome-mcp-apps",
+      "url": "https://github.com/SohniSwatantra/awesome-mcp-apps",
       "included": true,
       "reason": "index metadata signal"
     },

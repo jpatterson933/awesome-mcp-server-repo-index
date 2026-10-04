@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T11:00:59.370Z",
+  "generatedAt": "2026-10-04T11:42:44.986Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
     "candidates": 99,
-    "included": 65,
-    "excluded": 34
+    "included": 64,
+    "excluded": 35
   },
   "decisions": [
     {
@@ -183,6 +183,12 @@
       "reason": "index metadata signal"
     },
     {
+      "fullName": "elf004-star/awesome-well-mcp",
+      "url": "https://github.com/elf004-star/awesome-well-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
       "fullName": "enhansome/enhansome-Awesome-MCP",
       "url": "https://github.com/enhansome/enhansome-Awesome-MCP",
       "included": false,
@@ -241,6 +247,12 @@
       "url": "https://github.com/heygen-mcp/awesome-blader-humanizer",
       "included": true,
       "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ianwieds/awesome-mcp-gateways",
+      "url": "https://github.com/ianwieds/awesome-mcp-gateways",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "ivishnuraj/awesome-mcp-servers",
@@ -313,12 +325,6 @@
       "url": "https://github.com/lutu123-web/awesome-mcp-servers-by-category",
       "included": true,
       "reason": "index metadata signal"
-    },
-    {
-      "fullName": "manil2020/awesome-mcp-servers",
-      "url": "https://github.com/manil2020/awesome-mcp-servers",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "MCP-ADMIN-cloud/AWESOME-MCP-SERVERS-LIST",
@@ -491,12 +497,6 @@
     {
       "fullName": "tuanone123/awesome-mcp-testing",
       "url": "https://github.com/tuanone123/awesome-mcp-testing",
-      "included": true,
-      "reason": "index metadata signal"
-    },
-    {
-      "fullName": "tuanone123/awesome-social-commerce-mcp",
-      "url": "https://github.com/tuanone123/awesome-social-commerce-mcp",
       "included": true,
       "reason": "index metadata signal"
     },

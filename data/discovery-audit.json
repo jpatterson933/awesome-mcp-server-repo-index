@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T11:42:44.986Z",
+  "generatedAt": "2026-10-05T13:26:50.575Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
     "candidates": 99,
-    "included": 64,
-    "excluded": 35
+    "included": 62,
+    "excluded": 37
   },
   "decisions": [
     {
@@ -43,6 +43,12 @@
       "url": "https://github.com/AlexMili/Awesome-MCP",
       "included": true,
       "reason": "index metadata signal"
+    },
+    {
+      "fullName": "anhmtk/awesome-mcp-dynamic",
+      "url": "https://github.com/anhmtk/awesome-mcp-dynamic",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "Appnova-EU-OU/awesome-remote-mcp-servers",
@@ -247,6 +253,12 @@
       "url": "https://github.com/heygen-mcp/awesome-blader-humanizer",
       "included": true,
       "reason": "index metadata signal"
+    },
+    {
+      "fullName": "ianwieds/awesome-mcp-apps",
+      "url": "https://github.com/ianwieds/awesome-mcp-apps",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "ianwieds/awesome-mcp-gateways",
@@ -459,12 +471,6 @@
       "reason": "index metadata signal"
     },
     {
-      "fullName": "stonianua/awesome-mcp-servers-punkpeye-empty-scratch",
-      "url": "https://github.com/stonianua/awesome-mcp-servers-punkpeye-empty-scratch",
-      "included": false,
-      "reason": "description does not identify an index or curated collection"
-    },
-    {
       "fullName": "stsqit/mcphq-awesome-mcp-servers",
       "url": "https://github.com/stsqit/mcphq-awesome-mcp-servers",
       "included": false,
@@ -485,18 +491,6 @@
     {
       "fullName": "timunbasah3/awesome-mcp",
       "url": "https://github.com/timunbasah3/awesome-mcp",
-      "included": true,
-      "reason": "index metadata signal"
-    },
-    {
-      "fullName": "tuanone123/awesome-mcp-registries",
-      "url": "https://github.com/tuanone123/awesome-mcp-registries",
-      "included": true,
-      "reason": "index metadata signal"
-    },
-    {
-      "fullName": "tuanone123/awesome-mcp-testing",
-      "url": "https://github.com/tuanone123/awesome-mcp-testing",
       "included": true,
       "reason": "index metadata signal"
     },
@@ -529,6 +523,12 @@
       "url": "https://github.com/WagnerAgent/awesome-mcp-servers-devops",
       "included": true,
       "reason": "index metadata signal"
+    },
+    {
+      "fullName": "weinni2000/awesome-odoo-mcp",
+      "url": "https://github.com/weinni2000/awesome-odoo-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
     },
     {
       "fullName": "wundercorp/awesome-mcp",

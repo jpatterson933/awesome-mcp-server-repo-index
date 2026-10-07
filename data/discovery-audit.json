@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T12:39:41.823Z",
+  "generatedAt": "2026-10-07T12:32:56.646Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
     "candidates": 99,
-    "included": 62,
-    "excluded": 37
+    "included": 60,
+    "excluded": 39
   },
   "decisions": [
     {
@@ -387,6 +387,12 @@
       "reason": "index metadata signal"
     },
     {
+      "fullName": "PejarRu/awesome-mcp-servers",
+      "url": "https://github.com/PejarRu/awesome-mcp-servers",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
       "fullName": "PrincejiCoder/awesome-mcp",
       "url": "https://github.com/PrincejiCoder/awesome-mcp",
       "included": true,
@@ -459,12 +465,6 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
-      "fullName": "SohniSwatantra/awesome-mcp-apps",
-      "url": "https://github.com/SohniSwatantra/awesome-mcp-apps",
-      "included": true,
-      "reason": "index metadata signal"
-    },
-    {
       "fullName": "soxoj/awesome-osint-mcp-servers",
       "url": "https://github.com/soxoj/awesome-osint-mcp-servers",
       "included": true,
@@ -495,12 +495,6 @@
       "reason": "index metadata signal"
     },
     {
-      "fullName": "twzrd-sol/awesome-mcp-servers",
-      "url": "https://github.com/twzrd-sol/awesome-mcp-servers",
-      "included": true,
-      "reason": "index metadata signal"
-    },
-    {
       "fullName": "uhub/awesome-mcp",
       "url": "https://github.com/uhub/awesome-mcp",
       "included": true,
@@ -527,6 +521,12 @@
     {
       "fullName": "weinni2000/awesome-odoo-mcp",
       "url": "https://github.com/weinni2000/awesome-odoo-mcp",
+      "included": false,
+      "reason": "description does not identify an index or curated collection"
+    },
+    {
+      "fullName": "wheremind/awesome-hosted-mcp-servers",
+      "url": "https://github.com/wheremind/awesome-hosted-mcp-servers",
       "included": false,
       "reason": "description does not identify an index or curated collection"
     },

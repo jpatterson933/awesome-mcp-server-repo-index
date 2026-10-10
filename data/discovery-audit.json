@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T12:29:31.400Z",
+  "generatedAt": "2026-10-10T11:48:41.085Z",
   "query": "awesome-mcp in:name archived:false fork:false",
   "summary": {
     "candidates": 99,
@@ -387,6 +387,12 @@
       "reason": "description does not identify an index or curated collection"
     },
     {
+      "fullName": "mphinance/awesome-broker-mcp",
+      "url": "https://github.com/mphinance/awesome-broker-mcp",
+      "included": true,
+      "reason": "index metadata signal"
+    },
+    {
       "fullName": "PejarRu/awesome-mcp-servers",
       "url": "https://github.com/PejarRu/awesome-mcp-servers",
       "included": false,
@@ -541,12 +547,6 @@
       "url": "https://github.com/yms0527/awesome-mcp-servers",
       "included": false,
       "reason": "description does not identify an index or curated collection"
-    },
-    {
-      "fullName": "Yuz2023/Awesome-MCP-for-Power-Engineering",
-      "url": "https://github.com/Yuz2023/Awesome-MCP-for-Power-Engineering",
-      "included": true,
-      "reason": "index metadata signal"
     },
     {
       "fullName": "yzfly/Awesome-MCP-ZH",

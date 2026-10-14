@@ -81,6 +81,7 @@ GitHub candidates are discovered automatically, checked for index-oriented metad
 | MCP Server          | [mcpserver.cc](https://mcpserver.cc/)                    |
 | MCP Server Spot     | [mcpserverspot.com](https://www.mcpserverspot.com/)      |
 | MCP.Directory       | [mcp.directory](https://mcp.directory/)                  |
+| MCP Collection      | [mcpcollection.com](https://mcpcollection.com/)          |
 | MCP.so              | [mcp.so](https://mcp.so/)                                |
 | MCPM Registry       | [mcpm.sh/registry](https://www.mcpm.sh/registry/)        |
 | MCPServers.org      | [mcpservers.org](https://mcpservers.org/)                |

@@ -5,7 +5,7 @@
   "description": "Discovers and analyzes curated MCP index repositories",
   "type": "module",
   "engines": {
-    "node": ">=24"
+    "node": ">=24.22.1"
   },
   "scripts": {
     "build": "tsc",

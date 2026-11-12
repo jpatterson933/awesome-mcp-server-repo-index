@@ -87,6 +87,7 @@ GitHub candidates are discovered automatically, checked for index-oriented metad
 | PulseMCP            | [pulsemcp.com/servers](https://www.pulsemcp.com/servers) |
 | SkillFlow.builders  | [skillflow.builders](https://skillflow.builders/)        |
 | Smithery            | [smithery.ai](https://smithery.ai/)                      |
+| Socketlist          | [socketlist.com](https://socketlist.com/)                |
 | Statsnet MCP        | [statsnet.co](https://statsnet.co)                       |
 
 ## Scope

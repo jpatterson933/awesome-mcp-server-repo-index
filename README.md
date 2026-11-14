@@ -64,6 +64,7 @@ GitHub candidates are discovered automatically, checked for index-oriented metad
 
 | Platform            | Link                                                     |
 | ------------------- | -------------------------------------------------------- |
+| Agent Nexus         | [agentnexus.app](https://agentnexus.app/)                 |
 | AI Agents Directory | [aiagentsdirectory.com](https://aiagentsdirectory.com/)  |
 | awesome-mcp.tools   | [awesome-mcp.tools](https://awesome-mcp.tools/)          |
 | Cursor Directory    | [cursor.directory/mcp](https://cursor.directory/mcp)     |
